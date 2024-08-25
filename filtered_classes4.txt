@@ -1,0 +1,512 @@
+welding	Q131172
+ladder	Q168639
+Bolt	Q212792
+nut	Q11009
+box column drill	Q20820500
+tongs	Q3276479
+welding equipment	Q1613682
+hammer	Q25294
+pliers	Q13049940
+welder	Q836328
+Clamp	Q334471
+machine press	Q674484
+anvil	Q104363
+pulley	Q48378
+axle	Q188209
+screwdriver	Q161071
+milling machine	Q623106
+gearbox	Q6497460
+Bearings	Q16243277
+drill bit	Q335283
+circular saw	Q1141837
+lathe	Q187833
+steel coil	Q1107164
+drilling rig	Q12688575
+Rotary table	Q3512781
+saw	Q125356
+spirit level	Q207988
+LED lamp	Q1553201
+hand saw	Q2750929
+Staples	Q2227729
+fasteners	Q107380930
+diagonal pliers	Q245934
+exothermic welding	Q910714
+grinding machine	Q245761
+Metal coil fabrication	Q123008860
+laser cutter	Q124816652
+honing steel	Q520049
+machinist	Q196721
+Vice Grip	Q26156693
+hand tool	Q2578402
+industrial robot	Q1128980
+Spirit levels	Q53366902
+production facility	Q9386255
+Sander	Q18670563
+workbench	Q347690
+rotary hammer	Q1932875
+table saw	Q2365675
+screw press	Q1414307
+construction site	Q360418
+metal lathe	Q3681647
+steam hammer	Q19767
+Screws	Q36935835
+chainsaw	Q208040
+personal protective equipment	Q1333024
+helmet	Q173603
+bandsaw	Q806378
+sawing	Q3954248
+Hooks	Q982654
+Rivets	Q4395226
+Archimedes' screw	Q189155
+drill	Q58964
+reamer	Q863835
+lock	Q105731
+locker	Q1195470
+rail fastening system	Q1081004
+screw	Q11022
+turnstile	Q1146283
+lockout-tagout	Q681384
+scissors	Q40847
+ruler	Q1097498
+rope	Q31029
+hoist	Q1411613
+Pinking shears	Q3747917
+blacksmith's tongs	Q98558226
+duct tape	Q1030313
+lathe center	Q2603338
+Nails	Q17325289
+factory	Q83405
+oscilloscope	Q174320
+soldering iron	Q623402
+Hand Tools	Q50321273
+excavator	Q182661
+blacksmithing	Q11204681
+ball bearing	Q11432170
+cogwheel	Q143873
+T-Square	Q843852
+stump grinder	Q2036130
+sawmill	Q505213
+bolt cutter	Q1253857
+wire	Q551997
+dispenser	Q27098499
+axe	Q39397
+zipper	Q101761
+binder clip	Q1435328
+bench grinder	Q2564323
+hex key	Q16953
+utility knife	Q23769
+woodworking chisel	Q13221843
+induction heating	Q1155653
+brazing	Q13389141
+screwdriver bit	Q1519190
+fuse	Q182221
+duct	Q1453244
+crucible tongs	Q10928827
+brace	Q2662870
+crane	Q178692
+scroll saw	Q1183768
+rasp	Q277885
+End mill	Q8194616
+smithy	Q40558
+GAS TANKS	Q126259308
+Ball Bearings for Radial-Thrust Loading	Q59628268
+rolling-element bearing	Q1335987
+machine screw	Q107437313
+CNC machine	Q13231055
+power miter saw	Q373255
+telescopic crane	Q2106694
+cordless drill	Q456101
+goggles	Q72797
+cable tie	Q1500589
+belt sander	Q806370
+chisel	Q474188
+extension cord	Q1894990
+file	Q193142
+lifting hook	Q495451
+machine	Q11019
+drilling	Q890886
+crosscut saw	Q291319
+integrated circuit	Q80831
+rolling mill	Q1049792
+Safety helmet	Q124445592
+mallet	Q3202271
+joinery	Q2183679
+casting	Q496098
+keyhole saw	Q765735
+scale	Q188488
+cutting tool	Q1760958
+woodworking machine	Q2027611
+glove	Q169031
+extruder	Q1366621
+Pick tool for road milling	Q124654094
+rubber band	Q256817
+Taps	Q1213746
+pipe	Q104526
+Swiss Army knife	Q23719
+angle grinder	Q827274
+Set Squares	Q108431872
+wood saw	Q70802185
+heating furnace	Q1709184
+combination lock	Q2374786
+self-tapping screw	Q2988641
+grinding wheel	Q1931980
+lumber	Q1370714
+woodturning lathe	Q239990
+hand drill	Q1133232
+Steel Foundry	Q21620084
+bobbin	Q1520790
+Heat torch	Q5693340
+welding helmet	Q787354
+blacksmith's hammer	Q2246394
+steel bar	Q5405051
+rock drill	Q11941822
+shielded metal arc welding	Q1992360
+milling cutter	Q1078463
+hole saw	Q764324
+kill switch	Q2001958
+gas tungsten arc welding	Q1627310
+conveyor	Q1479946
+Ceramic molding	Q5063668
+hinge	Q244330
+Ignition switch	Q4993268
+hearing protection	Q13405515
+industrial equipment	Q3045515
+heat cutter	Q12058409
+stapler	Q489157
+CNC lathe	Q1023915
+sawhorse	Q1421844
+robot welding	Q2327264
+threaded insert	Q1520669
+steam engine	Q12760
+sharpening stone	Q507559
+tie-down straps	Q1277336
+vice	Q1411242
+Air hose	Q105719289
+electric screwdriver	Q110705646
+machine interface	Q81334
+Dimple keys	Q11320183
+worm drive	Q12529
+crucible	Q390417
+auger	Q1142501
+belt	Q134560
+bulldozer	Q131677
+well drilling	Q14693887
+nameplate	Q2713450
+angle bracket	Q39076453
+crawler excavator	Q5182961
+total station	Q641296
+drywall anchor	Q56284371
+concrete mixer	Q831584
+glue	Q500548
+rivet gun	Q7338813
+electric motor	Q72313
+Welding torch	Q119823051
+hook	Q4243098
+tape dispenser	Q331533
+Earth anchor	Q18019983
+construction machine	Q102310586
+nail gun	Q77257
+band saw	Q116971275
+funnel	Q29957
+door hinge	Q2464427
+clipboard	Q244909
+belt	Q623755
+paper cutter	Q2205714
+machine tool	Q19768
+caliper	Q12408
+trip hammer	Q2121955
+forklift truck	Q41577
+Welders	Q108699591
+woodchipper	Q1621575
+hammer drill	Q19599600
+filter press	Q647023
+printing machine	Q12820205
+torque screwdriver	Q1256552
+telescopic handler	Q1943369
+workpiece	Q2560552
+Casting mold	Q119519004
+saw blade	Q4683254
+Forge Hammer	Q129260716
+woodworking workbench	Q1621597
+driller	Q5307564
+brick	Q40089
+steel mill	Q2069494
+lathe operator	Q28933489
+mechanical saw	Q70875100
+ruler	Q104555
+wire brush	Q45299
+stonemason	Q328325
+head saw	Q11993964
+chop saw	Q128602183
+bow saw	Q3744469
+split pin	Q1412569
+fuel tank	Q1411232
+welding goggles	Q7980875
+barrel	Q10289
+hydraulic rescue tool	Q611035
+Tool cabinet	Q1275728
+water wheel	Q146728
+nail	Q37077
+Circular saw blade	Q123318722
+claw hammer	Q3945253
+random orbital sander	Q2455671
+Control Panel	Q1081102
+welding joint	Q7980877
+concrete saw	Q5159079
+drill press	Q2211295
+Light Bulbs	Q28568592
+Screw Driver	Q79501070
+Cordless drills	Q68063456
+Mixers	Q80857826
+Safety Pins	Q11999067
+hex drive	Q23824436
+blade	Q330946
+Zippers	Q48818852
+Clamps	Q112589797
+metalworking	Q953045
+laser cutting	Q593053
+beams	Q1206419
+epoxy resins	Q143983
+superglue	Q107407155
+hard hat	Q2058262
+C-clamp	Q5005931
+Metal Bar	Q100892463
+Washers	Q11945252
+protective gloves	Q2252300
+twist drill	Q56296876
+level	Q1046315
+pulper	Q645424
+drawing pin	Q406839
+brackets	Q174565
+paper clip	Q8353
+rail fastenings	Q2234662
+grinding wheels & point	Q116971036
+Riveters	Q76548573
+Hammers	Q37489626
+metal casting	Q9268371
+angle brackets	Q110502275
+demolition shears	Q306848
+Plain Bearings	Q59629990
+wire cutters	Q1255405
+mechanical device	Q1882685
+electronics	Q11650
+rotor	Q193466
+knife	Q32489
+watermill	Q185187
+wheel	Q446
+welding glass	Q112265432
+Steel coils	Q44545890
+Drilling Machines, Surface	Q26372504
+lumber yard	Q10436913
+Foundries	Q123130999
+resin casting	Q906963
+Excavators	Q105376597
+oxy-fuel cutting	Q33101028
+die casting	Q3325511
+arc welding	Q422937
+semi-finished casting product	Q867705
+face shield	Q5428384
+knurling tool	Q106827110
+measuring instrument	Q2041172
+gauge block	Q1340688
+wood screw	Q54806448
+road roller	Q216842
+millstone	Q670985
+caulking gun	Q1734658
+heavy equipment	Q874311
+cable cutter	Q11301405
+hatchet	Q672890
+wire saw	Q689574
+bookbinding press	Q107196990
+Forges	Q243155
+grindstone	Q4990615
+thread-locking fluid	Q2249485
+oscillating multi-tool	Q6934510
+rivet	Q212500
+reciprocating saw	Q2282074
+coping saw	Q17084518
+two-man saw	Q143041
+ball-peen hammer	Q1535657
+chuck	Q19818
+CNC router	Q16251414
+fulling	Q1585730
+ingot	Q83893
+backsaw	Q1402035
+electric chainsaw	Q128601795
+try square	Q569316
+protective device	Q3030569
+Vernier calipers	Q25921354
+reinforcing bar	Q150425
+stamping machine	Q18891559
+gas cylinder	Q774332
+sheep shears	Q1533174
+masking tape	Q3775755
+plumbing fittings & support	Q116970842
+welding power supply	Q1936800
+bronze casting	Q928402
+machining	Q192047
+Boring machine	Q3933812
+drilling equipment	Q111436852
+scotch tape	Q259589
+jointer	Q1253445
+thimble	Q8955276
+sandpaper	Q142274
+Phillips-head screw	Q128560689
+stone saw	Q2341315
+Jigsaw	Q15712110
+oxy-fuel welding and cutting	Q118568
+Cutting tools	Q123683229
+Punches	Q37564719
+screw pump	Q1047037
+tweezers	Q192504
+gas metal arc welding	Q1765723
+Welding robots	Q59274840
+Woodworking Shop	Q40155795
+Factory Floor	Q5428767
+Machining Centers Manufacturing	Q30284915
+forging	Q193057
+riveter	Q72981050
+Soldering	Q7557228
+Edison screw	Q1764334
+height gauge	Q2283738
+Bolt Cutters (second state)	Q77006266
+Flame cutting machines	Q25386326
+razor	Q13422881
+Anvils and Trapped Wheel	Q64513255
+engraving machine	Q1447435
+Directional drilling	Q1422489
+millstone dressing	Q2348670
+combination machine	Q2069500
+Water jet cutter	Q660875
+hoe	Q131154
+utility vehicle	Q3564023
+screw gun	Q15807771
+knurling	Q499954
+box-sealing tape	Q4951474
+filing	Q1126002
+Spax screws	Q1569385
+Sawmills	Q2023378
+Millstones	Q15121807
+combination tool	Q111467266
+Solder suckers	Q97375952
+Hinges	Q1043177
+hand press	Q20820224
+woodchippers	Q14906751
+Cutting Machines and Cutting	Q26377691
+Dowel pins	Q67505082
+ball mill	Q781139
+adhesive	Q131790
+grinding	Q3680646
+textile machine	Q1573728
+hyperbaric welding	Q2346649
+keyway	Q488855
+balloon framing	Q21550385
+pole lathe	Q7209259
+Three-point hitch hooks	Q1395608
+tower crane	Q1536423
+bearing	Q190100
+rotary printing press	Q911814
+pneumatic tool	Q3635139
+micrometre	Q175821
+wrench	Q154411
+hacksaw	Q1195804
+computer numerical control	Q190247
+spade bit	Q107637124
+tile cutter	Q27103691
+construction worker	Q811122
+I-beam	Q1780087
+pipe	Q41551
+Engineering Drawing	Q48772217
+knife grinder	Q4990607
+tool handle	Q17504947
+ventilator	Q813243
+heat gun	Q1057985
+winding machine	Q8024248
+screw extractor	Q1467847
+power hammer	Q3446739
+AC power socket	Q24237712
+fire extinguisher	Q190672
+flanging	Q1323480
+safety pin	Q840333
+hand axe	Q479448
+human-machine interface	Q4508598
+circlip tool	Q100869637
+Tweezer	Q60778901
+PVA glue	Q2545787
+continuous casting	Q1506832
+Buck Saw	Q64593274
+Industrial vehicle	Q123996383
+Shredders	Q107215441
+robot end effector	Q1340324
+robotic arm	Q40687
+Bevel gear	Q2144215
+Grinders	Q3116751
+Hasps	Q64537775
+power tool	Q1327701
+Oil Seal	Q59629885
+clasp	Q2239762
+plasma cutting	Q1385316
+Lightbulbs	Q6546260
+hot glue gun	Q1304613
+Nuts and Bolts	Q7070541
+pedal	Q1231985
+spot welding	Q2327972
+metallurgy	Q11467
+Cutters	Q114495207
+pruning knife	Q111337192
+cigar cutter	Q182058
+flashlight	Q235783
+clasps & hook	Q116960426
+safe	Q471898
+Springs	Q761408
+oxy-fuel welding	Q56558509
+Threads	Q120281745
+relay	Q174053
+scythe	Q130912
+fishplate	Q2143500
+Saw Blades and Handsaws	Q123187320
+Safety-helmets	Q49162956
+needlegun scaler	Q1963205
+Oxyacetylene blowpipes	Q2921520
+SawStop	Q7428485
+lifting hooks, clamps & shackle	Q117207436
+Iron Foundries	Q123132052
+Gas Cylinders	Q93835461
+saber saw	Q3475711
+Wooden Dowels	Q64158454
+continuous track	Q940913
+friction stir welding	Q2068127
+high speed steel	Q1127242
+Spherical Roller Bearings	Q59630604
+Reamers	Q109121046
+nailing	Q10675690
+Cable Ties	Q110047851
+laser scanning	Q1361664
+square	Q174782
+hexagon nut	Q43889008
+Door Hinges	Q64580494
+flat head screw	Q128561205
+Conduit	Q13553732
+toolbox	Q1501161
+warning signal	Q2549582
+Signs	Q2285224
+rotary saw	Q2036582
+soldering station	Q1879849
+electric generator	Q131502
+turning	Q258127
+gear shaping	Q1700991
+electrochemical machining	Q1196855
+Dremel	Q1258332
+Tool belt	Q123193932
+assembly line	Q455037
+rubber mallet	Q1554469
+Hack Saw	Q64619114
+oxygen tank	Q11680736
+CNC wood router	Q5013096
+resistor	Q5321
+glass casting	Q5567097
+Warrington hammer	Q99385805
+electrical network	Q132629
+oxy-acetylene welding	Q3776790
+Nippers	Q1993271
+wing nut	Q8025239

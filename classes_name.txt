@@ -1,0 +1,2587 @@
+Welding	Q131172	welding
+ladder	Q168639	ladder
+bolt	Q212792	Bolt
+washer	Q124441	washing machine
+nut	Q11009	nut
+bolt	Q212792	Bolt
+Hole puncher	Q183413	hole puncher
+drill press	Q20820500	box column drill
+tongs	Q3276479	tongs
+Ironworker	Q1639825	blacksmith
+train	Q870	train
+welding equipment	Q1613682	welding equipment
+hammer	Q25294	hammer
+pliers	Q13049940	pliers
+welder	Q836328	welder
+clamp	Q334471	Clamp
+key	Q132041	key
+hammer	Q25294	hammer
+hydraulic press	Q674484	machine press
+anvil	Q104363	anvil
+pulley	Q48378	pulley
+axle	Q188209	axle
+screwdriver	Q161071	screwdriver
+CNC mill	Q623106	milling machine
+gearbox	Q6497460	gearbox
+bearings	Q16243277	Bearings
+Drill bits	Q335283	drill bit
+Drill bits	Q335283	drill bit
+carabiner	Q588395	carabiner
+circular saw	Q1141837	circular saw
+lathe	Q187833	lathe
+padlock	Q40607	padlock
+steel coil	Q1107164	steel coil
+printing press	Q6500733	printer
+windmill	Q38720	windmill
+drilling rig	Q12688575	drilling rig
+bolt	Q212792	Bolt
+torch	Q327954	torch
+rotary table	Q3512781	Rotary table
+saw	Q125356	saw
+screw head	Q96746126	screw head shape
+Spirit level	Q207988	spirit level
+screwdriver	Q161071	screwdriver
+pencil	Q14674	pencil
+stamp	Q37930	postage stamp
+hammer	Q25294	hammer
+power drill	Q39101613	Power drills to fenestrate exposed bone to stimulate wound healing
+anvil	Q104363	anvil
+LED light bulb	Q1553201	LED lamp
+hand saw	Q2750929	hand saw
+staples	Q2227729	Staples
+Fasteners	Q107380930	fasteners
+wire cutter	Q245934	diagonal pliers
+LED light bulb	Q1553201	LED lamp
+thermite welding	Q910714	exothermic welding
+Grinder	Q245761	grinding machine
+mortar and pestle	Q18341850	mortar and pestle
+Door lock	Q57567502	Door Lock
+railway	Q22667	railway
+press	Q1193236	news media
+metal coil	Q123008860	Metal coil fabrication
+milling machine	Q623106	milling machine
+hole punch	Q183413	hole puncher
+paperclips	Q80141659	Paperclips for ear lobule repair
+Laser cutter	Q124816652	laser cutter
+Sharpening steel	Q520049	honing steel
+machinist	Q196721	machinist
+vice grip	Q26156693	Vice Grip
+hand tool	Q2578402	hand tool
+industrial robot	Q1128980	industrial robot
+tape	Q149757	compact cassette
+Spirit levels	Q53366902	Spirit levels
+manufacturing facility	Q9386255	production facility
+sander	Q18670563	Sander
+Light bulb	Q47616	incandescent light bulb
+workbench	Q347690	workbench
+clamp	Q334471	Clamp
+rotary hammer	Q1932875	rotary hammer
+person	Q5	human
+table saw	Q2365675	table saw
+screw press	Q1414307	screw press
+Drill bits	Q335283	drill bit
+construction site	Q360418	construction site
+container	Q987767	physical container
+welding equipment	Q1613682	welding equipment
+metal lathe	Q3681647	metal lathe
+steam hammer	Q19767	steam hammer
+tools	Q36500248	Wikimedia Toolforge
+screwdriver	Q161071	screwdriver
+screws	Q36935835	Screws
+chainsaw	Q208040	chainsaw
+PPE	Q1333024	personal protective equipment
+helmet	Q173603	helmet
+door	Q36794	door
+bandsaw	Q806378	bandsaw
+table saw	Q2365675	table saw
+chainsaw	Q208040	chainsaw
+Sawing	Q3954248	sawing
+Hooks	Q982654	Hooks
+Rivets	Q4395226	Rivets
+Archimedes' screw	Q189155	Archimedes' screw
+drill	Q58964	drill
+reamer	Q863835	reamer
+train	Q870	train
+lock	Q105731	lock
+locker	Q1195470	locker
+thickness gauge	Q66618436	THICKNESS GAUGE FOR THE MEASUREMENT OF THIN FOILS
+torch	Q327954	torch
+pliers	Q13049940	pliers
+screw head	Q96746126	screw head shape
+CNC	Q8849	Cancer
+rail fastening	Q1081004	rail fastening system
+screw	Q11022	screw
+turnstile	Q1146283	turnstile
+Lockout-Tagout	Q681384	lockout-tagout
+scissors	Q40847	scissors
+ruler	Q1097498	ruler
+rope	Q31029	rope
+saw	Q125356	saw
+drilling rig	Q12688575	drilling rig
+hoist	Q1411613	hoist
+welder	Q836328	welder
+Pinking shears	Q3747917	Pinking shears
+screw press	Q1414307	screw press
+forging tongs	Q98558226	blacksmith's tongs
+Duct tape	Q1030313	duct tape
+lathe center	Q2603338	lathe center
+Screws	Q36935835	Screws
+circular saw	Q1141837	circular saw
+window	Q35473	window
+nails	Q17325289	Nails
+water jet	Q483453	fountain
+workshop	Q83405	factory
+oxyacetylene torch	Q46710505	Oxyacetylene torch testing and microstructural characterization of tantalum carbide.
+hand saw	Q2750929	hand saw
+oscilloscope	Q174320	oscilloscope
+soldering iron	Q623402	soldering iron
+hand tools	Q50321273	Hand Tools
+Glass cutter	Q18510097	glass engraver
+soldering iron	Q623402	soldering iron
+torch	Q327954	torch
+Lock	Q105731	lock
+clamp	Q334471	Clamp
+wire cutter	Q245934	diagonal pliers
+welding equipment	Q1613682	welding equipment
+drilling rig	Q12688575	drilling rig
+excavator	Q182661	excavator
+oscilloscope	Q174320	oscilloscope
+lathe	Q187833	lathe
+drill press	Q20820500	box column drill
+Blacksmithing	Q11204681	blacksmithing
+ball bearing	Q11432170	ball bearing
+Duct tape	Q1030313	duct tape
+gear	Q143873	cogwheel
+Manhole cover	Q652657	manhole cover
+chainsaw	Q208040	chainsaw
+key	Q132041	key
+washer	Q124441	washing machine
+T-square	Q843852	T-Square
+Duct tape	Q1030313	duct tape
+blacksmith	Q1639825	blacksmith
+anvil	Q104363	anvil
+tongs	Q3276479	tongs
+pencil sharpener	Q193811	pencil sharpener
+torch	Q327954	torch
+power drill	Q39101613	Power drills to fenestrate exposed bone to stimulate wound healing
+tool spindle	Q125141073	Tool spindle and machine tool including same
+ball bearing	Q11432170	ball bearing
+hand tools	Q50321273	Hand Tools
+stump cutter	Q2036130	stump grinder
+lumber mill	Q505213	sawmill
+torch	Q327954	torch
+bolt cutter	Q1253857	bolt cutter
+drill	Q58964	drill
+tractor	Q39495	tractor
+resistance welder	Q122949879	Resistance Welder Manufacturers' Association
+lock	Q105731	lock
+torch	Q327954	torch
+wire	Q551997	wire
+vice grip	Q26156693	Vice Grip
+door handle	Q23009	door handle
+train	Q870	train
+tape	Q149757	compact cassette
+dispenser	Q27098499	dispenser
+power drill	Q39101613	Power drills to fenestrate exposed bone to stimulate wound healing
+axes	Q19888542	Axes
+metal lathe	Q3681647	metal lathe
+Reeler	Q14331135	Reln
+milling machine	Q623106	milling machine
+lathe	Q187833	lathe
+bolt	Q212792	Bolt
+smoke stack	Q7545947	Smokestack Lightning
+anvil	Q104363	anvil
+hammer	Q25294	hammer
+snow plow	Q14976	snowplow
+Nails	Q17325289	Nails
+axe	Q39397	axe
+thermite welding	Q910714	exothermic welding
+zipper	Q101761	zipper
+welder	Q836328	welder
+Screw	Q11022	screw
+extrusion machine	Q26347604	Extrusion machine operator dies of head injuries received when his head became caught in extrusion machine rollers - South Carolina, March 14, 1994
+soldering iron	Q623402	soldering iron
+Screwdrivers	Q117715471	Screwdrivers MC
+Binder clips	Q1435328	binder clip
+toolkit	Q1193246	widget toolkit
+Bench grinder	Q2564323	bench grinder
+allen wrench	Q16953	hex key
+box cutter	Q23769	utility knife
+Picks	Q57649215	Picks
+Bandsaw	Q806378	bandsaw
+Drill bits	Q335283	drill bit
+wood chisel	Q13221843	woodworking chisel
+corkscrew	Q12337	corkscrew
+induction heating	Q1155653	induction heating
+lock	Q105731	lock
+Brazing	Q13389141	brazing
+circular saw	Q1141837	circular saw
+hand saw	Q2750929	hand saw
+saw	Q125356	saw
+screwdriver bit	Q1519190	screwdriver bit
+gear	Q143873	cogwheel
+bolt cutter	Q1253857	bolt cutter
+dental drills	Q79327926	DENTAL drills
+Fuse	Q182221	fuse
+Key	Q132041	key
+vent	Q1453244	duct
+crucible tongs	Q10928827	crucible tongs
+brace	Q2662870	brace
+torch	Q327954	torch
+Nails	Q17325289	Nails
+vertical mill	Q623106	milling machine
+Crane	Q178692	crane
+mortar and pestle	Q18341850	mortar and pestle
+scroll saw	Q1183768	scroll saw
+screwdrivers	Q117715471	Screwdrivers MC
+bits	Q798439	Background Intelligent Transfer Service
+sander	Q18670563	Sander
+Drill bits	Q335283	drill bit
+drilling rig	Q12688575	drilling rig
+hanger	Q815240	clothes hanger
+pencil sharpener	Q193811	pencil sharpener
+rasp	Q277885	rasp
+endmill	Q8194616	End mill
+blacksmith shop	Q40558	smithy
+gas tanks	Q126259308	GAS TANKS
+ruler	Q1097498	ruler
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+crane	Q178692	crane
+hand saw	Q2750929	hand saw
+electric wiring	Q64307066	Electric Wiring, Fittings, Switches and Lamps Electric Bells and Alarms
+roller bearing	Q1335987	rolling-element bearing
+tape	Q149757	compact cassette
+drill press	Q20820500	box column drill
+vice grip	Q26156693	Vice Grip
+machine screw	Q107437313	machine screw
+Nail clippers	Q270380	nail clipper
+CNC machine	Q13231055	CNC machine
+sawmill	Q505213	sawmill
+circular saw	Q1141837	circular saw
+meat grinder	Q899260	meat grinder
+miter saw	Q373255	power miter saw
+welding equipment	Q1613682	welding equipment
+telescopic crane	Q2106694	telescopic crane
+milling machine	Q623106	milling machine
+chainsaw	Q208040	chainsaw
+Clamp	Q334471	Clamp
+welder	Q836328	welder
+railway	Q22667	railway
+drill press	Q20820500	box column drill
+milling machine	Q623106	milling machine
+printing press	Q6500733	printer
+cordless drill	Q456101	cordless drill
+safety glasses	Q72797	goggles
+Railyard	Q19563580	rail yard
+drilling rig	Q12688575	drilling rig
+cable tie	Q1500589	cable tie
+LED light bulb	Q1553201	LED lamp
+chainsaw	Q208040	chainsaw
+microscope	Q196538	microscope
+scissors	Q40847	scissors
+belt sander	Q806370	belt sander
+chisel	Q474188	chisel
+hammer	Q25294	hammer
+extension cord	Q1894990	extension cord
+files	Q193142	file
+Screwdrivers	Q117715471	Screwdrivers MC
+metal lathe	Q3681647	metal lathe
+crane hook	Q495451	lifting hook
+chains	Q622720	Châlus
+drill press	Q20820500	box column drill
+machine	Q11019	machine
+drilling	Q890886	drilling
+crosscut saw	Q291319	crosscut saw
+carabiner	Q588395	carabiner
+microchip	Q80831	integrated circuit
+hand saw	Q2750929	hand saw
+snow blower	Q1351693	snow blower
+rolling mill	Q1049792	rolling mill
+welding equipment	Q1613682	welding equipment
+DeWalt tool	Q1182913	RAPTOR King of Tough 250
+safety helmet	Q124445592	Safety helmet
+circular saw	Q1141837	circular saw
+chisel	Q474188	chisel
+mallet	Q3202271	mallet
+circular saw	Q1141837	circular saw
+CNC machine	Q13231055	CNC machine
+Joinery	Q2183679	joinery
+crane	Q178692	crane
+milling machine	Q623106	milling machine
+ppe	Q1333024	personal protective equipment
+casting	Q496098	casting
+chisel	Q474188	chisel
+welding	Q131172	welding
+Spirit levels	Q53366902	Spirit levels
+oxyacetylene torch	Q46710505	Oxyacetylene torch testing and microstructural characterization of tantalum carbide.
+keyhole saw	Q765735	keyhole saw
+Hacienda La Laguna	Q5891062	Hacienda La Laguna
+drilling rig	Q12688575	drilling rig
+scale	Q188488	scale
+test tube	Q88399897	test tube
+welder	Q836328	welder
+cutting tool	Q1760958	cutting tool
+lathe	Q187833	lathe
+Spirit levels	Q53366902	Spirit levels
+bolt cutter	Q1253857	bolt cutter
+woodworking machinery	Q2027611	woodworking machine
+soldering iron	Q623402	soldering iron
+chainsaw	Q208040	chainsaw
+anvil	Q104363	anvil
+tongs	Q3276479	tongs
+hammer	Q25294	hammer
+CNC machine	Q13231055	CNC machine
+gloves	Q169031	glove
+clamp	Q334471	Clamp
+extruder	Q1366621	extruder
+glass blower	Q1413824	glassblower
+nut	Q11009	nut
+washer	Q124441	washing machine
+Screwdrivers	Q117715471	Screwdrivers MC
+fidget spinner	Q29279406	fidget spinner
+pick tool	Q124654094	Pick tool for road milling
+tape	Q149757	compact cassette
+rubber bands	Q256817	rubber band
+Trencher	Q920507	square academic cap
+sawmill	Q505213	sawmill
+windmill	Q38720	windmill
+welding	Q131172	welding
+taps	Q1213746	Taps
+pipe	Q104526	pipe
+window	Q35473	window
+Swiss Army knife	Q23719	Swiss Army knife
+angle grinder	Q827274	angle grinder
+circular saw	Q1141837	circular saw
+chainsaw	Q208040	chainsaw
+PPE	Q1333024	personal protective equipment
+sawmill	Q505213	sawmill
+respirator mask	Q26766662	Respirator masks protect health but impact performance: a review
+chainsaw	Q208040	chainsaw
+soldering iron	Q623402	soldering iron
+door lock	Q57567502	Door Lock
+Incandescent light bulb	Q47616	incandescent light bulb
+pencil sharpener	Q193811	pencil sharpener
+Set squares	Q108431872	Set Squares
+windmill	Q38720	windmill
+saw	Q125356	saw
+wood saw	Q70802185	wood saw
+anvil	Q104363	anvil
+furnace	Q1709184	heating furnace
+combination lock	Q2374786	combination lock
+Self-tapping screw	Q2988641	self-tapping screw
+axe	Q39397	axe
+grinding wheel	Q1931980	grinding wheel
+wood chisel	Q13221843	woodworking chisel
+Incandescent light bulb	Q47616	incandescent light bulb
+thermite welding	Q910714	exothermic welding
+chainsaw	Q208040	chainsaw
+lumber	Q1370714	lumber
+mallet	Q3202271	mallet
+Milling machine	Q623106	milling machine
+carabiner	Q588395	carabiner
+wood lathe	Q239990	woodturning lathe
+hand drill	Q1133232	hand drill
+dredging	Q852170	dredging
+steel foundry	Q21620084	Steel Foundry
+chainsaw	Q208040	chainsaw
+angle grinder	Q827274	angle grinder
+spool	Q1520790	bobbin
+chainsaw	Q208040	chainsaw
+sawmill	Q505213	sawmill
+torch	Q327954	torch
+heat torch	Q5693340	Heat torch
+Shears	Q40847	scissors
+soldering iron	Q623402	soldering iron
+LED light bulb	Q1553201	LED lamp
+welding helmet	Q787354	welding helmet
+Forging hammer	Q2246394	blacksmith's hammer
+steel bar	Q5405051	steel bar
+angle grinder	Q827274	angle grinder
+wood saw	Q70802185	wood saw
+vehicle mount	Q119270352	Vehicle mount
+rock drill	Q11941822	rock drill
+milling machine	Q623106	milling machine
+windmill	Q38720	windmill
+furnace	Q1709184	heating furnace
+drill press	Q20820500	box column drill
+workshop	Q83405	factory
+windmill	Q38720	windmill
+PPE	Q1333024	personal protective equipment
+stick welding	Q1992360	shielded metal arc welding
+milling cutter	Q1078463	milling cutter
+hole saw	Q764324	hole saw
+LED light bulb	Q1553201	LED lamp
+Nails	Q17325289	Nails
+wood chisel	Q13221843	woodworking chisel
+hole saw	Q764324	hole saw
+bracelet	Q201664	bracelet
+welder	Q836328	welder
+emergency stop	Q2001958	kill switch
+CNC machine	Q13231055	CNC machine
+table saw	Q2365675	table saw
+hand saw	Q2750929	hand saw
+scissors	Q40847	scissors
+TIG welding	Q1627310	gas tungsten arc welding
+angle grinder	Q827274	angle grinder
+hex key	Q16953	hex key
+ice auger	Q4401667	ice auger
+conveyor	Q1479946	conveyor
+anvil	Q104363	anvil
+lathe	Q187833	lathe
+pliers	Q13049940	pliers
+milling machine	Q623106	milling machine
+resistance welder	Q122949879	Resistance Welder Manufacturers' Association
+ceramic mold	Q5063668	Ceramic molding
+hinge	Q244330	hinge
+foundry	Q496098	casting
+pliers	Q13049940	pliers
+wire cutter	Q245934	diagonal pliers
+lathe	Q187833	lathe
+pencil sharpeners	Q193811	pencil sharpener
+ignition switch	Q4993268	Ignition switch
+screwdriver	Q161071	screwdriver
+comptometer	Q572421	Comptometer
+Fasteners	Q107380930	fasteners
+reamer	Q863835	reamer
+ladder	Q168639	ladder
+toolbelt	Q7824062	Toolbelt Diva
+helmet	Q173603	helmet
+chainsaw	Q208040	chainsaw
+gloves	Q169031	glove
+hearing protection	Q13405515	hearing protection
+industrial machine	Q3045515	industrial equipment
+heat cutter	Q12058409	heat cutter
+gloves	Q169031	glove
+printing press	Q6500733	printer
+stapler	Q489157	stapler
+harness	Q485027	armour
+block	Q1348006	city block
+CNC lathe	Q1023915	CNC lathe
+LED light bulb	Q1553201	LED lamp
+Mortars	Q18341850	mortar and pestle
+anvil	Q104363	anvil
+table saw	Q2365675	table saw
+sawhorse	Q1421844	sawhorse
+electrician	Q165029	electrician
+workbench	Q347690	workbench
+welding robot	Q2327264	robot welding
+screw	Q11022	screw
+screwdriver	Q161071	screwdriver
+welder	Q836328	welder
+Bolt	Q212792	Bolt
+paint brush	Q193897	paintbrush
+threaded insert	Q1520669	threaded insert
+lathe	Q187833	lathe
+steam engine	Q12760	steam engine
+drill press	Q20820500	box column drill
+lock	Q105731	lock
+sharpening stone	Q507559	sharpening stone
+tacks	Q116971001	TACKSMAN II
+tie down straps	Q1277336	tie-down straps
+lathe	Q187833	lathe
+vice	Q1411242	vice
+air hose	Q105719289	Air hose
+radial drill	Q122326876	Radial drilling link transmission and flex shaft protective cover
+electric screwdriver	Q110705646	electric screwdriver
+machine interface	Q81334	machine interface
+hand drill	Q1133232	hand drill
+wood	Q4421	forest
+sawmill	Q505213	sawmill
+dimple keys	Q11320183	Dimple keys
+scissors	Q40847	scissors
+lathe	Q187833	lathe
+worm gear	Q12529	worm drive
+crucible	Q390417	crucible
+auger	Q1142501	auger
+belt	Q134560	belt
+chuck	Q43274	Charles III of the United Kingdom
+bottle opener	Q80852	Shanghai World Financial Center
+dozer	Q131677	bulldozer
+Well drilling	Q14693887	well drilling
+screwdriver bit	Q1519190	screwdriver bit
+nameplate	Q2713450	nameplate
+patent	Q253623	patent
+angle bracket	Q39076453	angle bracket
+crawler excavator	Q5182961	crawler excavator
+total station	Q641296	total station
+drilling rig	Q12688575	drilling rig
+blacksmith	Q1639825	blacksmith
+drywall anchor	Q56284371	drywall anchor
+cement mixer	Q831584	concrete mixer
+excavator	Q182661	excavator
+stone mortar	Q112821074	Stone mortar & pestle, India, 1750-1850
+lathe	Q187833	lathe
+screwdriver bit	Q1519190	screwdriver bit
+glue	Q500548	glue
+rivet gun	Q7338813	rivet gun
+ice saw	Q117052828	ice saw
+electric motor	Q72313	electric motor
+Nails	Q17325289	Nails
+welding torch	Q119823051	Welding torch
+light bulb	Q47616	incandescent light bulb
+hook	Q4243098	hook
+tape dispenser	Q331533	tape dispenser
+screwdriver bit	Q1519190	screwdriver bit
+ground anchor	Q18019983	Earth anchor
+tape	Q149757	compact cassette
+Duct tape	Q1030313	duct tape
+turnstile	Q1146283	turnstile
+emergency sign	Q2146470	emergency sign
+door knob	Q23009	door handle
+ice auger	Q4401667	ice auger
+construction machine	Q102310586	construction machine
+cordless drill	Q456101	cordless drill
+coins	Q1024186	COinS
+glue	Q500548	glue
+Nail gun	Q77257	nail gun
+glasses	Q37501	glasses
+band saw	Q116971275	band saw
+zipper	Q101761	zipper
+blacksmith shop	Q40558	smithy
+drill	Q58964	drill
+Rosie the Riveter	Q1650639	Rosie the Riveter
+hand saw	Q2750929	hand saw
+funnel	Q29957	funnel
+Archimedes screw	Q189155	Archimedes' screw
+screws	Q36935835	Screws
+drilling rig	Q12688575	drilling rig
+grinding wheel	Q1931980	grinding wheel
+lathe	Q187833	lathe
+welder	Q836328	welder
+goggles	Q72797	goggles
+whetstone	Q507559	sharpening stone
+blacksmith	Q1639825	blacksmith
+door hinge	Q2464427	door hinge
+bandsaw	Q806378	bandsaw
+paperclips	Q80141659	Paperclips for ear lobule repair
+Drill bits	Q335283	drill bit
+clipboard	Q244909	clipboard
+secateurs	Q144764	pruning shears
+ladder	Q168639	ladder
+cylindrical roller bearing	Q127477693	CYLINDRICAL ROLLER BEARING LUBRICATION REGIMES ANALYSIS AT LOW SPEED AND PURE RADIAL LOAD
+chainsaw	Q208040	chainsaw
+crosscut saw	Q291319	crosscut saw
+door hinge	Q2464427	door hinge
+hand saw	Q2750929	hand saw
+circular saw	Q1141837	circular saw
+excavator	Q182661	excavator
+conveyor belt	Q623755	belt
+chainsaw	Q208040	chainsaw
+ppe	Q1333024	personal protective equipment
+Paper cutter	Q2205714	paper cutter
+workbench	Q347690	workbench
+printing press	Q6500733	printer
+welding equipment	Q1613682	welding equipment
+Fidget spinner	Q29279406	fidget spinner
+hand tool	Q2578402	hand tool
+tape	Q149757	compact cassette
+rubber bands	Q256817	rubber band
+Trencher	Q920507	square academic cap
+hammer	Q25294	hammer
+Saw	Q125356	saw
+saw	Q125356	saw
+forging hammer	Q2246394	blacksmith's hammer
+dikes	Q37437171	Dikes
+machine tools	Q19768	machine tool
+pencil sharpener	Q193811	pencil sharpener
+calipers	Q12408	caliper
+trip hammer	Q2121955	trip hammer
+forklift	Q41577	forklift truck
+circular saw	Q1141837	circular saw
+milling machine	Q623106	milling machine
+printing press	Q6500733	printer
+scissors	Q40847	scissors
+welders	Q108699591	Welders
+Woodchipper	Q1621575	woodchipper
+CNC lathe	Q1023915	CNC lathe
+Oxyacetylene Torch	Q46710505	Oxyacetylene torch testing and microstructural characterization of tantalum carbide.
+hammer drill	Q19599600	hammer drill
+rolling mill	Q1049792	rolling mill
+microscope	Q196538	microscope
+blacksmith shop	Q40558	smithy
+filter press	Q647023	filter press
+mortar and pestle	Q18341850	mortar and pestle
+staples	Q2227729	Staples
+printing machine	Q12820205	printing machine
+band saw	Q116971275	band saw
+torque screwdriver	Q1256552	torque screwdriver
+telescopic handler	Q1943369	telescopic handler
+lathe	Q187833	lathe
+Spirit levels	Q53366902	Spirit levels
+hand saw	Q2750929	hand saw
+workpiece	Q2560552	workpiece
+coffee grinder	Q1139048	coffee grinder
+snow plow	Q14976	snowplow
+nameplate	Q2713450	nameplate
+anvil	Q104363	anvil
+casting mold	Q119519004	Casting mold
+keys	Q21491451	Keys
+table saw	Q2365675	table saw
+scissors	Q40847	scissors
+Saw blade	Q4683254	saw blade
+forge hammer	Q129260716	Forge Hammer
+Spirit levels	Q53366902	Spirit levels
+woodworking bench	Q1621597	woodworking workbench
+wire cutter	Q245934	diagonal pliers
+metal lathe	Q3681647	metal lathe
+zipper	Q101761	zipper
+oil drill	Q5307564	driller
+truck	Q43193	truck
+worker	Q327055	worker
+Milwaukee tool	Q6861736	Milwaukee Electric Tool Corporation
+bolt cutter	Q1253857	bolt cutter
+bricks	Q40089	brick
+chainsaw	Q208040	chainsaw
+trip hammer	Q2121955	trip hammer
+steel mill	Q2069494	steel mill
+cutting wheel	Q77000951	CUTTING WHEEL RESIDUES IN PLUTONIUM WASTE CAUSES EXPLOSION
+screw press	Q1414307	screw press
+percussion drill	Q19599600	hammer drill
+rail	Q26623	Rallidae
+belt sander	Q806370	belt sander
+scissors	Q40847	scissors
+machine screw	Q107437313	machine screw
+printing press	Q6500733	printer
+Lathe operator	Q28933489	lathe operator
+scissor jack	Q64114580	Scissor-Jack-Damper Energy Dissipation System
+bolt	Q212792	Bolt
+windmill	Q38720	windmill
+workbench	Q347690	workbench
+hydraulic drill	Q129627151	Hydraulic drill hole reaming technology with large flow and draining of coal mine gas
+carabiner	Q588395	carabiner
+Duct tape	Q1030313	duct tape
+drill press	Q20820500	box column drill
+metal lathe	Q3681647	metal lathe
+hand saw	Q2750929	hand saw
+metal lathe	Q3681647	metal lathe
+drill press	Q20820500	box column drill
+soldering iron	Q623402	soldering iron
+hook	Q4243098	hook
+power saw	Q70875100	mechanical saw
+Screwdriver bit	Q1519190	screwdriver bit
+thermite welding	Q910714	exothermic welding
+rock drill	Q11941822	rock drill
+tape measure	Q104555	ruler
+crucible	Q390417	crucible
+construction site	Q360418	construction site
+scissors	Q40847	scissors
+wire brush	Q45299	wire brush
+printing press	Q6500733	printer
+cnc lathe	Q1023915	CNC lathe
+rail	Q26623	Rallidae
+stone cutter	Q328325	stonemason
+gang saw	Q11993964	head saw
+blacksmith	Q1639825	blacksmith
+chop saw	Q128602183	chop saw
+bow saw	Q3744469	bow saw
+scissors	Q40847	scissors
+TIG welding	Q1627310	gas tungsten arc welding
+door latch	Q64570459	Door Latch
+split pin	Q1412569	split pin
+gas tank	Q1411232	fuel tank
+shield	Q131559	shield
+hammer	Q25294	hammer
+hand drill	Q1133232	hand drill
+chainsaw	Q208040	chainsaw
+nameplate	Q2713450	nameplate
+printing press	Q6500733	printer
+soldering iron	Q623402	soldering iron
+welding goggles	Q7980875	welding goggles
+barrel	Q10289	barrel
+bandsaw	Q806378	bandsaw
+Drill bits	Q335283	drill bit
+window	Q35473	window
+CNC lathe	Q1023915	CNC lathe
+milling machine	Q623106	milling machine
+Drill bits	Q335283	drill bit
+Button hook	Q116329433	Button Hook
+carabiner	Q588395	carabiner
+jaws of life	Q611035	hydraulic rescue tool
+Fasteners	Q107380930	fasteners
+Nails	Q17325289	Nails
+metal lathe	Q3681647	metal lathe
+screw head	Q96746126	screw head shape
+crane	Q178692	crane
+circular saw	Q1141837	circular saw
+correction tape	Q1863081	correction tape
+machine	Q11019	machine
+air line	Q4698337	Air line
+storage	Q66221	computer data storage device
+screw head	Q96746126	screw head shape
+manhole cover	Q652657	manhole cover
+saw	Q125356	saw
+CNC lathe	Q1023915	CNC lathe
+hockey tape	Q5875735	Hockey tape
+tool cabinet	Q1275728	Tool cabinet
+water wheel	Q146728	water wheel
+sawmill	Q505213	sawmill
+mortar and pestle	Q18341850	mortar and pestle
+scissors	Q40847	scissors
+hand saw	Q2750929	hand saw
+drill press	Q20820500	box column drill
+bandsaw	Q806378	bandsaw
+gas tanks	Q126259308	GAS TANKS
+excavator	Q182661	excavator
+circular saw	Q1141837	circular saw
+safety helmet	Q124445592	Safety helmet
+Nail	Q37077	nail
+sawmill	Q505213	sawmill
+reamer	Q863835	reamer
+table saw	Q2365675	table saw
+anvil	Q104363	anvil
+belt sander	Q806370	belt sander
+Printing press	Q6500733	printer
+circular saw blade	Q123318722	Circular saw blade
+forge hammer	Q129260716	Forge Hammer
+claw hammer	Q3945253	claw hammer
+gear	Q143873	cogwheel
+windmill	Q38720	windmill
+bolt	Q212792	Bolt
+random orbital sander	Q2455671	random orbital sander
+grinding wheel	Q1931980	grinding wheel
+blacksmith shop	Q40558	smithy
+chisel blade	Q116440842	Chisel blade
+control panel	Q1081102	Control Panel
+weld bead	Q7980877	welding joint
+welder	Q836328	welder
+light bulb	Q47616	incandescent light bulb
+band saw	Q116971275	band saw
+white board	Q16354	whiteboard
+bolt	Q212792	Bolt
+office supplies	Q2383811	office supply
+chainsaw	Q208040	chainsaw
+door	Q36794	door
+window	Q35473	window
+Spirit level	Q207988	spirit level
+welding	Q131172	welding
+Sawyers	Q56540597	Sawyers
+medical tools	Q122599815	Medical tools having tension bands
+concrete saw	Q5159079	concrete saw
+blacksmith shop	Q40558	smithy
+drilling machine	Q2211295	drill press
+fish hook	Q205276	fishing hook
+rasp	Q277885	rasp
+hand tool	Q2578402	hand tool
+welding	Q131172	welding
+pipes	Q8347	bagpipes
+worker	Q327055	worker
+printing press	Q6500733	printer
+welders	Q108699591	Welders
+furnace	Q1709184	heating furnace
+screws	Q36935835	Screws
+lumber mill	Q505213	sawmill
+light bulbs	Q28568592	Light Bulbs
+screw driver	Q79501070	Screw Driver
+drill bits	Q335283	drill bit
+welding torch	Q119823051	Welding torch
+welding helmet	Q787354	welding helmet
+manual metal arc welding	Q1992360	shielded metal arc welding
+jaws of life	Q611035	hydraulic rescue tool
+hydraulic rescue tool	Q611035	hydraulic rescue tool
+screws	Q36935835	Screws
+presses	Q1892146	Presses universitaires de France
+hand wheel	Q679300	steering wheel
+scissors	Q40847	scissors
+nails	Q17325289	Nails
+cordless drills	Q68063456	Cordless drills
+grinding wheel	Q1931980	grinding wheel
+light bulbs	Q28568592	Light Bulbs
+mixers	Q80857826	Mixers
+clothespin	Q267290	clothespin
+safety pins	Q11999067	Safety Pins
+welding	Q131172	welding
+circular saws	Q59442969	Circular Saws and the History of Technology
+train	Q870	train
+train track	Q160342	railway track
+rail	Q26623	Rallidae
+construction site	Q360418	construction site
+construction site	Q360418	construction site
+hex socket	Q23824436	hex drive
+blade	Q330946	blade
+light bulbs	Q28568592	Light Bulbs
+screwdrivers	Q117715471	Screwdrivers MC
+vertical milling machine	Q623106	milling machine
+scissors	Q40847	scissors
+zippers	Q48818852	Zippers
+clamps	Q112589797	Clamps
+scissors	Q40847	scissors
+nails	Q17325289	Nails
+rivets	Q4395226	Rivets
+keys	Q21491451	Keys
+light bulbs	Q28568592	Light Bulbs
+lamp	Q1138737	lamp
+forge	Q40558	smithy
+drill bit	Q335283	drill bit
+utility knife	Q23769	utility knife
+welders	Q108699591	Welders
+anvil	Q104363	anvil
+person	Q5	human
+anvil	Q104363	anvil
+lathe	Q187833	lathe
+windmill	Q38720	windmill
+printing presses	Q7245316	Printing Presses and Publications Act
+manual metal arc welding	Q1992360	shielded metal arc welding
+metalworking	Q953045	metalworking
+welding	Q131172	welding
+brazing	Q13389141	brazing
+lumberjacks	Q16191455	Cal Poly Humboldt Lumberjacks
+saws	Q125356	saw
+welders	Q108699591	Welders
+welding	Q131172	welding
+ppe	Q1333024	personal protective equipment
+casting	Q496098	casting
+circular saws	Q59442969	Circular Saws and the History of Technology
+threaded fasteners	Q126990757	Threaded fasteners with applied medium or high strength threadlockers: effect of different tightening procedures on the tribological response
+chainsaws	Q208040	chainsaw
+light bulbs	Q28568592	Light Bulbs
+mortar and pestle	Q18341850	mortar and pestle
+grinder	Q245761	grinding machine
+laser cutting	Q593053	laser cutting
+beams	Q1206419	beams
+fence	Q148571	fence
+glue	Q500548	glue
+epoxy	Q143983	epoxy resins
+cyanoacrylate glue	Q107407155	superglue
+fasteners	Q107380930	fasteners
+led light bulbs	Q1553201	LED lamp
+screwdriver	Q161071	screwdriver
+power drill	Q39101613	Power drills to fenestrate exposed bone to stimulate wound healing
+nails	Q17325289	Nails
+drills	Q509222	drillship
+hard hat	Q2058262	hard hat
+welding equipment	Q1613682	welding equipment
+heat torch	Q5693340	Heat torch
+workbench	Q347690	workbench
+tools	Q36500248	Wikimedia Toolforge
+safety glasses	Q72797	goggles
+c clamp	Q5005931	C-clamp
+metal bar	Q100892463	Metal Bar
+washers	Q11945252	Washers
+work gloves	Q2252300	protective gloves
+bridge	Q12280	bridge
+hammer	Q25294	hammer
+blacksmithing	Q11204681	blacksmithing
+screw driver	Q79501070	Screw Driver
+ship	Q11446	ship
+spiral drills	Q56296876	twist drill
+benches	Q204776	bench
+drill bit	Q335283	drill bit
+stamps	Q79701	Stamps
+text types	Q2298050	text types
+circular saws	Q59442969	Circular Saws and the History of Technology
+level	Q1046315	level
+spirit level	Q207988	spirit level
+nameplate	Q2713450	nameplate
+patent information	Q9372229	patent information
+chisel	Q474188	chisel
+chainsaws	Q208040	chainsaw
+circular saw	Q1141837	circular saw
+scissors	Q40847	scissors
+paper shredders	Q645424	pulper
+nut	Q11009	nut
+end effectors	Q125526581	End effectors and methods for driving tools guided by surgical robotic systems
+crane	Q178692	crane
+push pins	Q73180554	Push Pins, Dots, Customisation, Brands and Services: The Three Waves of Making Digital Maps
+thumbtack	Q406839	drawing pin
+tack	Q406839	drawing pin
+grinding stones	Q124252047	Grinding stones in India
+circular saws	Q59442969	Circular Saws and the History of Technology
+clamps	Q112589797	Clamps
+brackets	Q174565	brackets
+paper clips	Q8353	paper clip
+grinding stones	Q124252047	Grinding stones in India
+crucible	Q390417	crucible
+train	Q870	train
+safety helmet	Q124445592	Safety helmet
+work gloves	Q2252300	protective gloves
+bolts	Q201864	Tampa Bay Lightning
+fidget spinners	Q39425702	Fidget spinners: Purported benefits, adverse effects and accepted alternatives.
+padlocks	Q59180356	Padlocks from the City
+forklift	Q41577	forklift truck
+printing presses	Q7245316	Printing Presses and Publications Act
+machine tools	Q19768	machine tool
+power tools	Q124069852	Power Tools VR
+rail fastenings	Q2234662	rail fastenings
+cutlers	Q122549995	Cutlers
+grinding wheels	Q116971036	grinding wheels & point
+nuts	Q11009	nut
+riveters	Q76548573	Riveters
+circular saws	Q59442969	Circular Saws and the History of Technology
+table saw	Q2365675	table saw
+mortar and pestle	Q18341850	mortar and pestle
+hand pruners	Q144764	pruning shears
+secateurs	Q144764	pruning shears
+light bulbs	Q28568592	Light Bulbs
+construction tools	Q60219420	Construction tools and equipment – their influence on accident causality
+tongs	Q3276479	tongs
+rail fastenings	Q2234662	rail fastenings
+factory	Q83405	factory
+blacksmithing	Q11204681	blacksmithing
+hammers	Q37489626	Hammers
+anvil	Q104363	anvil
+padlocks	Q59180356	Padlocks from the City
+chains	Q622720	Châlus
+pencil sharpeners	Q193811	pencil sharpener
+metal casting	Q9268371	metal casting
+angle brackets	Q110502275	angle brackets
+chainsaws	Q208040	chainsaw
+crane	Q178692	crane
+demolition shears	Q306848	demolition shears
+plain bearings	Q59629990	Plain Bearings
+pliers	Q13049940	pliers
+wire cutters	Q1255405	wire cutters
+led light bulbs	Q1553201	LED lamp
+keys	Q21491451	Keys
+furnace	Q1709184	heating furnace
+metalworking tools	Q59227884	Metalworking Tools from the Central Coast of Peru
+scissors	Q40847	scissors
+clothespins	Q73084355	Clothespins for laboratory glassware
+horizontal milling machine	Q623106	milling machine
+machinery	Q1882685	mechanical device
+demolition shears	Q306848	demolition shears
+machine tools	Q19768	machine tool
+foundry	Q496098	casting
+electronics	Q11650	electronics
+brick wall	Q7798100	threshold effect
+blades	Q193466	rotor
+knives	Q32489	knife
+acorn nuts	Q114509230	Acorn Nuts and Diapey Butts
+welding equipment	Q1613682	welding equipment
+drill presses	Q2211295	drill press
+tools	Q36500248	Wikimedia Toolforge
+scissors	Q40847	scissors
+chisels	Q114396271	Chisels & Bits
+screwdrivers	Q117715471	Screwdrivers MC
+light bulbs	Q28568592	Light Bulbs
+scissors	Q40847	scissors
+pressure lock bags	Q18335861	Pressure lock bags
+washers	Q11945252	Washers
+lamp	Q1138737	lamp
+crane	Q178692	crane
+ocean drilling	Q613946	Ocean Drilling Program
+watermill	Q185187	watermill
+welding	Q131172	welding
+tongs	Q3276479	tongs
+lathe	Q187833	lathe
+metalworking	Q953045	metalworking
+wheel	Q446	wheel
+sawyers	Q56540597	Sawyers
+chainsaw	Q208040	chainsaw
+welding glass	Q112265432	welding glass
+welding helmet	Q787354	welding helmet
+drills	Q509222	drillship
+pressed glass	Q7241657	pressed glass
+demolition shears	Q306848	demolition shears
+steel coils	Q44545890	Steel coils
+hooks	Q982654	Hooks
+windmills	Q61849520	Windmills
+hand tools	Q50321273	Hand Tools
+drilling machines	Q26372504	Drilling Machines, Surface
+welding	Q131172	welding
+drill bits	Q335283	drill bit
+jewellery making	Q161439	jewelry
+file	Q82753	computer file
+amazon locker	Q16974764	Amazon Locker
+screwdrivers	Q117715471	Screwdrivers MC
+safety pins	Q11999067	Safety Pins
+lumber yard	Q10436913	lumber yard
+foundries	Q123130999	Foundries
+paper scissors	Q106631	rock-paper-scissors
+water wheels	Q31579438	Water Wheels Lake Number 1 Dam
+resin casting	Q906963	resin casting
+tractors	Q39495	tractor
+ drills	Q509222	drillship
+led bulbs	Q55880345	LED bulbs technical specification and testing procedure for solar home systems
+excavators	Q105376597	Excavators
+demolition shears	Q306848	demolition shears
+welding goggles	Q7980875	welding goggles
+machine tools	Q19768	machine tool
+spirit levels	Q53366902	Spirit levels
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+e27 edison screw	Q74840051	E27 Edison screw
+wire cutters	Q1255405	wire cutters
+carabiners	Q588395	carabiner
+scissors	Q40847	scissors
+die casting	Q3325511	die casting
+windmill	Q38720	windmill
+tape	Q149757	compact cassette
+tape dispenser	Q331533	tape dispenser
+wrenches	Q33307883	Wrenches in the works: drug discovery targeting the SCF ubiquitin ligase and APC/C complexes
+paper shredders	Q645424	pulper
+presses	Q1892146	Presses universitaires de France
+nuts	Q11009	nut
+saws	Q125356	saw
+rail fastenings	Q2234662	rail fastenings
+mechanical screwdriver	Q73501094	Mechanical screwdriver for the nail-plate operation
+scissors	Q40847	scissors
+metalworking	Q953045	metalworking
+surgical saws	Q18748667	Surgical saws
+chainsaws	Q208040	chainsaw
+screwdrivers	Q117715471	Screwdrivers MC
+decorative tape	Q116960449	decorative tape
+arc welding	Q422937	arc welding
+Sawyers	Q56540597	Sawyers
+semi-finished casting	Q867705	semi-finished casting product
+screwdrivers	Q117715471	Screwdrivers MC
+drilling	Q890886	drilling
+rivets	Q4395226	Rivets
+black & decker - multi tool plus drills	Q23445	black
+face shield	Q5428384	face shield
+cnc milling	Q623106	milling machine
+welders	Q108699591	Welders
+chainsaws	Q208040	chainsaw
+wringer washers	Q70965225	Wringer washers and salt-lick goiter: a case for rural medicine
+mortar and pestle	Q18341850	mortar and pestle
+knurling tool	Q106827110	knurling tool
+band saw	Q116971275	band saw
+grinding wheel	Q1931980	grinding wheel
+circular saw	Q1141837	circular saw
+rivets	Q4395226	Rivets
+hand saw	Q2750929	hand saw
+screw	Q11022	screw
+scissors	Q40847	scissors
+clamp	Q334471	Clamp
+drill bits	Q335283	drill bit
+angle grinder	Q827274	angle grinder
+gauge	Q2041172	measuring instrument
+carabiner	Q588395	carabiner
+keys	Q21491451	Keys
+gauge block	Q1340688	gauge block
+shears	Q40847	scissors
+excavator	Q182661	excavator
+key	Q132041	key
+factory	Q83405	factory
+bandsaw	Q806378	bandsaw
+wood screw	Q54806448	wood screw
+roller compactor	Q216842	road roller
+tape	Q149757	compact cassette
+hydraulic press	Q674484	machine press
+millstone	Q670985	millstone
+utility knife	Q23769	utility knife
+bolt	Q212792	Bolt
+chainsaw	Q208040	chainsaw
+screws	Q36935835	Screws
+table saw	Q2365675	table saw
+caulk gun	Q1734658	caulking gun
+construction equipment	Q874311	heavy equipment
+heat torch	Q5693340	Heat torch
+lathe	Q187833	lathe
+cable cutter	Q11301405	cable cutter
+fishing hook	Q205276	fishing hook
+screwdriver	Q161071	screwdriver
+hatchet	Q672890	hatchet
+box cutter	Q23769	utility knife
+lock	Q105731	lock
+metal lathe	Q3681647	metal lathe
+chainsaw	Q208040	chainsaw
+scissors	Q40847	scissors
+wire saw	Q689574	wire saw
+miter saw	Q373255	power miter saw
+grinding tools	Q127787630	Grinding Tools at the Third Intermediate Period Tell el-Retaba
+bookbinding press	Q107196990	bookbinding press
+chainsaw	Q208040	chainsaw
+welding torch	Q119823051	Welding torch
+crane	Q178692	crane
+power drill	Q39101613	Power drills to fenestrate exposed bone to stimulate wound healing
+forges	Q243155	Forges
+wood saw	Q70802185	wood saw
+gas tungsten arc welding	Q1627310	gas tungsten arc welding
+printing press	Q6500733	printer
+manual metal arc welding	Q1992360	shielded metal arc welding
+drill press	Q20820500	box column drill
+chainsaw	Q208040	chainsaw
+light bulb	Q47616	incandescent light bulb
+belt sander	Q806370	belt sander
+ceramic mold	Q5063668	Ceramic molding
+calipers	Q12408	caliper
+rotary hammer	Q1932875	rotary hammer
+machine tools	Q19768	machine tool
+welding	Q131172	welding
+jar	Q1207302	jar
+brazing	Q13389141	brazing
+machine tools	Q19768	machine tool
+sharpener	Q4990615	grindstone
+laser cutting	Q593053	laser cutting
+continuous miner	Q26215525	Continuous Miner Noise Control
+mortar and pestle	Q18341850	mortar and pestle
+screwdriver	Q161071	screwdriver
+clamps	Q112589797	Clamps
+thread-locking fluid	Q2249485	thread-locking fluid
+impact drill	Q19599600	hammer drill
+welders	Q108699591	Welders
+welders	Q108699591	Welders
+oscillating multi-tool	Q6934510	oscillating multi-tool
+metalworking tools	Q59227884	Metalworking Tools from the Central Coast of Peru
+lock	Q105731	lock
+chainsaws	Q208040	chainsaw
+wood screw	Q54806448	wood screw
+printing press	Q6500733	printer
+lock	Q105731	lock
+rail fastenings	Q2234662	rail fastenings
+rivet	Q212500	rivet
+carabiner	Q588395	carabiner
+reciprocating saw	Q2282074	reciprocating saw
+screws	Q36935835	Screws
+coping saw	Q17084518	coping saw
+gravestones	Q108260271	Gravestones
+voltage sensor	Q21107673	Hydrogen voltage gated channel 1
+wind mill	Q38720	windmill
+rivets	Q4395226	Rivets
+two-man saw	Q143041	two-man saw
+angle brackets	Q110502275	angle brackets
+door lock	Q57567502	Door Lock
+ball peen hammer	Q1535657	ball-peen hammer
+drill chuck	Q19818	chuck
+drilling machine	Q2211295	drill press
+milling machine	Q623106	milling machine
+cnc router	Q16251414	CNC router
+drill bit	Q335283	drill bit
+cnc lathe	Q1023915	CNC lathe
+cut off saw	Q5159079	concrete saw
+box cutter	Q23769	utility knife
+milling	Q1585730	fulling
+screw press	Q1414307	screw press
+lathe	Q187833	lathe
+hand tools	Q50321273	Hand Tools
+manual metal arc welding	Q1992360	shielded metal arc welding
+key	Q132041	key
+extrusion machine	Q26347604	Extrusion machine operator dies of head injuries received when his head became caught in extrusion machine rollers - South Carolina, March 14, 1994
+ceramic mold	Q5063668	Ceramic molding
+ingot	Q83893	ingot
+steel coils	Q44545890	Steel coils
+cut off saw	Q5159079	concrete saw
+corkscrew	Q12337	corkscrew
+thumbtack	Q406839	drawing pin
+lumber mill	Q505213	sawmill
+amazon locker	Q16974764	Amazon Locker
+light bulb	Q47616	incandescent light bulb
+back saw	Q1402035	backsaw
+nuts	Q11009	nut
+table saw	Q2365675	table saw
+electric chainsaw	Q128601795	electric chainsaw
+pencil sharpener	Q193811	pencil sharpener
+clothespin	Q267290	clothespin
+pallets	Q107383393	Pallets-Sphinx-Themes
+laser cutting	Q593053	laser cutting
+pipes	Q8347	bagpipes
+try square	Q569316	try square
+windmill	Q38720	windmill
+zipper	Q101761	zipper
+reamer	Q863835	reamer
+angle grinder	Q827274	angle grinder
+padlock	Q40607	padlock
+safety equipment	Q3030569	protective device
+paint brush	Q193897	paintbrush
+rope	Q31029	rope
+secateurs	Q144764	pruning shears
+bandsaw	Q806378	bandsaw
+metalworking	Q953045	metalworking
+vernier calipers	Q25921354	Vernier calipers
+network switch	Q4503	network switch
+laser cutter	Q124816652	laser cutter
+screwdriver	Q161071	screwdriver
+chainsaw	Q208040	chainsaw
+door lock	Q57567502	Door Lock
+cordless drill	Q456101	cordless drill
+windmill	Q38720	windmill
+wood lathe	Q239990	woodturning lathe
+personal protective equipment	Q1333024	personal protective equipment
+hydraulic press	Q674484	machine press
+drilling machine	Q2211295	drill press
+drilling machine	Q2211295	drill press
+rebar	Q150425	reinforcing bar
+wood chipper	Q1621575	woodchipper
+stamping machine	Q18891559	stamping machine
+angle brackets	Q110502275	angle brackets
+gas cylinder	Q774332	gas cylinder
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+clothespin	Q267290	clothespin
+wood saw	Q70802185	wood saw
+steam hammer	Q19767	steam hammer
+milling machine	Q623106	milling machine
+mortar and pestle	Q18341850	mortar and pestle
+welding equipment	Q1613682	welding equipment
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+wool shears	Q1533174	sheep shears
+hinge	Q244330	hinge
+scissors	Q40847	scissors
+band saw	Q116971275	band saw
+laser cutter	Q124816652	laser cutter
+hole puncher	Q183413	hole puncher
+masking tape	Q3775755	masking tape
+spiral drills	Q56296876	twist drill
+plumbing fitting	Q116970842	plumbing fittings & support
+percussion drill	Q19599600	hammer drill
+welding machine	Q1936800	welding power supply
+bronze casting	Q928402	bronze casting
+machining	Q192047	machining
+ladder	Q168639	ladder
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+washers	Q11945252	Washers
+floor sander	Q24724975	Floor sander dies when wood floor refinish product ignites
+hole saw	Q764324	hole saw
+special direct system	Q458278	SDS
+fasteners	Q107380930	fasteners
+boring machine	Q3933812	Boring machine
+windmill	Q38720	windmill
+nails	Q17325289	Nails
+cordless drill	Q456101	cordless drill
+scissors	Q40847	scissors
+cordless drills	Q68063456	Cordless drills
+lathe	Q187833	lathe
+grinding wheel	Q1931980	grinding wheel
+drilling equipment	Q111436852	drilling equipment
+keys	Q21491451	Keys
+hex key	Q16953	hex key
+scotch tape	Q259589	scotch tape
+Archimedes' screw	Q189155	Archimedes' screw
+chainsaw	Q208040	chainsaw
+hole puncher	Q183413	hole puncher
+jointer	Q1253445	jointer
+crosscut saw	Q291319	crosscut saw
+print machine	Q24852414	Print machine operator is strangled when his shirt is caught on a rotating knob
+meat grinder	Q899260	meat grinder
+rope thimble	Q8955276	thimble
+sandpaper	Q142274	sandpaper
+screws	Q36935835	Screws
+cordless drills	Q68063456	Cordless drills
+metalworking lathe	Q3681647	metal lathe
+grinding wheel	Q1931980	grinding wheel
+windmill	Q38720	windmill
+phillips head screw	Q128560689	Phillips-head screw
+stone saw	Q2341315	stone saw
+railway equipment	Q7284249	Railway equipment industry in the People's Republic of China
+jigsaw	Q15712110	Jigsaw
+chainsaw	Q208040	chainsaw
+welder	Q836328	welder
+oxy-fuel welding and cutting	Q118568	oxy-fuel welding and cutting
+chisels	Q114396271	Chisels & Bits
+excavator	Q182661	excavator
+lock	Q105731	lock
+wood planer	Q129697162	Wood planer control: Predictive and prescriptive approaches via Automatic State Matching Gaussian processes
+cutting tools	Q123683229	Cutting tools
+saw blade	Q4683254	saw blade
+welding equipment	Q1613682	welding equipment
+zipper	Q101761	zipper
+zippers	Q48818852	Zippers
+train hitch	Q1354582	train surfing
+extruder	Q1366621	extruder
+punches	Q37564719	Punches
+lathe	Q187833	lathe
+screw pump	Q1047037	screw pump
+demolition shears	Q306848	demolition shears
+welding	Q131172	welding
+scissors	Q40847	scissors
+hand drill	Q1133232	hand drill
+bicycle	Q11442	bicycle
+South Bend Lathe	Q7566306	South Bend Lathe Works
+chainsaw	Q208040	chainsaw
+metal lathe	Q3681647	metal lathe
+crane	Q178692	crane
+machine screw	Q107437313	machine screw
+ice screws	Q71865	ice screw
+push pins	Q73180554	Push Pins, Dots, Customisation, Brands and Services: The Three Waves of Making Digital Maps
+hand saw	Q2750929	hand saw
+lumber mill	Q505213	sawmill
+padlock	Q40607	padlock
+paperclip	Q8353	paper clip
+angle grinder	Q827274	angle grinder
+drill press	Q20820500	box column drill
+incandescent light bulb	Q47616	incandescent light bulb
+bench grinder	Q2564323	bench grinder
+train	Q870	train
+table saw	Q2365675	table saw
+wood lathe	Q239990	woodturning lathe
+bell	Q101401	bell
+chainsaw	Q208040	chainsaw
+screws	Q36935835	Screws
+casting mold	Q119519004	Casting mold
+miter saw	Q373255	power miter saw
+bottle opener	Q80852	Shanghai World Financial Center
+woodchipper	Q1621575	woodchipper
+hard hat	Q2058262	hard hat
+tweezers	Q192504	tweezers
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+water wheel	Q146728	water wheel
+power drill	Q39101613	Power drills to fenestrate exposed bone to stimulate wound healing
+gas metal arc welding	Q1765723	gas metal arc welding
+Mortar	Q189566	mortar
+pencil sharpener	Q193811	pencil sharpener
+Welding robots	Q59274840	Welding robots
+safety equipment	Q3030569	protective device
+woodworking shop	Q40155795	Woodworking Shop
+Black & Decker - 18V multi tool plus	Q23445	black
+factory floor	Q5428767	Factory Floor
+machining centers	Q30284915	Machining Centers Manufacturing
+molcajete	Q2572032	molcajete
+snips	Q51755	Ahsoka Tano
+rock drills	Q11941822	rock drill
+grinding tools	Q127787630	Grinding Tools at the Third Intermediate Period Tell el-Retaba
+screwdrivers	Q117715471	Screwdrivers MC
+machinists	Q19572770	The Machinists
+nuts	Q11009	nut
+excavator	Q182661	excavator
+duct tape	Q1030313	duct tape
+jigsaws	Q33346328	Jigsaws-a preserved ability in semantic dementia
+chainsaw	Q208040	chainsaw
+forging	Q193057	forging
+pencil sharpener	Q193811	pencil sharpener
+metalworking	Q953045	metalworking
+soldering iron	Q623402	soldering iron
+scissors	Q40847	scissors
+riveter	Q72981050	riveter
+soldering	Q7557228	Soldering
+manual metal arc welding	Q1992360	shielded metal arc welding
+pipes	Q8347	bagpipes
+tools	Q36500248	Wikimedia Toolforge
+golden spike	Q37402	Global Boundary Stratotype Section and Point
+oscillating multi-tool	Q6934510	oscillating multi-tool
+Edison screw	Q1764334	Edison screw
+lathe	Q187833	lathe
+screws	Q36935835	Screws
+nail gun	Q77257	nail gun
+drilling machines	Q26372504	Drilling Machines, Surface
+height gauge	Q2283738	height gauge
+drill bits	Q335283	drill bit
+pallets	Q107383393	Pallets-Sphinx-Themes
+lumberjacks	Q16191455	Cal Poly Humboldt Lumberjacks
+metal slab	Q50854824	Metal slab superlens-negative refractive index versus inclined illumination: discussion.
+welders	Q108699591	Welders
+duct tape	Q1030313	duct tape
+construction site	Q360418	construction site
+saw	Q125356	saw
+scissors	Q40847	scissors
+lockout-tagout	Q681384	lockout-tagout
+saws	Q125356	saw
+bolt cutters	Q77006266	Bolt Cutters (second state)
+press	Q1193236	news media
+flame cutting machines	Q25386326	Flame cutting machines
+sawyers	Q56540597	Sawyers
+meat grinders	Q54594889	Meat grinders and molecular epidemiology: two supermarket outbreaks of Escherichia coli O157:H7 infection.
+drilling	Q890886	drilling
+lathe	Q187833	lathe
+sharpening stone	Q507559	sharpening stone
+welding equipment	Q1613682	welding equipment
+grinder	Q245761	grinding machine
+drill bit	Q335283	drill bit
+Glockenguss	Q101401	bell
+chainsaw	Q208040	chainsaw
+filter press	Q647023	filter press
+axes	Q19888542	Axes
+razor	Q13422881	razor
+sawing	Q3954248	sawing
+washers	Q11945252	Washers
+drilling machines	Q26372504	Drilling Machines, Surface
+printing presses	Q7245316	Printing Presses and Publications Act
+machining tools	Q19768	machine tool
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+manual metal arc welding	Q1992360	shielded metal arc welding
+grinding stones	Q124252047	Grinding stones in India
+rail fastenings	Q2234662	rail fastenings
+power tools	Q124069852	Power Tools VR
+manual metal arc welding	Q1992360	shielded metal arc welding
+arc welding	Q422937	arc welding
+scissors	Q40847	scissors
+pencil sharpener	Q193811	pencil sharpener
+windmill	Q38720	windmill
+anvils	Q64513255	Anvils and Trapped Wheel
+drilling machines	Q26372504	Drilling Machines, Surface
+lathe	Q187833	lathe
+drill	Q58964	drill
+cordless drills	Q68063456	Cordless drills
+vertical milling machine	Q623106	milling machine
+keys	Q21491451	Keys
+CNC lathe	Q1023915	CNC lathe
+anvils	Q64513255	Anvils and Trapped Wheel
+engraving machine	Q1447435	engraving machine
+drill bits	Q335283	drill bit
+directional drilling	Q1422489	Directional drilling
+printing presses	Q7245316	Printing Presses and Publications Act
+water wheel	Q146728	water wheel
+drilling machines	Q26372504	Drilling Machines, Surface
+windmill	Q38720	windmill
+keys	Q21491451	Keys
+gas tungsten arc welding	Q1627310	gas tungsten arc welding
+brazing	Q13389141	brazing
+drilling machines	Q26372504	Drilling Machines, Surface
+welding	Q131172	welding
+CNC	Q8849	Cancer
+welding helmet	Q787354	welding helmet
+millstone dressing	Q2348670	millstone dressing
+drilling machines	Q26372504	Drilling Machines, Surface
+spiral drills	Q56296876	twist drill
+cyanoacrylate glue	Q107407155	superglue
+CNC lathe	Q1023915	CNC lathe
+anvils	Q64513255	Anvils and Trapped Wheel
+milling machine	Q623106	milling machine
+drill bits	Q335283	drill bit
+horizontal drilling machine	Q125831877	Horizontal drilling machine with an in-situ detection device
+printing presses	Q7245316	Printing Presses and Publications Act
+drilling machines	Q26372504	Drilling Machines, Surface
+windmill	Q38720	windmill
+keys	Q21491451	Keys
+manual metal arc welding	Q1992360	shielded metal arc welding
+manual metal arc welding	Q1992360	shielded metal arc welding
+combination machine	Q2069500	combination machine
+chainsaws	Q208040	chainsaw
+water jet cutter	Q660875	Water jet cutter
+train	Q870	train
+locker	Q1195470	locker
+hoe	Q131154	hoe
+razor sharpener	Q107196578	razor sharpener
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+arc welding	Q422937	arc welding
+YubiKey	Q19600525	YubiKey
+machine tools	Q19768	machine tool
+tie down straps	Q1277336	tie-down straps
+phillips head screw	Q128560689	Phillips-head screw
+anvils	Q64513255	Anvils and Trapped Wheel
+tongs	Q3276479	tongs
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+metalworking	Q953045	metalworking
+utility vehicle	Q3564023	utility vehicle
+binder clips	Q1435328	binder clip
+welding	Q131172	welding
+ratchet strap	Q1277336	tie-down straps
+screw gun	Q15807771	screw gun
+knurling	Q499954	knurling
+adhesive tapes	Q47647295	Adhesive tapes in the special care baby unit
+washers	Q11945252	Washers
+ceramic mold	Q5063668	Ceramic molding
+Edison screw	Q1764334	Edison screw
+welders	Q108699591	Welders
+anvils	Q64513255	Anvils and Trapped Wheel
+metalworking	Q953045	metalworking
+master lock	Q12859031	Master Lock
+welding robots	Q59274840	Welding robots
+bell	Q101401	bell
+packing tape	Q4951474	box-sealing tape
+hand tools	Q50321273	Hand Tools
+spirit levels	Q53366902	Spirit levels
+c-clamps	Q70926066	C clamps in the Begg technique
+printing presses	Q7245316	Printing Presses and Publications Act
+Chubb Security	Q5115258	Chubb Fire & Security Group
+squares	Q48890502	Squares
+welding	Q131172	welding
+wire cutters	Q1255405	wire cutters
+control panel	Q1081102	Control Panel
+windmill	Q38720	windmill
+bolts	Q201864	Tampa Bay Lightning
+compact drill	Q117073069	Compact Driller
+drilling machines	Q26372504	Drilling Machines, Surface
+filing	Q1126002	filing
+industrial equipment	Q3045515	industrial equipment
+staples	Q2227729	Staples
+bearings	Q16243277	Bearings
+Spax screws	Q1569385	Spax screws
+bearings	Q16243277	Bearings
+screws	Q36935835	Screws
+surgical saws	Q18748667	Surgical saws
+pliers	Q13049940	pliers
+anvils	Q64513255	Anvils and Trapped Wheel
+chainsaws	Q208040	chainsaw
+locks	Q10854629	Locks
+spirit levels	Q53366902	Spirit levels
+scissors	Q40847	scissors
+paper shredders	Q645424	pulper
+sledge hammer	Q2246394	blacksmith's hammer
+sawmills	Q2023378	Sawmills
+cordless drills	Q68063456	Cordless drills
+scissors	Q40847	scissors
+hard hat	Q2058262	hard hat
+welding	Q131172	welding
+hard hat	Q2058262	hard hat
+cordless drills	Q68063456	Cordless drills
+millstones	Q15121807	Millstones
+self-tapping screws	Q38538595	Self Tapping Screws v/s Erich Arch Bar for Inter Maxillary Fixation: A Comparative Clinical Study in the Treatment of Mandibular Fractures
+vise	Q49743	Visé
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+welding	Q131172	welding
+bronze casting	Q928402	bronze casting
+combination tool	Q111467266	combination tool
+scissors	Q40847	scissors
+pencil sharpeners	Q193811	pencil sharpener
+windmill	Q38720	windmill
+anvils	Q64513255	Anvils and Trapped Wheel
+drilling machines	Q26372504	Drilling Machines, Surface
+umbrellas	Q100372239	Umbrellas
+metalworking	Q953045	metalworking
+industrial machine	Q3045515	industrial equipment
+scissors	Q40847	scissors
+screwdrivers	Q117715471	Screwdrivers MC
+hand drill	Q1133232	hand drill
+solder suckers	Q97375952	Solder suckers
+arc welding	Q422937	arc welding
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+arc welding	Q422937	arc welding
+knurling	Q499954	knurling
+sandpaper	Q142274	sandpaper
+rail fastenings	Q2234662	rail fastenings
+orthopedic equipment	Q72085708	orthopedic equipment
+scissors	Q40847	scissors
+calipers	Q12408	caliper
+hinges	Q1043177	Hinges
+windmill	Q38720	windmill
+hand press	Q20820224	hand press
+Kobelco crane	Q11302404	Kobelco Cranes
+welding equipment	Q1613682	welding equipment
+Edison screw	Q1764334	Edison screw
+woodchippers	Q14906751	woodchippers
+sewing kit	Q33523821	sewing kit
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+cutting machines	Q26377691	Cutting Machines and Cutting
+fishing hooks	Q24251437	Teaspoon (fishing hook)
+sawmills	Q2023378	Sawmills
+filing	Q1126002	filing
+dowel pins	Q67505082	Dowel pins
+scissors	Q40847	scissors
+printing presses	Q7245316	Printing Presses and Publications Act
+c-clamps	Q70926066	C clamps in the Begg technique
+metal lathe	Q3681647	metal lathe
+safety helmet	Q124445592	Safety helmet
+love padlocks	Q99964508	love padlocks of Hohenzollern Bridge
+screwdrivers	Q117715471	Screwdrivers MC
+arc welding	Q422937	arc welding
+rail fastenings	Q2234662	rail fastenings
+scissors	Q40847	scissors
+ball mill	Q781139	ball mill
+adhesives	Q131790	adhesive
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+metal casting	Q9268371	metal casting
+grinding stones	Q124252047	Grinding stones in India
+knife blade	Q32489	knife
+machining centers	Q30284915	Machining Centers Manufacturing
+oil mills	Q56880804	oils and fats industry
+grinding	Q3680646	grinding
+woodchippers	Q14906751	woodchippers
+screws	Q36935835	Screws
+hooks	Q982654	Hooks
+screwdrivers	Q117715471	Screwdrivers MC
+drilling machines	Q26372504	Drilling Machines, Surface
+welders	Q108699591	Welders
+textile machine	Q1573728	textile machine
+printing presses	Q7245316	Printing Presses and Publications Act
+screwdrivers	Q117715471	Screwdrivers MC
+saws	Q125356	saw
+drill presses	Q2211295	drill press
+underwater welding	Q2346649	hyperbaric welding
+cutlers	Q122549995	Cutlers
+boat hooks	Q4339908	boat hook
+loram maintenance	Q4042484	LORAM Maintenance of Way, Inc.
+nut and bolt	Q87581011	🔩
+woodchippers	Q14906751	woodchippers
+cordless drills	Q68063456	Cordless drills
+printing presses	Q7245316	Printing Presses and Publications Act
+woodworking machinery	Q2027611	woodworking machine
+directional drilling	Q1422489	Directional drilling
+sawmills	Q2023378	Sawmills
+coffee grinders	Q73823603	Coffee grinders assist pediatric dosing
+welders	Q108699591	Welders
+jewellery making	Q161439	jewelry
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+clamps	Q112589797	Clamps
+thermite welding	Q910714	exothermic welding
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+key fobs	Q119361046	Key fobs for vehicle remote park-assist
+manual metal arc welding	Q1992360	shielded metal arc welding
+bolts	Q201864	Tampa Bay Lightning
+keyholes	Q488855	keyway
+calandre	Q24843	Greater Short-toed Lark
+scissors	Q40847	scissors
+sawyers	Q56540597	Sawyers
+balloon framing	Q21550385	balloon framing
+braces	Q109742	suspenders
+caulk gun	Q1734658	caulking gun
+arc welding	Q422937	arc welding
+micrometers	Q83865946	Micrometers for the Blind
+scissors	Q40847	scissors
+forge	Q40558	smithy
+saws	Q125356	saw
+spirit levels	Q53366902	Spirit levels
+hand drill	Q1133232	hand drill
+secateurs	Q144764	pruning shears
+rollers	Q44245	Coraciidae
+pole lathe	Q7209259	pole lathe
+tractor	Q39495	tractor
+three-point hitch hooks	Q1395608	Three-point hitch hooks
+manual metal arc welding	Q1992360	shielded metal arc welding
+snow plow	Q14976	snowplow
+tower crane	Q1536423	tower crane
+wire cutter	Q245934	diagonal pliers
+bearing	Q190100	bearing
+rotary printing press	Q911814	rotary printing press
+furnace	Q1709184	heating furnace
+machine screw	Q107437313	machine screw
+pneumatic tool	Q3635139	pneumatic tool
+chainsaw	Q208040	chainsaw
+personal protective equipment	Q1333024	personal protective equipment
+screw head	Q96746126	screw head shape
+drilling rig	Q12688575	drilling rig
+try square	Q569316	try square
+light bulb	Q47616	incandescent light bulb
+screwdriver	Q161071	screwdriver
+safety gear	Q1333024	personal protective equipment
+micrometer	Q175821	micrometre
+wrench	Q154411	wrench
+lathe	Q187833	lathe
+gears	Q143873	cogwheel
+retaining pin	Q5639563	Hairpin clip
+welding	Q131172	welding
+hacksaw	Q1195804	hacksaw
+printing press	Q6500733	printer
+factory floor	Q5428767	Factory Floor
+railroad tracks	Q122313895	Railroad Tracks
+pliers	Q13049940	pliers
+hook	Q4243098	hook
+scissors	Q40847	scissors
+drilling	Q890886	drilling
+hammer	Q25294	hammer
+cider press	Q26666059	The Cider Press Public House
+anvil	Q104363	anvil
+duct tape	Q1030313	duct tape
+snow plow	Q14976	snowplow
+drill press	Q20820500	box column drill
+scissors	Q40847	scissors
+c-clamp	Q5005931	C-clamp
+printing press	Q6500733	printer
+chainsaw	Q208040	chainsaw
+jack	Q165278	pike
+bike lock	Q1392592	bicycle lock
+rail car	Q208502	railroad car
+bolts	Q201864	Tampa Bay Lightning
+computer numerical control	Q190247	computer numerical control
+corkscrew	Q12337	corkscrew
+printing press	Q6500733	printer
+lathe	Q187833	lathe
+metalworking	Q953045	metalworking
+fire hydrant	Q634299	fire hydrant
+grinding wheel	Q1931980	grinding wheel
+hand tools	Q50321273	Hand Tools
+compact fluorescent light bulb	Q59639674	Compact Fluorescent Light Bulbs (CFLs): Issues with Use and Disposal
+tongs	Q3276479	tongs
+power drill	Q39101613	Power drills to fenestrate exposed bone to stimulate wound healing
+chainsaw	Q208040	chainsaw
+spirit level	Q207988	spirit level
+light bulb	Q47616	incandescent light bulb
+chainsaw	Q208040	chainsaw
+hand saw	Q2750929	hand saw
+crane hook	Q495451	lifting hook
+pencil	Q14674	pencil
+screws	Q36935835	Screws
+bandsaw	Q806378	bandsaw
+nut and bolt	Q87581011	🔩
+torch	Q327954	torch
+vehicle	Q42889	vehicle
+lawn mower	Q260521	lawn mower
+ruler	Q1097498	ruler
+sander	Q18670563	Sander
+spade bit	Q107637124	spade bit
+lathe	Q187833	lathe
+circular saw	Q1141837	circular saw
+anvil	Q104363	anvil
+grinding	Q3680646	grinding
+file	Q82753	computer file
+key fob	Q51338	keychain
+welding torch	Q119823051	Welding torch
+grinding wheels	Q116971036	grinding wheels & point
+angle grinder	Q827274	angle grinder
+tile cutter	Q27103691	tile cutter
+excavator	Q182661	excavator
+train	Q870	train
+machine	Q11019	machine
+snow mobile	Q18027944	Snow Mobile Saalbach Hinterglemm
+circular saw	Q1141837	circular saw
+lightbulb	Q551904	Hope Su
+screws	Q36935835	Screws
+lathe	Q187833	lathe
+machine tools	Q19768	machine tool
+archimedes screw	Q189155	Archimedes' screw
+clamp	Q334471	Clamp
+construction worker	Q811122	construction worker
+circular saw	Q1141837	circular saw
+incandescent light bulb	Q47616	incandescent light bulb
+sandpaper	Q142274	sandpaper
+butcher	Q329737	butcher
+grinder	Q245761	grinding machine
+manual metal arc welding	Q1992360	shielded metal arc welding
+i-beam	Q1780087	I-beam
+chainsaw	Q208040	chainsaw
+wood chipper	Q1621575	woodchipper
+spirit levels	Q53366902	Spirit levels
+welding torch	Q119823051	Welding torch
+tube	Q41551	pipe
+engineering drawing	Q48772217	Engineering Drawing
+knife sharpener	Q4990607	knife grinder
+cnc machine	Q13231055	CNC machine
+foundry	Q496098	casting
+scissors	Q40847	scissors
+screwdriver	Q161071	screwdriver
+level	Q1046315	level
+tool handle	Q17504947	tool handle
+lathe	Q187833	lathe
+welder	Q836328	welder
+respirator	Q813243	ventilator
+angle grinder	Q827274	angle grinder
+drill	Q58964	drill
+tape	Q149757	compact cassette
+crane	Q178692	crane
+chisel	Q474188	chisel
+hinge	Q244330	hinge
+windmill	Q38720	windmill
+heat gun	Q1057985	heat gun
+construction site	Q360418	construction site
+crane hook	Q495451	lifting hook
+tool handle	Q17504947	tool handle
+water wheel	Q146728	water wheel
+plate	Q57216	plate
+knife sharpener	Q4990607	knife grinder
+screw	Q11022	screw
+axe	Q39397	axe
+scroll saw	Q1183768	scroll saw
+winding machine	Q8024248	winding machine
+hole punches	Q183413	hole puncher
+wire saw	Q689574	wire saw
+axe	Q39397	axe
+rail tracks	Q110278971	Szyny były złe
+screw extractor	Q1467847	screw extractor
+power hammer	Q3446739	power hammer
+nine pound hammer	Q4045353	Nine Pound Hammer
+plane	Q197	airplane
+spin handle drill pipes](https://www.wikidata.org/wiki/Q15982279)]	Q15982279	Talaadah
+power jack	Q24237712	AC power socket
+clamp	Q334471	Clamp
+fire extinguisher	Q190672	fire extinguisher
+furnace	Q1709184	heating furnace
+flanging	Q1323480	flanging
+key	Q132041	key
+drilling machines	Q26372504	Drilling Machines, Surface
+crane	Q178692	crane
+drill press	Q20820500	box column drill
+workbench	Q347690	workbench
+welding	Q131172	welding
+key	Q132041	key
+lock	Q105731	lock
+welding	Q131172	welding
+scissors	Q40847	scissors
+grinding stones	Q124252047	Grinding stones in India
+saw	Q125356	saw
+lathe	Q187833	lathe
+machine tools	Q19768	machine tool
+welders	Q108699591	Welders
+nameplate	Q2713450	nameplate
+factory	Q83405	factory
+hand tool	Q2578402	hand tool
+chisel	Q474188	chisel
+milling machine	Q623106	milling machine
+hammer drill	Q19599600	hammer drill
+drilling machines	Q26372504	Drilling Machines, Surface
+safety pin	Q840333	safety pin
+CNC mill	Q623106	milling machine
+machining centers	Q30284915	Machining Centers Manufacturing
+drilling machines	Q26372504	Drilling Machines, Surface
+printing press	Q6500733	printer
+welders	Q108699591	Welders
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+drill press	Q20820500	box column drill
+vise	Q49743	Visé
+hand axe	Q479448	hand axe
+welders	Q108699591	Welders
+key	Q132041	key
+keyhole	Q488855	keyway
+computer numerical control	Q190247	computer numerical control
+crack monitor	Q1551087	Crackmeter
+human machine interface	Q4508598	human-machine interface
+anvil	Q104363	anvil
+fire extinguisher	Q190672	fire extinguisher
+bolts	Q201864	Tampa Bay Lightning
+chisel	Q474188	chisel
+scissors	Q40847	scissors
+truck	Q43193	truck
+retaining ring pliers	Q100869637	circlip tool
+welding	Q131172	welding
+scissors	Q40847	scissors
+scissors	Q40847	scissors
+saw	Q125356	saw
+lathe	Q187833	lathe
+welders	Q108699591	Welders
+scissors	Q40847	scissors
+tweezer	Q60778901	Tweezer
+PVA glue	Q2545787	PVA glue
+cement mixer	Q831584	concrete mixer
+steel bars	Q114509254	Steel Bars and Stone Walls
+continuous casting	Q1506832	continuous casting
+ratchet strap	Q1277336	tie-down straps
+foundry	Q496098	casting
+brazing	Q13389141	brazing
+buck saw	Q64593274	Buck Saw
+bolt	Q212792	Bolt
+lathe	Q187833	lathe
+hand drill	Q1133232	hand drill
+steam locomotive	Q171043	steam locomotive
+foundry	Q496098	casting
+screwdrivers	Q117715471	Screwdrivers MC
+tie down straps	Q1277336	tie-down straps
+zipper	Q101761	zipper
+industrial vehicle	Q123996383	Industrial vehicle
+spirit levels	Q53366902	Spirit levels
+meta work	Q29999390	Meta-workflows
+drill press	Q20820500	box column drill
+blades	Q193466	rotor
+shredders	Q107215441	Shredders
+safety helmet	Q124445592	Safety helmet
+crane hook	Q495451	lifting hook
+master lock	Q12859031	Master Lock
+scissors	Q40847	scissors
+robot hand	Q1340324	robot end effector
+Edison screw	Q1764334	Edison screw
+scissors	Q40847	scissors
+hand tool	Q2578402	hand tool
+robot arm	Q40687	robotic arm
+presses	Q1892146	Presses universitaires de France
+drill press	Q20820500	box column drill
+anvils	Q64513255	Anvils and Trapped Wheel
+drill bits	Q335283	drill bit
+anvil	Q104363	anvil
+wire cutters	Q1255405	wire cutters
+bevel gears	Q2144215	Bevel gear
+saw mill	Q505213	sawmill
+chainsaw	Q208040	chainsaw
+grinders	Q3116751	Grinders
+welding goggles	Q7980875	welding goggles
+screws	Q36935835	Screws
+scissors	Q40847	scissors
+autoforge	Q126693120	AutoForge
+drilling rig	Q12688575	drilling rig
+lock	Q105731	lock
+hasps	Q64537775	Hasps
+welders	Q108699591	Welders
+factory	Q83405	factory
+ABUS	Q287612	ABUS
+lathe	Q187833	lathe
+welders	Q108699591	Welders
+scissors	Q40847	scissors
+glue	Q500548	glue
+paintbrush	Q193897	paintbrush
+steel bars	Q114509254	Steel Bars and Stone Walls
+casting mold	Q119519004	Casting mold
+continuous casting	Q1506832	continuous casting
+tie down straps	Q1277336	tie-down straps
+steel foundry	Q21620084	Steel Foundry
+ladles	Q26802849	Lādlesāhebcha Dongar
+safety goggles	Q72797	goggles
+saw	Q125356	saw
+power tool	Q1327701	power tool
+crosscut saw	Q291319	crosscut saw
+buck saw	Q64593274	Buck Saw
+bolt	Q212792	Bolt
+hand saw	Q2750929	hand saw
+pad saw	Q765735	keyhole saw
+lathe	Q187833	lathe
+south bend lathe	Q7566306	South Bend Lathe Works
+cordless drills	Q68063456	Cordless drills
+locomotive	Q93301	locomotive
+steel foundry	Q21620084	Steel Foundry
+ladles	Q26802849	Lādlesāhebcha Dongar
+screwdrivers	Q117715471	Screwdrivers MC
+tie down straps	Q1277336	tie-down straps
+zipper	Q101761	zipper
+spirit levels	Q53366902	Spirit levels
+steel foundry	Q21620084	Steel Foundry
+ladles	Q26802849	Lādlesāhebcha Dongar
+incandescent light bulb	Q47616	incandescent light bulb
+metalworking	Q953045	metalworking
+shredders	Q107215441	Shredders
+cutting blades	Q3867900	Museum of cutting blades and Palazzo Vicari
+furnace	Q1709184	heating furnace
+master lock	Q12859031	Master Lock
+scissors	Q40847	scissors
+chainsaw	Q208040	chainsaw
+screws	Q36935835	Screws
+scissors	Q40847	scissors
+wappenschmiede Elmstein	Q17265437	Wappenschmiede Elmstein
+drilling rig	Q12688575	drilling rig
+trompes	Q1233836	uterine tube
+oil seal	Q59629885	Oil Seal
+lock	Q105731	lock
+key	Q132041	key
+keys	Q21491451	Keys
+welders	Q108699591	Welders
+continuous casting	Q1506832	continuous casting
+work gloves	Q2252300	protective gloves
+welders	Q108699591	Welders
+cordless drills	Q68063456	Cordless drills
+table saw	Q2365675	table saw
+welders	Q108699591	Welders
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+hand tools	Q50321273	Hand Tools
+ruler	Q1097498	ruler
+clasp	Q2239762	clasp
+drilling machines	Q26372504	Drilling Machines, Surface
+exploratory drilling	Q61460064	Exploratory drilling for evidence of zinc and lead ore in Dubuque County, Iowa
+on/off switch	Q41854642	On/off-switchable LSPR nano-immunoassay for troponin-T.
+scissors	Q40847	scissors
+adhesive tapes	Q47647295	Adhesive tapes in the special care baby unit
+workshop	Q83405	factory
+wood lathe	Q239990	woodturning lathe
+plasma cutting	Q1385316	plasma cutting
+welders	Q108699591	Welders
+lathe	Q187833	lathe
+forklift	Q41577	forklift truck
+lightbulbs	Q6546260	Lightbulbs
+plasma cutting	Q1385316	plasma cutting
+manual metal arc welding	Q1992360	shielded metal arc welding
+anvil	Q104363	anvil
+self-tapping screws	Q38538595	Self Tapping Screws v/s Erich Arch Bar for Inter Maxillary Fixation: A Comparative Clinical Study in the Treatment of Mandibular Fractures
+wood lathe	Q239990	woodturning lathe
+glue guns	Q1304613	hot glue gun
+shovels	Q7502880	Shovels & Rope
+lathe	Q187833	lathe
+drill press	Q20820500	box column drill
+power tools	Q124069852	Power Tools VR
+tie down straps	Q1277336	tie-down straps
+angle grinder	Q827274	angle grinder
+work gloves	Q2252300	protective gloves
+level	Q1046315	level
+safety helmet	Q124445592	Safety helmet
+lathe	Q187833	lathe
+tie down straps	Q1277336	tie-down straps
+clamp	Q334471	Clamp
+washer	Q124441	washing machine
+nuts and bolts	Q7070541	Nuts and Bolts
+safety pins	Q11999067	Safety Pins
+chisel	Q474188	chisel
+chisels	Q114396271	Chisels & Bits
+keys	Q21491451	Keys
+foot pedal	Q1231985	pedal
+computer numerical control	Q190247	computer numerical control
+safety goggles	Q72797	goggles
+helmet	Q173603	helmet
+lathe	Q187833	lathe
+truck	Q43193	truck
+factory	Q83405	factory
+riveter	Q72981050	riveter
+spot welding	Q2327972	spot welding
+anvil	Q104363	anvil
+carabiner	Q588395	carabiner
+locks	Q10854629	Locks
+ladles	Q26802849	Lādlesāhebcha Dongar
+metallurgy	Q11467	metallurgy
+machine	Q11019	machine
+coffee grinders	Q73823603	Coffee grinders assist pediatric dosing
+adhesive tapes	Q47647295	Adhesive tapes in the special care baby unit
+screwdrivers	Q117715471	Screwdrivers MC
+pencil sharpeners	Q193811	pencil sharpener
+chisel	Q474188	chisel
+dikes	Q37437171	Dikes
+cutters	Q114495207	Cutters
+drilling machines	Q26372504	Drilling Machines, Surface
+cement truck	Q24706578	Cement truck driver dies after being backed over by a skid-steer loader - South Carolina
+knife	Q32489	knife
+grafting knife	Q111337192	pruning knife
+cigar cutters	Q182058	cigar cutter
+welders	Q108699591	Welders
+adhesives	Q131790	adhesive
+forging	Q193057	forging
+clothespins	Q73084355	Clothespins for laboratory glassware
+keys	Q21491451	Keys
+micrometer	Q175821	micrometre
+chainsaws	Q208040	chainsaw
+drill bits	Q335283	drill bit
+pencil sharpener	Q193811	pencil sharpener
+crucibles	Q45945499	Crucibles of leadership.
+casting	Q496098	casting
+hard hat	Q2058262	hard hat
+quernstones	Q62076677	Quernstones and Tuff as indicators for Medieval European trade patterns
+machine tools	Q19768	machine tool
+presses	Q1892146	Presses universitaires de France
+pulleys	Q7259449	Pulleys Mill
+flashlight	Q235783	flashlight
+torch	Q327954	torch
+clasps	Q116960426	clasps & hook
+snow blowers	Q1351693	snow blower
+safe	Q471898	safe
+hammer drill	Q19599600	hammer drill
+tape measure	Q104555	ruler
+hand tools	Q50321273	Hand Tools
+drilling rig	Q12688575	drilling rig
+sugar tongs	Q36256949	sugar tongs
+riveters	Q76548573	Riveters
+presses	Q1892146	Presses universitaires de France
+hydraulic press	Q674484	machine press
+clothespins	Q73084355	Clothespins for laboratory glassware
+springs	Q761408	Springs
+De Gekroonde Poelenburg	Q2020965	De Gekroonde Poelenburg
+computer numerical control	Q190247	computer numerical control
+press cake breakers	Q2886239	press cake breakers
+furnace	Q1709184	heating furnace
+vice grip	Q26156693	Vice Grip
+Obere Hammerschmiede	Q41317189	Obere Hammerschmiede
+oxy fuel welding	Q56558509	oxy-fuel welding
+black & decker rotary hammers	Q23445	black
+saws	Q125356	saw
+spirit levels	Q53366902	Spirit levels
+belt sander	Q806370	belt sander
+vice	Q1411242	vice
+welding	Q131172	welding
+spirit levels	Q53366902	Spirit levels
+workbench	Q347690	workbench
+circular saw	Q1141837	circular saw
+gravestones	Q108260271	Gravestones
+demolition shears	Q306848	demolition shears
+drill presses	Q2211295	drill press
+safety pins	Q11999067	Safety Pins
+chisels	Q114396271	Chisels & Bits
+human machine interface	Q4508598	human-machine interface
+computer numerical control	Q190247	computer numerical control
+hammer	Q25294	hammer
+nameplate	Q2713450	nameplate
+windmill	Q38720	windmill
+oxy-fuel welding	Q56558509	oxy-fuel welding
+scissors	Q40847	scissors
+plasma cutting	Q1385316	plasma cutting
+Printing presses	Q7245316	Printing Presses and Publications Act
+machine tools	Q19768	machine tool
+cutting tools	Q123683229	Cutting tools
+keys	Q21491451	Keys
+laser welding	Q55616589	Laser welding of polymers
+scissors	Q40847	scissors
+glass worker's benches	Q2881990	Glass worker's benches
+power miter saw	Q373255	power miter saw
+screwdrivers	Q117715471	Screwdrivers MC
+winery	Q156362	winery
+grape processing	Q58763943	Grape Processing by High Hydrostatic Pressure: Effect on Microbial Populations, Phenol Extraction and Wine Quality
+welders	Q108699591	Welders
+keychain	Q51338	keychain
+adjustable clamp	Q125940027	Adjustable clamp systems and methods
+cnc mill	Q623106	milling machine
+computer numerical control	Q190247	computer numerical control
+bolts	Q201864	Tampa Bay Lightning
+windmill	Q38720	windmill
+screwdrivers	Q117715471	Screwdrivers MC
+welding	Q131172	welding
+computer numerical control	Q190247	computer numerical control
+machining	Q192047	machining
+threads	Q120281745	Threads
+jigsaws	Q33346328	Jigsaws-a preserved ability in semantic dementia
+chainsaws	Q208040	chainsaw
+packing tape	Q4951474	box-sealing tape
+rasp	Q277885	rasp
+carabiner	Q588395	carabiner
+self tapping screws	Q38538595	Self Tapping Screws v/s Erich Arch Bar for Inter Maxillary Fixation: A Comparative Clinical Study in the Treatment of Mandibular Fractures
+press	Q1193236	news media
+blacksmithing	Q11204681	blacksmithing
+press	Q1193236	news media
+pencil	Q14674	pencil
+electric relay	Q174053	relay
+spirit levels	Q53366902	Spirit levels
+crane	Q178692	crane
+drilling machines	Q26372504	Drilling Machines, Surface
+hand tools	Q50321273	Hand Tools
+screw pump	Q1047037	screw pump
+press	Q1193236	news media
+welding equipment	Q1613682	welding equipment
+kitchen tools	Q1521410	kitchenware
+belt	Q134560	belt
+buckles	Q157552	Primula veris
+Scythe	Q130912	scythe
+gear	Q143873	cogwheel
+rotating brush	Q34293021	Rotating brush for fast removal of corneal epithelium.
+crucible	Q390417	crucible
+wood	Q4421	forest
+scissors	Q40847	scissors
+forges	Q243155	Forges
+fur presses	Q98648902	Fur presses
+tie down straps	Q1277336	tie-down straps
+tracks	Q7831579	Tracks
+fishplates	Q2143500	fishplate
+bores	Q37034388	Bores
+cutters & scissors	Q114495207	Cutters
+hot glue gun	Q1304613	hot glue gun
+blacksmith shop	Q40558	smithy
+anvil	Q104363	anvil
+spirit levels	Q53366902	Spirit levels
+cordless drills	Q68063456	Cordless drills
+Printing presses	Q7245316	Printing Presses and Publications Act
+Fishing hooks	Q24251437	Teaspoon (fishing hook)
+Chainsaws	Q208040	chainsaw
+Printing presses	Q7245316	Printing Presses and Publications Act
+Wire cutters	Q1255405	wire cutters
+Ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+Scissors	Q40847	scissors
+Cutting machines	Q26377691	Cutting Machines and Cutting
+Shears	Q40847	scissors
+Pencil sharpeners	Q193811	pencil sharpener
+Saw blades	Q123187320	Saw Blades and Handsaws
+Ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+Rock drills	Q11941822	rock drill
+Scissors	Q40847	scissors
+Factory	Q83405	factory
+Excavators	Q105376597	Excavators
+Tie down straps	Q1277336	tie-down straps
+Chainsaws	Q208040	chainsaw
+Safety helmets	Q49162956	Safety-helmets
+Grinding tools	Q127787630	Grinding Tools at the Third Intermediate Period Tell el-Retaba
+Fasteners	Q107380930	fasteners
+Laser cutting	Q593053	laser cutting
+Fidget spinners	Q39425702	Fidget spinners: Purported benefits, adverse effects and accepted alternatives.
+Welding	Q131172	welding
+Foundries	Q123130999	Foundries
+Filing	Q1126002	filing
+Needle scaler	Q1963205	needlegun scaler
+Demolition shears	Q306848	demolition shears
+Screwdrivers	Q117715471	Screwdrivers MC
+Drilling machines	Q26372504	Drilling Machines, Surface
+Washers	Q11945252	Washers
+Wire cutters	Q1255405	wire cutters
+Oxyacetylene blowpipes	Q2921520	Oxyacetylene blowpipes
+Core samples	Q36294539	Core samples for radiomics features that are insensitive to tumor segmentation: method and pilot study using CT images of hepatocellular carcinoma
+SawStop	Q7428485	SawStop
+Scissors	Q40847	scissors
+Locks	Q10854629	Locks
+Drilling	Q890886	drilling
+Wire cutters	Q1255405	wire cutters
+Chucks	Q11599	Chuck Taylor All-Stars
+Vending machine	Q211584	vending machine
+Spinnenkop Wedderveer	Q2272283	Spinnenkop Wedderveer
+Trephines	Q80690908	Trephines for keratoplasty with micrometric regulation
+Welders	Q108699591	Welders
+Drill bits	Q335283	drill bit
+Lifting hooks	Q117207436	lifting hooks, clamps & shackle
+Bolt cutters	Q77006266	Bolt Cutters (second state)
+Secateurs	Q144764	pruning shears
+Hearing protection	Q13405515	hearing protection
+Bicycle locks	Q1392592	bicycle lock
+Scissors	Q40847	scissors
+Rail fastenings	Q2234662	rail fastenings
+Screws	Q36935835	Screws
+Welding	Q131172	welding
+Screwdrivers	Q117715471	Screwdrivers MC
+Love padlocks	Q99964508	love padlocks of Hohenzollern Bridge
+Soldering	Q7557228	Soldering
+Metalworking	Q953045	metalworking
+Drilling machines	Q26372504	Drilling Machines, Surface
+Mangles	Q36905947	Mangles
+Welders	Q108699591	Welders
+Oxy-fuel cutting	Q33101028	oxy-fuel cutting
+Kola Superdeep Borehole	Q19572	Kola Superdeep Borehole
+Screwdrivers	Q117715471	Screwdrivers MC
+Chainsaws	Q208040	chainsaw
+Woodchippers	Q14906751	woodchippers
+Sandpaper	Q142274	sandpaper
+Machine tools	Q19768	machine tool
+Medical tape	Q116220928	medical tape & bandage
+South Bend Lathe	Q7566306	South Bend Lathe Works
+Printing presses	Q7245316	Printing Presses and Publications Act
+Scissors	Q40847	scissors
+Forges	Q243155	Forges
+Cutting tools	Q123683229	Cutting tools
+Anvils	Q64513255	Anvils and Trapped Wheel
+Manual metal arc welding	Q1992360	shielded metal arc welding
+Special Direct System	Q458278	SDS
+Drill bits	Q335283	drill bit
+Printing presses	Q7245316	Printing Presses and Publications Act
+Railroad tracks	Q122313895	Railroad Tracks
+Iron foundries	Q123132052	Iron Foundries
+Felco	Q11921644	Federacion dels Ensenhaires de Lenga e Cultura d'Òc
+Gas cylinders	Q93835461	Gas Cylinders
+Felco	Q11921644	Federacion dels Ensenhaires de Lenga e Cultura d'Òc
+Sawzall	Q3475711	saber saw
+Arc welding	Q422937	arc welding
+Chainsaws	Q208040	chainsaw
+Jigsaws	Q33346328	Jigsaws-a preserved ability in semantic dementia
+Rail fastenings	Q2234662	rail fastenings
+Meat grinders	Q54594889	Meat grinders and molecular epidemiology: two supermarket outbreaks of Escherichia coli O157:H7 infection.
+Set squares	Q108431872	Set Squares
+Welders	Q108699591	Welders
+Packing tape	Q4951474	box-sealing tape
+Screws	Q36935835	Screws
+Demolition shears	Q306848	demolition shears
+Wooden dowels	Q64158454	Wooden Dowels
+Rail fastenings	Q2234662	rail fastenings
+Continuous track	Q940913	continuous track
+De Held Jozua	Q2660889	De Held Jozua
+Augers	Q760408	Augers-en-Brie
+Houtzaagmolen	Q19264200	Houtzaagmolen
+Friction stir welding	Q2068127	friction stir welding
+Spirit levels	Q53366902	Spirit levels
+Steel foundry	Q21620084	Steel Foundry
+Foundries	Q123130999	Foundries
+Pencil sharpeners	Q193811	pencil sharpener
+KSP-32 monument in Donetsk	Q125523552	KSP-32 monument in Donetsk
+Adhesives	Q131790	adhesive
+Drills	Q509222	drillship
+Needle scaler	Q1963205	needlegun scaler
+High Speed Steel	Q1127242	high speed steel
+Scissors	Q40847	scissors
+Golden Spike National Historical Park	Q1535051	Golden Spike National Historical Park
+Sawing	Q3954248	sawing
+Drilling machines	Q26372504	Drilling Machines, Surface
+Drilling machines	Q26372504	Drilling Machines, Surface
+Computer numerical control	Q190247	computer numerical control
+Welding equipment	Q1613682	welding equipment
+Drill presses	Q2211295	drill press
+Scissors	Q40847	scissors
+Bearings	Q16243277	Bearings
+KSP-32 monument in Donetsk	Q125523552	KSP-32 monument in Donetsk
+Welders	Q108699591	Welders
+Metalworking	Q953045	metalworking
+Foundries	Q123130999	Foundries
+Bolts	Q201864	Tampa Bay Lightning
+Machine tools	Q19768	machine tool
+Keys	Q21491451	Keys
+Spherical roller bearings	Q59630604	Spherical Roller Bearings
+Stone chisels	Q59179040	Stone chisels from Wood Walton, Huntingdonshire
+Anvils	Q64513255	Anvils and Trapped Wheel
+Screws	Q36935835	Screws
+Manual metal arc welding	Q1992360	shielded metal arc welding
+Chainsaws	Q208040	chainsaw
+Milling	Q1585730	fulling
+Computer numerical control	Q190247	computer numerical control
+Reamers	Q109121046	Reamers
+Spiral drills	Q56296876	twist drill
+Key fobs	Q119361046	Key fobs for vehicle remote park-assist
+Special Direct System	Q458278	SDS
+Bolts	Q201864	Tampa Bay Lightning
+Cutting machines	Q26377691	Cutting Machines and Cutting
+Brazing	Q13389141	brazing
+Pipes	Q8347	bagpipes
+Drilling machines	Q26372504	Drilling Machines, Surface
+Circular saws	Q59442969	Circular Saws and the History of Technology
+Milling	Q1585730	fulling
+Thread-locking fluid	Q2249485	thread-locking fluid
+Set squares	Q108431872	Set Squares
+Tie down straps	Q1277336	tie-down straps
+Ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+Milling process	Q129325743	Milling Process Monitoring Based on Vibration Analysis Using Hilbert-Huang Transform
+Tongs	Q3276479	tongs
+Cutting tools	Q123683229	Cutting tools
+Laser cutting	Q593053	laser cutting
+Drill presses	Q2211295	drill press
+Welders	Q108699591	Welders
+Brazing	Q13389141	brazing
+Scissors	Q40847	scissors
+Spirit levels	Q53366902	Spirit levels
+Black & Decker rotary hammers	Q23445	black
+Printing presses	Q7245316	Printing Presses and Publications Act
+Welding robots	Q59274840	Welding robots
+Drill presses	Q2211295	drill press
+Rail fastenings	Q2234662	rail fastenings
+Drill bits	Q335283	drill bit
+Glue guns	Q1304613	hot glue gun
+Cutting tools	Q123683229	Cutting tools
+Scissors	Q40847	scissors
+Printing presses	Q7245316	Printing Presses and Publications Act
+Taking measurements	Q77965475	Taking Measurements - The Artist Copying a Cast in the Hall of the National Gallery of Ireland
+SawStop	Q7428485	SawStop
+Cutting tools	Q123683229	Cutting tools
+Drilling machines	Q26372504	Drilling Machines, Surface
+Circular saw	Q1141837	circular saw
+Wire cutters	Q1255405	wire cutters
+Glass worker's benches	Q2881990	Glass worker's benches
+Woodworking machinery	Q2027611	woodworking machine
+Molen van Singraven	Q11721782	Watermill at Singraven
+Steel coils	Q44545890	Steel coils
+Personal protective equipment	Q1333024	personal protective equipment
+Glue guns	Q1304613	hot glue gun
+Core samples	Q36294539	Core samples for radiomics features that are insensitive to tumor segmentation: method and pilot study using CT images of hepatocellular carcinoma
+Nailing	Q10675690	nailing
+Knurling	Q499954	knurling
+Welding equipment	Q1613682	welding equipment
+Printing presses	Q7245316	Printing Presses and Publications Act
+Metalworking tools	Q59227884	Metalworking Tools from the Central Coast of Peru
+Cutting tools	Q123683229	Cutting tools
+Computer numerical control	Q190247	computer numerical control
+Oxy-fuel welding and cutting equipment	Q241230	oxy-fuel welding and cutting equipment
+Extruders	Q1385537	Extruderschnecke
+Tie down straps	Q1277336	tie-down straps
+De Gekroonde Poelenburg	Q2020965	De Gekroonde Poelenburg
+Machine tools	Q19768	machine tool
+Cable ties	Q110047851	Cable Ties
+Machining tools	Q19768	machine tool
+Forging	Q193057	forging
+Welders	Q108699591	Welders
+Nailing	Q10675690	nailing
+Bolts	Q201864	Tampa Bay Lightning
+Continuous casting	Q1506832	continuous casting
+Welding	Q131172	welding
+Spirit levels	Q53366902	Spirit levels
+Oxyacetylene blowpipes	Q2921520	Oxyacetylene blowpipes
+Steel coils	Q44545890	Steel coils
+Welding	Q131172	welding
+Nailing	Q10675690	nailing
+Grinders	Q3116751	Grinders
+Grinding wheels	Q116971036	grinding wheels & point
+Ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+Chainsaws	Q208040	chainsaw
+Hooks	Q982654	Hooks
+Welding	Q131172	welding
+Hinges	Q1043177	Hinges
+Printing presses	Q7245316	Printing Presses and Publications Act
+Power drills	Q39101613	Power drills to fenestrate exposed bone to stimulate wound healing
+Manual metal arc welding	Q1992360	shielded metal arc welding
+Machining centers	Q30284915	Machining Centers Manufacturing
+Woodchippers	Q14906751	woodchippers
+Metalworking	Q953045	metalworking
+Drilling machines	Q26372504	Drilling Machines, Surface
+Drilling	Q890886	drilling
+Drill presses	Q2211295	drill press
+Chainsaws	Q208040	chainsaw
+Sandpaper	Q142274	sandpaper
+Screwdrivers	Q117715471	Screwdrivers MC
+Secateurs	Q144764	pruning shears
+Welding equipment	Q1613682	welding equipment
+Welders	Q108699591	Welders
+Bearings	Q16243277	Bearings
+Manual metal arc welding	Q1992360	shielded metal arc welding
+Drill presses	Q2211295	drill press
+Welding robots	Q59274840	Welding robots
+Fishing hooks	Q24251437	Teaspoon (fishing hook)
+Manual metal arc welding	Q1992360	shielded metal arc welding
+Skeleton keys	Q427440	skeleton key
+Drill presses	Q2211295	drill press
+Hammerschmiede Kamp	Q38002280	Hammerschmiede Kamp
+Speno	Q2078873	Speno
+Iron foundries	Q123132052	Iron Foundries
+Chainsaws	Q208040	chainsaw
+Manual metal arc welding	Q1992360	shielded metal arc welding
+Houtzaagmolen	Q19264200	Houtzaagmolen
+Correction tape	Q1863081	correction tape
+Laser scanning	Q1361664	laser scanning
+South Bend Lathe	Q7566306	South Bend Lathe Works
+Diamond anvil cell	Q1208616	Diamond anvil cell
+Screwdrivers	Q117715471	Screwdrivers MC
+D'Heesterboom	Q11722027	D'Heesterboom
+Demolition shears	Q306848	demolition shears
+Cutting tools	Q123683229	Cutting tools
+Haas Automation	Q4040329	Haas Automation
+Clamp	Q334471	Clamp
+Grinding stones	Q124252047	Grinding stones in India
+Gas tungsten arc welding	Q1627310	gas tungsten arc welding
+Ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+Adhesives	Q131790	adhesive
+Drilling machines	Q26372504	Drilling Machines, Surface
+wire cutters	Q1255405	wire cutters
+welding equipment	Q1613682	welding equipment
+welding torch	Q119823051	Welding torch
+safety glasses	Q72797	goggles
+power hammer	Q3446739	power hammer
+pruning shears	Q144764	pruning shears
+fasteners	Q107380930	fasteners
+square	Q174782	square
+centrifuge tube	Q88484833	Centrifuge tube
+tape	Q149757	compact cassette
+hand saw	Q2750929	hand saw
+burr grinder	Q96966430	burr mill
+welding machine	Q1936800	welding power supply
+miter saw	Q373255	power miter saw
+chainsaw	Q208040	chainsaw
+foundry	Q496098	casting
+hex nut	Q43889008	hexagon nut
+cotter pins	Q1412569	split pin
+cutters	Q114495207	Cutters
+fence	Q148571	fence
+nails	Q17325289	Nails
+hammer	Q25294	hammer
+millstone dressing	Q2348670	millstone dressing
+angle grinder	Q827274	angle grinder
+chisel	Q474188	chisel
+duct tape	Q1030313	duct tape
+welder	Q836328	welder
+brazing	Q13389141	brazing
+light bulb	Q47616	incandescent light bulb
+snowblower	Q122157280	Snowblower belt drive system
+tablet press	Q7673461	tablet press
+electric motor	Q72313	electric motor
+drill bit	Q335283	drill bit
+pipe	Q104526	pipe
+CNC	Q8849	Cancer
+nut	Q11009	nut
+vending machine	Q211584	vending machine
+rivet gun	Q7338813	rivet gun
+welds	Q31656914	Welds Hill
+bricks	Q40089	brick
+door hinges	Q64580494	Door Hinges
+flat head screw	Q128561205	flat head screw
+fluorescent light	Q66036996	Fluorescent Light Bronchoscopy Plus White Light Bronchoscopy for Early Detection of Lung Cancer
+conduit	Q13553732	Conduit
+welding	Q131172	welding
+reamer	Q863835	reamer
+drill bits	Q335283	drill bit
+chainsaw	Q208040	chainsaw
+circular saw	Q1141837	circular saw
+grinder	Q245761	grinding machine
+tape measure	Q104555	ruler
+welders	Q108699591	Welders
+leaf blower	Q1450186	leaf blower
+toolbox	Q1501161	toolbox
+key	Q132041	key
+angle grinder	Q827274	angle grinder
+oxy-fuel cutting	Q33101028	oxy-fuel cutting
+lathe	Q187833	lathe
+machining	Q192047	machining
+log splitter	Q1625730	log splitter
+cutting tools	Q123683229	Cutting tools
+warning sound	Q2549582	warning signal
+signs	Q2285224	Signs
+welding robots	Q59274840	Welding robots
+well drilling	Q14693887	well drilling
+lumber mill	Q505213	sawmill
+rotary cutter	Q2036582	rotary saw
+meat slicer	Q117207985	meat slicer
+jigsaw	Q15712110	Jigsaw
+power hammer	Q3446739	power hammer
+sawing	Q3954248	sawing
+microscope	Q196538	microscope
+soldering station	Q1879849	soldering station
+cable cutter	Q11301405	cable cutter
+printing press	Q6500733	printer
+generator	Q131502	electric generator
+measurement device	Q2041172	measuring instrument
+staples	Q2227729	Staples
+lathe	Q187833	lathe
+dial	Q19902200	Dial
+wood lathe	Q239990	woodturning lathe
+turning	Q258127	turning
+cutting tools	Q123683229	Cutting tools
+HMI	Q3886447	Hami Airport
+CNC	Q8849	Cancer
+ball bearing	Q11432170	ball bearing
+gear shaping	Q1700991	gear shaping
+nameplate	Q2713450	nameplate
+patent information	Q9372229	patent information
+rock drill	Q11941822	rock drill
+safety helmet	Q124445592	Safety helmet
+tractor	Q39495	tractor
+drilling machine	Q2211295	drill press
+gas tanks	Q126259308	GAS TANKS
+spirit levels	Q53366902	Spirit levels
+self-tapping screws	Q38538595	Self Tapping Screws v/s Erich Arch Bar for Inter Maxillary Fixation: A Comparative Clinical Study in the Treatment of Mandibular Fractures
+pencil sharpener	Q193811	pencil sharpener
+teapot	Q245005	teapot
+electrochemical machining	Q1196855	electrochemical machining
+wind mill	Q38720	windmill
+barcode scanning	Q123146136	barcode game console
+shredders	Q107215441	Shredders
+ball bearings	Q59628268	Ball Bearings for Radial-Thrust Loading
+hand tool	Q2578402	hand tool
+PPE	Q1333024	personal protective equipment
+statue	Q179700	statue
+incandescent light bulb	Q47616	incandescent light bulb
+angle grinder	Q827274	angle grinder
+chainsaw	Q208040	chainsaw
+Dremel	Q1258332	Dremel
+calculator	Q31087	calculator
+digipass	Q2604110	Digipass
+glue gun	Q1304613	hot glue gun
+screw press	Q1414307	screw press
+personal protective equipment	Q1333024	personal protective equipment
+work bench	Q347690	workbench
+vise	Q49743	Visé
+torch	Q327954	torch
+circular saw	Q1141837	circular saw
+tool belt	Q123193932	Tool belt
+hard hat	Q2058262	hard hat
+boom lift	Q607634	topping lift
+milling machine	Q623106	milling machine
+spiral drills	Q56296876	twist drill
+chainsaw	Q208040	chainsaw
+tongs	Q3276479	tongs
+laser cutting	Q593053	laser cutting
+bandsaw	Q806378	bandsaw
+factory	Q83405	factory
+caulk gun	Q1734658	caulking gun
+adhesives	Q131790	adhesive
+drill press	Q20820500	box column drill
+filing	Q1126002	filing
+hooks	Q982654	Hooks
+steel cable	Q72283402	Steel cable injuries in sailors
+laser cutter	Q124816652	laser cutter
+construction site	Q360418	construction site
+welding	Q131172	welding
+oxyacetylene blowpipes	Q2921520	Oxyacetylene blowpipes
+assembly line	Q455037	assembly line
+fire	Q168983	conflagration
+pliers	Q13049940	pliers
+forges	Q243155	Forges
+Amazon locker	Q16974764	Amazon Locker
+lathe	Q187833	lathe
+rubber mallet	Q1554469	rubber mallet
+padlock	Q40607	padlock
+wire cutters	Q1255405	wire cutters
+crane hook	Q495451	lifting hook
+table saw	Q2365675	table saw
+wood lathe	Q239990	woodturning lathe
+machining	Q192047	machining
+scissors	Q40847	scissors
+workbench	Q347690	workbench
+hack saw	Q64619114	Hack Saw
+rasps	Q85021487	Rasps for the Per-nasal Frontal Sinus Operation
+screwdrivers	Q117715471	Screwdrivers MC
+printing presses	Q7245316	Printing Presses and Publications Act
+factory floor	Q5428767	Factory Floor
+work stations	Q69612787	Work stations for computer-graphic display in medical imaging
+demolition shears	Q306848	demolition shears
+furnace	Q1709184	heating furnace
+forges	Q243155	Forges
+reciprocating saw	Q2282074	reciprocating saw
+barcode scanning	Q123146136	barcode game console
+face shield	Q5428384	face shield
+casting	Q496098	casting
+blacksmith shop	Q40558	smithy
+grinder	Q245761	grinding machine
+lathe	Q187833	lathe
+bolts	Q201864	Tampa Bay Lightning
+nuts	Q11009	nut
+washers	Q11945252	Washers
+steel plates	Q57654691	Steel Plates Subjected to Uniform Blast Loading
+spirit levels	Q53366902	Spirit levels
+oxygen tank	Q11680736	oxygen tank
+core samples	Q36294539	Core samples for radiomics features that are insensitive to tumor segmentation: method and pilot study using CT images of hepatocellular carcinoma
+circular saw	Q1141837	circular saw
+snips	Q51755	Ahsoka Tano
+work bench	Q347690	workbench
+clamps	Q112589797	Clamps
+tape measure	Q104555	ruler
+circular saw	Q1141837	circular saw
+lumberjacks	Q16191455	Cal Poly Humboldt Lumberjacks
+forging	Q193057	forging
+CNC wood router	Q5013096	CNC wood router
+induction heating	Q1155653	induction heating
+thumbtack	Q406839	drawing pin
+angle bracket	Q39076453	angle bracket
+stump grinder	Q2036130	stump grinder
+personal protective equipment	Q1333024	personal protective equipment
+resistor	Q5321	resistor
+safety helmet	Q124445592	Safety helmet
+glass casting	Q5567097	glass casting
+Special Direct System	Q458278	SDS
+secateurs	Q144764	pruning shears
+scissors	Q40847	scissors
+tie down straps	Q1277336	tie-down straps
+printing presses	Q7245316	Printing Presses and Publications Act
+riveting hammer	Q99385805	Warrington hammer
+punches	Q37564719	Punches
+gauge blocks	Q36303367	Gauge Blocks - A Zombie Technology
+control panel	Q1081102	Control Panel
+machining tools	Q19768	machine tool
+cutlers	Q122549995	Cutlers
+welders	Q108699591	Welders
+Printing press	Q6500733	printer
+electrical circuit	Q132629	electrical network
+tent pegs	Q59666534	Tent pegs for clathrin
+scissors	Q40847	scissors
+silver rings	Q122564063	Dura-Europos archival photograph, YUAG Negative number 1938'5170~02
+CNC router	Q16251414	CNC router
+oxy-acetylene welding	Q3776790	oxy-acetylene welding
+saws	Q125356	saw
+mortar and pestle	Q18341850	mortar and pestle
+soldering iron	Q623402	soldering iron
+nippers	Q1993271	Nippers
+machining tools	Q19768	machine tool
+friction stir welding	Q2068127	friction stir welding
+rasp	Q277885	rasp
+scissors	Q40847	scissors
+wing nut	Q8025239	wing nut
+whetstones	Q4019477	Whetstone Mountains
+clasp	Q2239762	clasp

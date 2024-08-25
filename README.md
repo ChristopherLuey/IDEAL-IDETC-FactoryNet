@@ -1,1 +1,1 @@
-Run `wget https://zenodo.org/records/13332887/files/factorynet.tar`
+Results folder has 2 txt files.`

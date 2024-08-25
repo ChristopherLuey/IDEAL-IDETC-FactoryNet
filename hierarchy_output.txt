@@ -1,0 +1,584 @@
+Tools	subclassOf	None
+welding equipment	subclassOf	Tools
+hand tools	subclassOf	Tools
+fasteners	subclassOf	Tools
+machinery	subclassOf	Tools
+mechanical components	subclassOf	Tools
+heavy tools	subclassOf	Tools
+Power Tools	subclassOf	Tools
+Saws	subclassOf	Power Tools
+circular saw	subclassOf	Saws
+hand saw	subclassOf	Saws
+Concrete Saw	subclassOf	Saws
+Circular Saw Blade	subclassOf	Saws
+Reciprocating Saw	subclassOf	Saws
+Electric Chainsaw	subclassOf	Saws
+Rotary Tools	subclassOf	Power Tools
+Rotary table	subclassOf	Rotary Tools
+laser cutter	subclassOf	Power Tools
+lathe	subclassOf	Power Tools
+grinding machine	subclassOf	Power Tools
+drilling rig	subclassOf	Power Tools
+Cordless Drill	subclassOf	Power Tools
+Scroll Saw	subclassOf	Power Tools
+Power Miter Saw	subclassOf	Power Tools
+CNC Machine	subclassOf	Power Tools
+Belt Sander	subclassOf	Power Tools
+Extruder	subclassOf	Power Tools
+Rolling Mill	subclassOf	Power Tools
+Woodworking Machine	subclassOf	Power Tools
+worm drive	subclassOf	Power Tools
+auger	subclassOf	Power Tools
+Drills	subclassOf	Power Tools
+Cordless drills	subclassOf	Drills
+Drill Press	subclassOf	Drills
+Sanders	subclassOf	Power Tools
+Random Orbital Sander	subclassOf	Sanders
+Oscillating Multi-Tool	subclassOf	Power Tools
+CNC Router	subclassOf	Power Tools
+Hand Tools	subclassOf	Tools
+saw	subclassOf	Hand Tools
+spirit level	subclassOf	Hand Tools
+Vice Grip	subclassOf	Hand Tools
+diagonal pliers	subclassOf	Hand Tools
+honing steel	subclassOf	Hand Tools
+Screwdriver Bit	subclassOf	Hand Tools
+Brace	subclassOf	Hand Tools
+Rasp	subclassOf	Hand Tools
+Crucible Tongs	subclassOf	Hand Tools
+Cutting Tools	subclassOf	Hand Tools
+Chisel	subclassOf	Cutting Tools
+File	subclassOf	Cutting Tools
+Saws	subclassOf	Cutting Tools
+Crosscut Saw	subclassOf	Saws
+Keyhole Saw	subclassOf	Saws
+Coping Saw	subclassOf	Saws
+Two-Man Saw	subclassOf	Saws
+Backsaw	subclassOf	Saws
+Shears	subclassOf	Cutting Tools
+Sheep Shears	subclassOf	Shears
+Mallet	subclassOf	Hand Tools
+sharpening stone	subclassOf	Hand Tools
+electric screwdriver	subclassOf	Hand Tools
+Hammers	subclassOf	Hand Tools
+Claw Hammer	subclassOf	Hammers
+Ball-Peen Hammer	subclassOf	Hammers
+Screwdrivers	subclassOf	Hand Tools
+Screw Driver	subclassOf	Screwdrivers
+Hex Drive	subclassOf	Hand Tools
+Measuring Tools	subclassOf	Hand Tools
+Try Square	subclassOf	Measuring Tools
+Vernier Calipers	subclassOf	Measuring Tools
+Cutting Tools	subclassOf	Tools
+Scissors	subclassOf	Cutting Tools
+Pinking Shears	subclassOf	Cutting Tools
+Dimple keys	subclassOf	Cutting Tools
+Measuring Tools	subclassOf	Tools
+Ruler	subclassOf	Measuring Tools
+Holding Tools	subclassOf	Tools
+Blacksmith's tongs	subclassOf	Holding Tools
+Fastening Tools	subclassOf	Tools
+Screw	subclassOf	Fastening Tools
+Nails	subclassOf	Fastening Tools
+tie-down straps	subclassOf	Fastening Tools
+angle bracket	subclassOf	Fastening Tools
+drywall anchor	subclassOf	Fastening Tools
+Holding and Supporting Tools	subclassOf	Tools
+vice	subclassOf	Holding and Supporting Tools
+Special Tools	subclassOf	Tools
+Hydraulic Rescue Tool	subclassOf	Special Tools
+Tool Storage	subclassOf	Tools
+Tool Cabinet	subclassOf	Tool Storage
+Machine Tools	subclassOf	Tools
+Stamping Machine	subclassOf	Machine Tools
+Accessories	subclassOf	Tools
+Chuck	subclassOf	Accessories
+Protective Device	subclassOf	Tools
+miscellaneous	subclassOf	None
+Lighting	subclassOf	None
+LED lamp	subclassOf	Lighting
+Lightbulbs	subclassOf	Lighting
+Flashlight	subclassOf	Lighting
+Metalworking	subclassOf	None
+Metal coil	subclassOf	Metalworking
+steel coil	subclassOf	Metal coil
+Metal coil fabrication	subclassOf	Metal coil
+exothermic welding	subclassOf	Metalworking
+Forges	subclassOf	Metalworking
+Mill devices	subclassOf	Metalworking
+millstone	subclassOf	Mill devices
+grindstone	subclassOf	Mill devices
+Occupations	subclassOf	None
+machinist	subclassOf	Occupations
+Industrial Equipment	subclassOf	None
+Production Facility	subclassOf	Industrial Equipment
+Industrial Robot	subclassOf	Production Facility
+Steam Hammer	subclassOf	Production Facility
+Screw Press	subclassOf	Production Facility
+Metal Lathe	subclassOf	Production Facility
+Construction Site	subclassOf	Industrial Equipment
+Spirit Levels	subclassOf	Construction Site
+Sander	subclassOf	Construction Site
+Rotary Hammer	subclassOf	Construction Site
+Table Saw	subclassOf	Construction Site
+Chainsaw	subclassOf	Construction Site
+Bandsaw	subclassOf	Construction Site
+Workbench	subclassOf	Industrial Equipment
+Tools and Hardware	subclassOf	None
+Screws	subclassOf	Tools and Hardware
+Hooks	subclassOf	Tools and Hardware
+Rivets	subclassOf	Tools and Hardware
+Hand Tools	subclassOf	Tools and Hardware
+T-Square	subclassOf	Hand Tools
+bolt cutter	subclassOf	Hand Tools
+axe	subclassOf	Hand Tools
+hex key	subclassOf	Hand Tools
+utility knife	subclassOf	Hand Tools
+woodworking chisel	subclassOf	Hand Tools
+bench grinder	subclassOf	Tools and Hardware
+Safety Equipment	subclassOf	Tools and Hardware
+Fasteners	subclassOf	Tools and Hardware
+Clamps	subclassOf	Tools and Hardware
+Cutting Tools	subclassOf	Tools and Hardware
+Levels	subclassOf	Tools and Hardware
+Personal Protective Equipment	subclassOf	None
+Helmet	subclassOf	Personal Protective Equipment
+Archimedes' Screw	subclassOf	None
+Machinery	subclassOf	None
+Lathe	subclassOf	Machinery
+Lathe Center	subclassOf	Lathe
+Hoist	subclassOf	Machinery
+Factory	subclassOf	Machinery
+Water Wheel	subclassOf	Machinery
+Mixers	subclassOf	Machinery
+Locking Devices	subclassOf	None
+Lock	subclassOf	Locking Devices
+Locker	subclassOf	Lock
+Lockout-tagout	subclassOf	Locking Devices
+Rail Systems	subclassOf	None
+Rail Fastening System	subclassOf	Rail Systems
+Security Systems	subclassOf	None
+Turnstile	subclassOf	Security Systems
+Electrical Tools	subclassOf	None
+Oscilloscope	subclassOf	Electrical Tools
+Soldering Iron	subclassOf	Electrical Tools
+Other Items	subclassOf	None
+Duct Tape	subclassOf	Other Items
+Drill	subclassOf	Other Items
+Reamer	subclassOf	Other Items
+Rope	subclassOf	Other Items
+nameplate	subclassOf	Other Items
+glue	subclassOf	Other Items
+Manufacturing Techniques	subclassOf	None
+blacksmithing	subclassOf	Manufacturing Techniques
+induction heating	subclassOf	Manufacturing Techniques
+brazing	subclassOf	Manufacturing Techniques
+Machinery and Heavy Equipment	subclassOf	None
+excavator	subclassOf	Machinery and Heavy Equipment
+stump grinder	subclassOf	Machinery and Heavy Equipment
+sawmill	subclassOf	Machinery and Heavy Equipment
+bulldozer	subclassOf	Machinery and Heavy Equipment
+crawler excavator	subclassOf	Machinery and Heavy Equipment
+concrete mixer	subclassOf	Machinery and Heavy Equipment
+Components and Small Parts	subclassOf	None
+ball bearing	subclassOf	Components and Small Parts
+cogwheel	subclassOf	Components and Small Parts
+wire	subclassOf	Components and Small Parts
+zipper	subclassOf	Components and Small Parts
+binder clip	subclassOf	Components and Small Parts
+Miscellaneous	subclassOf	None
+dispenser	subclassOf	Miscellaneous
+Lifting Hook	subclassOf	Miscellaneous
+Joinery	subclassOf	Miscellaneous
+funnel	subclassOf	Miscellaneous
+Thread-Locking Fluid	subclassOf	Miscellaneous
+Gas Cylinder	subclassOf	Miscellaneous
+Engineering	subclassOf	Miscellaneous
+Climate Control	subclassOf	Miscellaneous
+Pedal	subclassOf	Miscellaneous
+Metallurgy	subclassOf	Miscellaneous
+Hardware	subclassOf	None
+Machine Screw	subclassOf	Hardware
+Cable Tie	subclassOf	Hardware
+Fuse	subclassOf	Hardware
+hook	subclassOf	Hardware
+Earth anchor	subclassOf	Hardware
+door hinge	subclassOf	Hardware
+Nails	subclassOf	Hardware
+Nail	subclassOf	Nails
+Fasteners	subclassOf	Hardware
+Safety Pins	subclassOf	Fasteners
+Nuts and Bolts	subclassOf	Fasteners
+Springs	subclassOf	Fasteners
+Threads	subclassOf	Fasteners
+Welding	subclassOf	Hardware
+Welding Goggles	subclassOf	Welding
+Welding Joint	subclassOf	Welding
+Seals and Gaskets	subclassOf	Hardware
+Oil Seal	subclassOf	Seals and Gaskets
+Locking Mechanisms	subclassOf	Hardware
+Hasps	subclassOf	Locking Mechanisms
+Clasps	subclassOf	Locking Mechanisms
+Clasp	subclassOf	Clasps
+Clasps & Hook	subclassOf	Clasps
+Safe	subclassOf	Hardware
+Workshop Equipment	subclassOf	None
+Smithy	subclassOf	Workshop Equipment
+Crane	subclassOf	Workshop Equipment
+Telescopic Crane	subclassOf	Crane
+Safety Equipment	subclassOf	None
+Goggles	subclassOf	Safety Equipment
+fire extinguisher	subclassOf	Safety Equipment
+safety pin	subclassOf	Safety Equipment
+Cutting Tools	subclassOf	None
+End Mill	subclassOf	Cutting Tools
+Bearings	subclassOf	None
+Ball Bearings for Radial-Thrust Loading	subclassOf	Bearings
+Rolling-Element Bearing	subclassOf	Bearings
+Storage	subclassOf	None
+Gas Tanks	subclassOf	Storage
+Ventilation	subclassOf	None
+Duct	subclassOf	Ventilation
+Equipment	subclassOf	None
+Machine	subclassOf	Equipment
+Drilling	subclassOf	Machine
+Casting	subclassOf	Machine
+Accessories	subclassOf	None
+Extension Cord	subclassOf	Accessories
+Integrated Circuit	subclassOf	Accessories
+Scale	subclassOf	Accessories
+Safety Gear	subclassOf	None
+Glove	subclassOf	Safety Gear
+Safety Helmet	subclassOf	Safety Gear
+Tools and Machinery	subclassOf	None
+Woodworking Tools	subclassOf	Tools and Machinery
+wood saw	subclassOf	Woodworking Tools
+woodturning lathe	subclassOf	Woodworking Tools
+Metalworking Tools	subclassOf	Tools and Machinery
+Steel Foundry	subclassOf	Metalworking Tools
+welding helmet	subclassOf	Metalworking Tools
+Heat torch	subclassOf	Metalworking Tools
+Pick tool for road milling	subclassOf	Metalworking Tools
+angle grinder	subclassOf	Metalworking Tools
+grinding wheel	subclassOf	angle grinder
+blacksmith's hammer	subclassOf	Metalworking Tools
+General Tools	subclassOf	Tools and Machinery
+hand drill	subclassOf	General Tools
+Swiss Army knife	subclassOf	General Tools
+Cutting Tools	subclassOf	Tools and Machinery
+Taps	subclassOf	Cutting Tools
+Measuring Tools	subclassOf	Tools and Machinery
+Set Squares	subclassOf	Measuring Tools
+Power Tools	subclassOf	Tools and Machinery
+power hammer	subclassOf	Power Tools
+Grinders	subclassOf	Power Tools
+Shredders	subclassOf	Power Tools
+Hand Tools	subclassOf	Tools and Machinery
+screw extractor	subclassOf	Hand Tools
+hand axe	subclassOf	Hand Tools
+circlip tool	subclassOf	Hand Tools
+Tweezer	subclassOf	Hand Tools
+Buck Saw	subclassOf	Hand Tools
+Machinery	subclassOf	Tools and Machinery
+winding machine	subclassOf	Machinery
+continuous casting	subclassOf	Machinery
+Industrial vehicle	subclassOf	Machinery
+Robotics	subclassOf	Tools and Machinery
+robotic arm	subclassOf	Robotics
+robot end effector	subclassOf	robotic arm
+Supplies and Accessories	subclassOf	None
+bobbin	subclassOf	Supplies and Accessories
+rubber band	subclassOf	Supplies and Accessories
+pipe	subclassOf	Supplies and Accessories
+self-tapping screw	subclassOf	Supplies and Accessories
+Security Devices	subclassOf	None
+combination lock	subclassOf	Security Devices
+Building and Construction	subclassOf	None
+lumber	subclassOf	Building and Construction
+heating furnace	subclassOf	Building and Construction
+industrial equipment	subclassOf	None
+robot welding	subclassOf	industrial equipment
+shielded metal arc welding	subclassOf	robot welding
+gas tungsten arc welding	subclassOf	robot welding
+CNC lathe	subclassOf	industrial equipment
+conveyor	subclassOf	industrial equipment
+steam engine	subclassOf	industrial equipment
+tools and machinery	subclassOf	None
+rock drill	subclassOf	tools and machinery
+milling cutter	subclassOf	tools and machinery
+hole saw	subclassOf	tools and machinery
+heat cutter	subclassOf	tools and machinery
+hardware	subclassOf	None
+steel bar	subclassOf	hardware
+threaded insert	subclassOf	hardware
+hinge	subclassOf	hardware
+stapler	subclassOf	hardware
+safety equipment	subclassOf	None
+kill switch	subclassOf	safety equipment
+hearing protection	subclassOf	safety equipment
+electrical components	subclassOf	None
+Ignition switch	subclassOf	electrical components
+manufacturing processes	subclassOf	None
+Ceramic molding	subclassOf	manufacturing processes
+support equipment	subclassOf	None
+sawhorse	subclassOf	support equipment
+Miscellaneous Equipment	subclassOf	None
+Air hose	subclassOf	Miscellaneous Equipment
+belt	subclassOf	Miscellaneous Equipment
+machine interface	subclassOf	Miscellaneous Equipment
+total station	subclassOf	Miscellaneous Equipment
+crucible	subclassOf	Miscellaneous Equipment
+well drilling	subclassOf	crucible
+Tools & Equipment	subclassOf	None
+Hand Tools	subclassOf	Tools & Equipment
+rivet gun	subclassOf	Hand Tools
+nail gun	subclassOf	Hand Tools
+hammer drill	subclassOf	Hand Tools
+caliper	subclassOf	Hand Tools
+tape dispenser	subclassOf	Hand Tools
+Hammers	subclassOf	Hand Tools
+Warrington hammer	subclassOf	Hammers
+Nippers	subclassOf	Hand Tools
+Fasteners	subclassOf	Hand Tools
+wing nut	subclassOf	Fasteners
+Power Tools	subclassOf	Tools & Equipment
+band saw	subclassOf	Power Tools
+woodchipper	subclassOf	Power Tools
+trip hammer	subclassOf	Power Tools
+Power Tool	subclassOf	Power Tools
+Hot Glue Gun	subclassOf	Power Tools
+Welding Equipment	subclassOf	Tools & Equipment
+Welding torch	subclassOf	Welding Equipment
+Welders	subclassOf	Welding Equipment
+oxy-acetylene welding	subclassOf	Welding Equipment
+Construction Machines	subclassOf	Tools & Equipment
+construction machine	subclassOf	Construction Machines
+forklift truck	subclassOf	construction machine
+Machine Tools	subclassOf	Tools & Equipment
+machine tool	subclassOf	Machine Tools
+electric motor	subclassOf	machine tool
+Cutting Tools	subclassOf	Tools & Equipment
+Cutters	subclassOf	Cutting Tools
+Plasma Cutting	subclassOf	Cutting Tools
+Cigar Cutter	subclassOf	Cutting Tools
+Welding	subclassOf	Tools & Equipment
+Spot Welding	subclassOf	Welding
+Oxy-fuel Welding	subclassOf	Welding
+Pruning Knife	subclassOf	Tools & Equipment
+Woodworking Equipment	subclassOf	Tools & Equipment
+CNC wood router	subclassOf	Woodworking Equipment
+Electronic Components	subclassOf	Tools & Equipment
+resistor	subclassOf	Electronic Components
+Electrical Network	subclassOf	Tools & Equipment
+electrical network	subclassOf	Electrical Network
+Glass Casting	subclassOf	Tools & Equipment
+glass casting	subclassOf	Glass Casting
+Oxygen Tank	subclassOf	Tools & Equipment
+oxygen tank	subclassOf	Oxygen Tank
+Office Supplies	subclassOf	None
+clipboard	subclassOf	Office Supplies
+paper cutter	subclassOf	Office Supplies
+Manufacturing Equipment	subclassOf	None
+Metalworking Tools	subclassOf	Manufacturing Equipment
+Woodworking Tools	subclassOf	Manufacturing Equipment
+Molding and Casting	subclassOf	Manufacturing Equipment
+Construction Equipment	subclassOf	None
+Handling Machines	subclassOf	Construction Equipment
+Cutting Tools	subclassOf	Construction Equipment
+Other	subclassOf	Construction Equipment
+heavy equipment	subclassOf	Construction Equipment
+Excavators	subclassOf	heavy equipment
+road roller	subclassOf	heavy equipment
+Tools	subclassOf	Construction Equipment
+hatchet	subclassOf	Tools
+caulking gun	subclassOf	Tools
+knurling tool	subclassOf	Tools
+Conduit	subclassOf	Construction Equipment
+Machine Tools	subclassOf	None
+Machining and Fabrication Workshop	subclassOf	None
+Saw Blades	subclassOf	Machining and Fabrication Workshop
+Accessory	subclassOf	Machining and Fabrication Workshop
+Miscellaneous Tools	subclassOf	None
+Vehicle Components	subclassOf	None
+Fuel Tank	subclassOf	Vehicle Components
+Control Panel	subclassOf	Vehicle Components
+Household Items	subclassOf	None
+Light Bulbs	subclassOf	Household Items
+Containers	subclassOf	None
+Barrel	subclassOf	Containers
+Materials	subclassOf	None
+Metalworking	subclassOf	Materials
+Woodworking	subclassOf	Materials
+Adhesives	subclassOf	Materials
+Ingot	subclassOf	Materials
+Reinforcing Bar	subclassOf	Materials
+Construction	subclassOf	None
+mechanical device	subclassOf	None
+angle brackets	subclassOf	mechanical device
+demolition shears	subclassOf	mechanical device
+wire cutters	subclassOf	mechanical device
+Hammers	subclassOf	mechanical device
+Riveters	subclassOf	mechanical device
+Drilling Machines, Surface	subclassOf	mechanical device
+metal crafting	subclassOf	None
+metal casting	subclassOf	metal crafting
+resin casting	subclassOf	metal crafting
+Foundries	subclassOf	None
+wheel	subclassOf	None
+grinding wheels & point	subclassOf	wheel
+electronics	subclassOf	None
+Plain Bearings	subclassOf	None
+Steel coils	subclassOf	None
+lumber yard	subclassOf	None
+watermill	subclassOf	None
+welding glass	subclassOf	None
+knife	subclassOf	None
+rotor	subclassOf	None
+Manufacturing Processes	subclassOf	None
+Cutting Tools	subclassOf	Manufacturing Processes
+cable cutter	subclassOf	Cutting Tools
+wire saw	subclassOf	Cutting Tools
+Casting Processes	subclassOf	Manufacturing Processes
+die casting	subclassOf	Casting Processes
+semi-finished casting product	subclassOf	Casting Processes
+Welding Techniques	subclassOf	Manufacturing Processes
+arc welding	subclassOf	Welding Techniques
+oxy-fuel cutting	subclassOf	Welding Techniques
+Measuring Tools	subclassOf	Manufacturing Processes
+measuring instrument	subclassOf	Measuring Tools
+gauge block	subclassOf	measuring instrument
+Fulling	subclassOf	Manufacturing Processes
+Machining	subclassOf	Manufacturing Processes
+Turning	subclassOf	Machining
+Electrochemical Machining	subclassOf	Machining
+Gear Shaping	subclassOf	Machining
+Assembly Line	subclassOf	Manufacturing Processes
+Protective Equipment	subclassOf	None
+face shield	subclassOf	Protective Equipment
+Fastening Solutions	subclassOf	None
+wood screw	subclassOf	Fastening Solutions
+Manufacturing Tools and Materials	subclassOf	None
+Machining	subclassOf	Manufacturing Tools and Materials
+Boring machine	subclassOf	Machining
+Jointer	subclassOf	Machining
+Cutting tools	subclassOf	Manufacturing Tools and Materials
+Stone saw	subclassOf	Cutting tools
+Jigsaw	subclassOf	Cutting tools
+Welding Equipment	subclassOf	Manufacturing Tools and Materials
+Welding power supply	subclassOf	Welding Equipment
+Oxy-fuel welding and cutting	subclassOf	Welding Equipment
+Gas metal arc welding	subclassOf	Welding Equipment
+Tape	subclassOf	Manufacturing Tools and Materials
+Masking tape	subclassOf	Tape
+Scotch tape	subclassOf	Tape
+Drilling equipment	subclassOf	Manufacturing Tools and Materials
+Phillips-head screw	subclassOf	Drilling equipment
+Punches	subclassOf	Manufacturing Tools and Materials
+Plumbing fittings & support	subclassOf	None
+Bronze casting	subclassOf	None
+Sandpaper	subclassOf	None
+Screw pump	subclassOf	None
+Tweezers	subclassOf	None
+Thimble	subclassOf	None
+Factory Floor	subclassOf	None
+Machining Centers Manufacturing	subclassOf	Factory Floor
+engraving machine	subclassOf	Machining Centers Manufacturing
+combination machine	subclassOf	Machining Centers Manufacturing
+Welding robots	subclassOf	Factory Floor
+Flame cutting machines	subclassOf	Welding robots
+Soldering	subclassOf	Factory Floor
+forging	subclassOf	Factory Floor
+Anvils and Trapped Wheel	subclassOf	forging
+riveter	subclassOf	Factory Floor
+Woodworking Shop	subclassOf	None
+height gauge	subclassOf	Woodworking Shop
+Bolt Cutters (second state)	subclassOf	Woodworking Shop
+Manufacturing Tools	subclassOf	None
+Water jet cutter	subclassOf	Manufacturing Tools
+Drilling and Cutting	subclassOf	None
+Directional drilling	subclassOf	Drilling and Cutting
+millstone dressing	subclassOf	Drilling and Cutting
+Shop and Utility Items	subclassOf	None
+utility vehicle	subclassOf	Shop and Utility Items
+Fasteners and Connectors	subclassOf	None
+Edison screw	subclassOf	Fasteners and Connectors
+Tools and Machines	subclassOf	None
+Fasteners	subclassOf	Tools and Machines
+Machinery	subclassOf	Tools and Machines
+Woodwork Machinery	subclassOf	Machinery
+Metalwork Machinery	subclassOf	Machinery
+Cutting Machinery	subclassOf	Machinery
+Welding Equipment	subclassOf	Tools and Machines
+Tape and adhesives	subclassOf	Tools and Machines
+Tools	subclassOf	Tools and Machines
+Handheld Tools	subclassOf	Tools
+Hardware Elements	subclassOf	Tools
+Grinding and Polishing	subclassOf	Tools
+Machinery and Mechanisms	subclassOf	None
+Types of Machinery	subclassOf	Machinery and Mechanisms
+Grinding Machines	subclassOf	Types of Machinery
+Printing Press	subclassOf	Types of Machinery
+CNC Machines	subclassOf	Types of Machinery
+Machine Components	subclassOf	Machinery and Mechanisms
+Farm Equipment	subclassOf	Machinery and Mechanisms
+Electronics	subclassOf	None
+AC power socket	subclassOf	Electronics
+human-machine interface	subclassOf	Electronics
+Other	subclassOf	None
+flanging	subclassOf	Other
+PVA glue	subclassOf	Other
+Bevel gear	subclassOf	Other
+Tools and Equipment	subclassOf	None
+Cutting Tools	subclassOf	Tools and Equipment
+Saw Blades and Handsaws	subclassOf	Cutting Tools
+SawStop	subclassOf	Saw Blades and Handsaws
+saber saw	subclassOf	Saw Blades and Handsaws
+scythe	subclassOf	Cutting Tools
+Reamers	subclassOf	Cutting Tools
+Safety Equipment	subclassOf	Tools and Equipment
+Safety-helmets	subclassOf	Safety Equipment
+Gas Cylinders	subclassOf	Safety Equipment
+Oxyacetylene blowpipes	subclassOf	Safety Equipment
+Construction and Fabrication	subclassOf	Tools and Equipment
+Iron Foundries	subclassOf	Construction and Fabrication
+friction stir welding	subclassOf	Construction and Fabrication
+continuous track	subclassOf	Construction and Fabrication
+Wooden Dowels	subclassOf	Construction and Fabrication
+Machinery and Mechanical Components	subclassOf	Tools and Equipment
+Spherical Roller Bearings	subclassOf	Machinery and Mechanical Components
+high speed steel	subclassOf	Machinery and Mechanical Components
+Fastening and Joining	subclassOf	Tools and Equipment
+Cable Ties	subclassOf	Fastening and Joining
+nailing	subclassOf	Fastening and Joining
+Specialized Tools	subclassOf	Tools and Equipment
+needlegun scaler	subclassOf	Specialized Tools
+Industrial Hardware	subclassOf	Tools and Equipment
+lifting hooks, clamps & shackle	subclassOf	Industrial Hardware
+Railroad Equipment	subclassOf	Tools and Equipment
+fishplate	subclassOf	Railroad Equipment
+Electronics and Electrical Components	subclassOf	None
+relay	subclassOf	Electronics and Electrical Components
+Tools & Machinery	subclassOf	None
+Cutting Tools	subclassOf	Tools & Machinery
+Hack Saw	subclassOf	Cutting Tools
+Rotary Saw	subclassOf	Cutting Tools
+Hand Tools	subclassOf	Tools & Machinery
+Rubber Mallet	subclassOf	Hand Tools
+Dremel	subclassOf	Hand Tools
+Power Tools	subclassOf	Tools & Machinery
+Electric Generator	subclassOf	Power Tools
+Soldering Station	subclassOf	Power Tools
+Tool Storage	subclassOf	Tools & Machinery
+Toolbox	subclassOf	Tool Storage
+Tool Belt	subclassOf	Tool Storage
+Hardware	subclassOf	Tools & Machinery
+Door Hinges	subclassOf	Hardware
+Screws	subclassOf	Hardware
+Flat Head Screw	subclassOf	Screws
+Nuts	subclassOf	Hardware
+Hexagon Nut	subclassOf	Nuts
+Safety & Signage	subclassOf	None
+Warning Signal	subclassOf	Safety & Signage
+Signs	subclassOf	Safety & Signage
+Measurement & Inspection	subclassOf	None
+Laser Scanning	subclassOf	Measurement & Inspection

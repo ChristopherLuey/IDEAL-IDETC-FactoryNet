@@ -1,0 +1,527 @@
+{
+    "Tools & Equipment": {
+        "Hand Tools": {
+            "Screw Extractor": {},
+            "Tweezer": {},
+            "Hand Axe": {},
+            "Safety Pin": {}
+        },
+        "Power Tools": {
+            "Winding Machine": {},
+            "Power Hammer": {},
+            "Circlip Tool": {},
+            "Grinders": {},
+            "Shredders": {}
+        }
+    },
+    "Tools": {
+        "Hand Tools": {
+            "Warrington hammer": {},
+            "Nippers": {}
+        },
+        "Hardware Items": {
+            "wing nut": {}
+        }
+    },
+    "Fasteners": {
+        "machine screw": {},
+        "cable tie": {}
+    },
+    "Materials": {
+        "Metal": {
+            "Ingot": [],
+            "Reinforcing Bar": []
+        }
+    },
+    "Metalworking": {
+        "Metal Bar": {},
+        "beams": {}
+    },
+    "Lighting": {
+        "LED Lamp": "Data 8"
+    },
+    "Occupation": {
+        "Machinist": "Data 18"
+    },
+    "Tools and Equipment": {
+        "Cutting Tools": {
+            "tile cutter": {},
+            "hacksaw": {},
+            "knife grinder": {}
+        },
+        "Fastening Tools": {
+            "wrench": {},
+            "spade bit": {}
+        },
+        "Measuring Tools": {
+            "micrometre": {}
+        },
+        "Machine Tools": {
+            "pole lathe": {},
+            "rotary printing press": {},
+            "computer numerical control": {}
+        },
+        "Powered Tools": {
+            "pneumatic tool": {}
+        }
+    },
+    "Sites and Facilities": {
+        "Production Facility": {},
+        "Construction Site": {}
+    },
+    "Hardware": {
+        "Fasteners": {
+            "Screws": {
+                "flat head screw": {}
+            },
+            "Nuts": {
+                "hexagon nut": {}
+            }
+        },
+        "Tools": {
+            "Hand Tools": {
+                "Hack Saw": {},
+                "rubber mallet": {},
+                "Dremel": {}
+            },
+            "Power Tools": {
+                "rotary saw": {}
+            },
+            "Specialized Tools": {
+                "laser scanning": {},
+                "soldering station": {}
+            },
+            "Tool Storage": {
+                "toolbox": {},
+                "Tool belt": {}
+            }
+        },
+        "Door Hardware": {
+            "Door Hinges": {}
+        }
+    },
+    "Measurement and Precision Tools": {
+        "Spirit Levels": {}
+    },
+    "Personal Protective Equipment": {
+        "General Protective Gear": {
+            "Helmet": {}
+        }
+    },
+    "Ancient Mechanisms": {
+        "Archimedes' Screw": {}
+    },
+    "Security Devices": {
+        "Locking Devices": {
+            "Lock": "lock",
+            "Lockout-Tagout": "lockout-tagout"
+        },
+        "Entry Control": {
+            "Turnstile": "turnstile"
+        }
+    },
+    "Furniture": {
+        "Storage": {
+            "Locker": "locker"
+        }
+    },
+    "Infrastructure": {
+        "Signs": {},
+        "Assembly Line": {}
+    },
+    "Miscellaneous": {
+        "relay": {}
+    },
+    "Machinery and Equipment": {
+        "Excavation Equipment": [
+            "excavator"
+        ],
+        "Grinding Equipment": [
+            "stump grinder",
+            "bench grinder"
+        ],
+        "Manufacturing and Processing": [
+            "sawmill",
+            "induction heating",
+            "brazing"
+        ]
+    },
+    "Tools and Machines": {
+        "Hand Tools": {
+            "Screwdrivers": {
+                "screwdriver bit": {}
+            },
+            "Files": {
+                "rasp": {}
+            },
+            "Saws": {
+                "scroll saw": {},
+                "power miter saw": {}
+            },
+            "Drills": {
+                "cordless drill": {}
+            },
+            "CNC machine": {},
+            "Brace": {}
+        },
+        "Industrial Machines": {
+            "smithy": {},
+            "CNC machine": {}
+        },
+        "Cranes": {
+            "general crane": {},
+            "telescopic crane": {}
+        }
+    },
+    "Cutting Tools": {
+        "End mill": {}
+    },
+    "Safety Equipment": {
+        "Fire Extinguisher": {}
+    },
+    "Bearings": {
+        "Ball Bearings for Radial-Thrust Loading": {},
+        "rolling-element bearing": {}
+    },
+    "Attachments and Accessories": {
+        "Crucible Tongs": {}
+    },
+    "Storage": {
+        "GAS TANKS": {}
+    },
+    "Electrical Components": {
+        "AC Power Socket": {}
+    },
+    "Ductwork": {
+        "duct": {}
+    },
+    "Manufacturing Processes": {
+        "Turning": {},
+        "Gear Shaping": {},
+        "electrochemical machining": {}
+    },
+    "Machine Components": {
+        "Scale": {}
+    },
+    "Electrical Supplies": {
+        "Extension Cord": {}
+    },
+    "Manufacturing": {
+        "Steel Foundry": "Data 16",
+        "Heating Furnace": "Data 9"
+    },
+    "Raw Material": {
+        "Lumber": "Data 13"
+    },
+    "Miscellaneous Items": {
+        "Rubber Band": "Data 2",
+        "Pipe": "Data 4",
+        "Bobbin": "Data 17",
+        "Taps": "Data 3"
+    },
+    "Industrial Equipment": {
+        "Barrel": {},
+        "Fuel Tank": {},
+        "Mixers": {},
+        "Water Wheel": {}
+    },
+    "Safety and Security": {
+        "Hearing Protection": {},
+        "Kill Switch": {},
+        "Ignition Switch": {}
+    },
+    "Tools and Accessories": {
+        "Rock Drill": {},
+        "Stapler": {},
+        "Hinge": {}
+    },
+    "Manufacturing Process": {
+        "Ceramic Molding": {}
+    },
+    "Accessories": {
+        "Air hose": {}
+    },
+    "Machinery": {
+        "construction machine": {
+            "forklift truck": {}
+        },
+        "machine tool": {
+            "woodchipper": {}
+        }
+    },
+    "Measurements and Analysis": {
+        "total station": {}
+    },
+    "Industrial Supplies": {
+        "crucible": {}
+    },
+    "Labels and Identifications": {
+        "nameplate": {}
+    },
+    "Earthworks": {
+        "well drilling": {}
+    },
+    "Office Supplies": {
+        "tape dispenser": {},
+        "clipboard": {}
+    },
+    "Manufacturing Equipment": {
+        "Machinery": {
+            "CNC wood router": {}
+        },
+        "Welding Equipment": {
+            "oxy-acetylene welding": {}
+        },
+        "Casting Methods": {
+            "glass casting": {}
+        }
+    },
+    "Construction Materials": {
+        "Brick": {}
+    },
+    "Industrial Machinery": {
+        "Filter Press": {},
+        "Telescopic Handler": {}
+    },
+    "Manufacturing Components": {
+        "Workpiece": {},
+        "Split Pin": {}
+    },
+    "Professions": {
+        "Stonemason": {}
+    },
+    "Electronics": {
+        "Control Panels": {}
+    },
+    "Craft Supplies": {
+        "Adhesives": {
+            "epoxy resins": {},
+            "superglue": {}
+        },
+        "Fasteners": {
+            "Clamps": {
+                "C-clamp": {}
+            },
+            "Zippers": {},
+            "drawing pin": {},
+            "paper clip": {},
+            "Washers": {},
+            "brackets": {},
+            "rail fastenings": {}
+        }
+    },
+    "mechanical device": {
+        "Riveters": {},
+        "Hammers": {},
+        "wire cutters": {},
+        "demolition shears": {},
+        "Drilling Machines, Surface": {}
+    },
+    "metals industry": {
+        "Steel coils": {},
+        "metal casting": {
+            "Foundries": {}
+        }
+    },
+    "construction": {
+        "lumber yard": {},
+        "angle brackets": {},
+        "Plain Bearings": {}
+    },
+    "tools": {
+        "knife": {},
+        "grinding wheels & point": {}
+    },
+    "manufacturing technologies": {
+        "watermill": {},
+        "rotor": {}
+    },
+    "safety equipment": {
+        "welding glass": {}
+    },
+    "electronics": {},
+    "wheel": {
+        "resin casting": {}
+    },
+    "Heavy Equipment": {
+        "Excavators": {},
+        "Road Roller": {}
+    },
+    "Protective Equipment": {
+        "Face Shield": {}
+    },
+    "Casting Products": {
+        "Semi-finished Casting Product": {}
+    },
+    "Craft Processes": {
+        "Fulling": []
+    },
+    "Factory Floor": {
+        "Woodworking Shop": {
+            "engraving machine": {},
+            "combination machine": {}
+        },
+        "Machining Centers Manufacturing": {
+            "height gauge": {},
+            "millstone dressing": {}
+        },
+        "Metalworking": {
+            "Welding robots": {},
+            "forging": {
+                "Anvils and Trapped Wheel": {}
+            },
+            "riveter": {},
+            "Soldering": {},
+            "Flame cutting machines": {},
+            "Water jet cutter": {}
+        }
+    },
+    "Construction and Engineering": {
+        "Directional drilling": {}
+    },
+    "Fastening": {
+        "Edison screw": {}
+    },
+    "Tools and Machinery": {
+        "Hand Tools": {
+            "Screw gun": {},
+            "Combination tool": {},
+            "Solder suckers": {},
+            "Hand press": {}
+        },
+        "Power Tools": {
+            "Woodchippers": {},
+            "Cutting Machines and Cutting": {}
+        },
+        "Fasteners": {
+            "Spax screws": {},
+            "Dowel pins": {},
+            "Hinges": {}
+        },
+        "Manufacturing and Processing Machinery": {
+            "Sawmills": {},
+            "Millstones": {},
+            "Ball mill": {},
+            "Textile machine": {}
+        },
+        "Workshop Processes": {
+            "Knurling": {},
+            "Filing": {},
+            "Grinding": {}
+        },
+        "Welding": {
+            "Hyperbaric welding": {}
+        },
+        "Packaging": {
+            "Box-sealing tape": {}
+        }
+    },
+    "Materials and Consumables": {
+        "Adhesive": {}
+    },
+    "Machining Components": {
+        "Keyway": {}
+    },
+    "Construction": {
+        "Structures": {
+            "balloon framing": {},
+            "tower crane": {},
+            "I-beam": {}
+        },
+        "Worker": {
+            "construction worker": {}
+        }
+    },
+    "Machinery and Mechanical Devices": {
+        "crane": {
+            "tower crane": {}
+        },
+        "ventilator": {},
+        "heat gun": {}
+    },
+    "Agricultural Equipment": {
+        "Three-point hitch hooks": {}
+    },
+    "Industrial Machines & Components": {
+        "Industrial Vehicle": {},
+        "Continuous Casting": {},
+        "Flanging": {}
+    },
+    "Robotic Systems": {
+        "Robotic Arm": {
+            "Robot End Effector": {}
+        },
+        "Human-Machine Interface": {}
+    },
+    "Saws": {
+        "Buck Saw": {}
+    },
+    "Adhesives": {
+        "PVA Glue": {}
+    },
+    "Industrial": {
+        "Metallurgy": {
+            "metallurgy": {}
+        }
+    },
+    "Mechanical Components": {
+        "Oil Seal": {},
+        "Threads": {},
+        "Springs": {}
+    },
+    "Cycling": {
+        "pedal": {}
+    },
+    "Industrial Equipment & Materials": {
+        "Iron Foundries": {},
+        "Gas Cylinders": {},
+        "Spherical Roller Bearings": {},
+        "high speed steel": {},
+        "Cable Ties": {}
+    },
+    "Safety Gear": {
+        "Safety-helmets": {}
+    },
+    "Machine Tools and Accessories": {
+        "Saw Blades and Handsaws": {
+            "saber saw": {},
+            "SawStop": {}
+        },
+        "Oxyacetylene blowpipes": {},
+        "needlegun scaler": {},
+        "Reamers": {}
+    },
+    "Construction and Railway": {
+        "Wooden Dowels": {},
+        "fishplate": {},
+        "continuous track": {}
+    },
+    "Lifting and Securing": {
+        "lifting hooks, clamps & shackle": {}
+    },
+    "Metalworking Processes": {
+        "friction stir welding": {}
+    },
+    "Carpentry and Woodwork": {
+        "nailing": {}
+    },
+    "Agricultural Tools": {
+        "scythe": {}
+    },
+    "Electrical Equipment": {
+        "electric generator": {},
+        "Conduit": {},
+        "warning signal": {}
+    },
+    "Electronics and Electrical Systems": {
+        "Components": {
+            "resistor": {}
+        },
+        "Systems": {
+            "electrical network": {}
+        }
+    },
+    "Diving Equipment": {
+        "oxygen tank": {}
+    }
+}

@@ -1,0 +1,1551 @@
+welding	Q131172
+ladder	Q168639
+Bolt	Q212792
+washing machine	Q124441
+nut	Q11009
+hole puncher	Q183413
+box column drill	Q20820500
+tongs	Q3276479
+blacksmith	Q1639825
+train	Q870
+welding equipment	Q1613682
+hammer	Q25294
+pliers	Q13049940
+welder	Q836328
+Clamp	Q334471
+key	Q132041
+machine press	Q674484
+anvil	Q104363
+pulley	Q48378
+axle	Q188209
+screwdriver	Q161071
+milling machine	Q623106
+gearbox	Q6497460
+Bearings	Q16243277
+drill bit	Q335283
+carabiner	Q588395
+circular saw	Q1141837
+lathe	Q187833
+padlock	Q40607
+steel coil	Q1107164
+printer	Q6500733
+windmill	Q38720
+drilling rig	Q12688575
+torch	Q327954
+Rotary table	Q3512781
+saw	Q125356
+screw head shape	Q96746126
+spirit level	Q207988
+pencil	Q14674
+postage stamp	Q37930
+Power drills to fenestrate exposed bone to stimulate wound healing	Q39101613
+LED lamp	Q1553201
+hand saw	Q2750929
+Staples	Q2227729
+fasteners	Q107380930
+diagonal pliers	Q245934
+exothermic welding	Q910714
+grinding machine	Q245761
+mortar and pestle	Q18341850
+Door Lock	Q57567502
+railway	Q22667
+news media	Q1193236
+Metal coil fabrication	Q123008860
+Paperclips for ear lobule repair	Q80141659
+laser cutter	Q124816652
+honing steel	Q520049
+machinist	Q196721
+Vice Grip	Q26156693
+hand tool	Q2578402
+industrial robot	Q1128980
+compact cassette	Q149757
+Spirit levels	Q53366902
+production facility	Q9386255
+Sander	Q18670563
+incandescent light bulb	Q47616
+workbench	Q347690
+rotary hammer	Q1932875
+human	Q5
+table saw	Q2365675
+screw press	Q1414307
+construction site	Q360418
+physical container	Q987767
+metal lathe	Q3681647
+steam hammer	Q19767
+Wikimedia Toolforge	Q36500248
+Screws	Q36935835
+chainsaw	Q208040
+personal protective equipment	Q1333024
+helmet	Q173603
+door	Q36794
+bandsaw	Q806378
+sawing	Q3954248
+Hooks	Q982654
+Rivets	Q4395226
+Archimedes' screw	Q189155
+drill	Q58964
+reamer	Q863835
+lock	Q105731
+locker	Q1195470
+rail fastening system	Q1081004
+screw	Q11022
+turnstile	Q1146283
+lockout-tagout	Q681384
+scissors	Q40847
+ruler	Q1097498
+rope	Q31029
+hoist	Q1411613
+Pinking shears	Q3747917
+blacksmith's tongs	Q98558226
+duct tape	Q1030313
+lathe center	Q2603338
+window	Q35473
+Nails	Q17325289
+fountain	Q483453
+factory	Q83405
+Oxyacetylene torch testing and microstructural characterization of tantalum carbide.	Q46710505
+oscilloscope	Q174320
+soldering iron	Q623402
+Hand Tools	Q50321273
+glass engraver	Q18510097
+excavator	Q182661
+blacksmithing	Q11204681
+ball bearing	Q11432170
+cogwheel	Q143873
+manhole cover	Q652657
+T-Square	Q843852
+pencil sharpener	Q193811
+Tool spindle and machine tool including same	Q125141073
+stump grinder	Q2036130
+sawmill	Q505213
+bolt cutter	Q1253857
+tractor	Q39495
+Resistance Welder Manufacturers' Association	Q122949879
+wire	Q551997
+door handle	Q23009
+dispenser	Q27098499
+Axes	Q19888542
+Reln	Q14331135
+Smokestack Lightning	Q7545947
+snowplow	Q14976
+axe	Q39397
+zipper	Q101761
+Extrusion machine operator dies of head injuries received when his head became caught in extrusion machine rollers - South Carolina, March 14, 1994	Q26347604
+Screwdrivers MC	Q117715471
+binder clip	Q1435328
+widget toolkit	Q1193246
+bench grinder	Q2564323
+hex key	Q16953
+utility knife	Q23769
+Picks	Q57649215
+woodworking chisel	Q13221843
+corkscrew	Q12337
+induction heating	Q1155653
+brazing	Q13389141
+screwdriver bit	Q1519190
+DENTAL drills	Q79327926
+fuse	Q182221
+duct	Q1453244
+crucible tongs	Q10928827
+brace	Q2662870
+crane	Q178692
+scroll saw	Q1183768
+Background Intelligent Transfer Service	Q798439
+clothes hanger	Q815240
+rasp	Q277885
+End mill	Q8194616
+smithy	Q40558
+GAS TANKS	Q126259308
+Ball Bearings for Radial-Thrust Loading	Q59628268
+Electric Wiring, Fittings, Switches and Lamps Electric Bells and Alarms	Q64307066
+rolling-element bearing	Q1335987
+machine screw	Q107437313
+nail clipper	Q270380
+CNC machine	Q13231055
+meat grinder	Q899260
+power miter saw	Q373255
+telescopic crane	Q2106694
+cordless drill	Q456101
+goggles	Q72797
+rail yard	Q19563580
+cable tie	Q1500589
+microscope	Q196538
+belt sander	Q806370
+chisel	Q474188
+extension cord	Q1894990
+file	Q193142
+lifting hook	Q495451
+Châlus	Q622720
+machine	Q11019
+drilling	Q890886
+crosscut saw	Q291319
+integrated circuit	Q80831
+snow blower	Q1351693
+rolling mill	Q1049792
+RAPTOR King of Tough 250	Q1182913
+Safety helmet	Q124445592
+mallet	Q3202271
+joinery	Q2183679
+casting	Q496098
+keyhole saw	Q765735
+Hacienda La Laguna	Q5891062
+scale	Q188488
+test tube	Q88399897
+cutting tool	Q1760958
+woodworking machine	Q2027611
+glove	Q169031
+extruder	Q1366621
+glassblower	Q1413824
+fidget spinner	Q29279406
+Pick tool for road milling	Q124654094
+rubber band	Q256817
+square academic cap	Q920507
+Taps	Q1213746
+pipe	Q104526
+Swiss Army knife	Q23719
+angle grinder	Q827274
+Respirator masks protect health but impact performance: a review	Q26766662
+Set Squares	Q108431872
+wood saw	Q70802185
+heating furnace	Q1709184
+combination lock	Q2374786
+self-tapping screw	Q2988641
+grinding wheel	Q1931980
+lumber	Q1370714
+woodturning lathe	Q239990
+hand drill	Q1133232
+dredging	Q852170
+Steel Foundry	Q21620084
+bobbin	Q1520790
+Heat torch	Q5693340
+welding helmet	Q787354
+blacksmith's hammer	Q2246394
+steel bar	Q5405051
+Vehicle mount	Q119270352
+rock drill	Q11941822
+shielded metal arc welding	Q1992360
+milling cutter	Q1078463
+hole saw	Q764324
+bracelet	Q201664
+kill switch	Q2001958
+gas tungsten arc welding	Q1627310
+ice auger	Q4401667
+conveyor	Q1479946
+Ceramic molding	Q5063668
+hinge	Q244330
+Ignition switch	Q4993268
+Comptometer	Q572421
+Toolbelt Diva	Q7824062
+hearing protection	Q13405515
+industrial equipment	Q3045515
+heat cutter	Q12058409
+stapler	Q489157
+armour	Q485027
+city block	Q1348006
+CNC lathe	Q1023915
+sawhorse	Q1421844
+electrician	Q165029
+robot welding	Q2327264
+paintbrush	Q193897
+threaded insert	Q1520669
+steam engine	Q12760
+sharpening stone	Q507559
+TACKSMAN II	Q116971001
+tie-down straps	Q1277336
+vice	Q1411242
+Air hose	Q105719289
+Radial drilling link transmission and flex shaft protective cover	Q122326876
+electric screwdriver	Q110705646
+machine interface	Q81334
+forest	Q4421
+Dimple keys	Q11320183
+worm drive	Q12529
+crucible	Q390417
+auger	Q1142501
+belt	Q134560
+Charles III of the United Kingdom	Q43274
+Shanghai World Financial Center	Q80852
+bulldozer	Q131677
+well drilling	Q14693887
+nameplate	Q2713450
+patent	Q253623
+angle bracket	Q39076453
+crawler excavator	Q5182961
+total station	Q641296
+drywall anchor	Q56284371
+concrete mixer	Q831584
+Stone mortar & pestle, India, 1750-1850	Q112821074
+glue	Q500548
+rivet gun	Q7338813
+ice saw	Q117052828
+electric motor	Q72313
+Welding torch	Q119823051
+hook	Q4243098
+tape dispenser	Q331533
+Earth anchor	Q18019983
+emergency sign	Q2146470
+construction machine	Q102310586
+COinS	Q1024186
+nail gun	Q77257
+glasses	Q37501
+band saw	Q116971275
+Rosie the Riveter	Q1650639
+funnel	Q29957
+door hinge	Q2464427
+clipboard	Q244909
+pruning shears	Q144764
+CYLINDRICAL ROLLER BEARING LUBRICATION REGIMES ANALYSIS AT LOW SPEED AND PURE RADIAL LOAD	Q127477693
+belt	Q623755
+paper cutter	Q2205714
+Dikes	Q37437171
+machine tool	Q19768
+caliper	Q12408
+trip hammer	Q2121955
+forklift truck	Q41577
+Welders	Q108699591
+woodchipper	Q1621575
+hammer drill	Q19599600
+filter press	Q647023
+printing machine	Q12820205
+torque screwdriver	Q1256552
+telescopic handler	Q1943369
+workpiece	Q2560552
+coffee grinder	Q1139048
+Casting mold	Q119519004
+Keys	Q21491451
+saw blade	Q4683254
+Forge Hammer	Q129260716
+woodworking workbench	Q1621597
+driller	Q5307564
+truck	Q43193
+worker	Q327055
+Milwaukee Electric Tool Corporation	Q6861736
+brick	Q40089
+steel mill	Q2069494
+CUTTING WHEEL RESIDUES IN PLUTONIUM WASTE CAUSES EXPLOSION	Q77000951
+Rallidae	Q26623
+lathe operator	Q28933489
+Scissor-Jack-Damper Energy Dissipation System	Q64114580
+Hydraulic drill hole reaming technology with large flow and draining of coal mine gas	Q129627151
+mechanical saw	Q70875100
+ruler	Q104555
+wire brush	Q45299
+stonemason	Q328325
+head saw	Q11993964
+chop saw	Q128602183
+bow saw	Q3744469
+Door Latch	Q64570459
+split pin	Q1412569
+fuel tank	Q1411232
+shield	Q131559
+welding goggles	Q7980875
+barrel	Q10289
+Button Hook	Q116329433
+hydraulic rescue tool	Q611035
+correction tape	Q1863081
+Air line	Q4698337
+computer data storage device	Q66221
+Hockey tape	Q5875735
+Tool cabinet	Q1275728
+water wheel	Q146728
+nail	Q37077
+Circular saw blade	Q123318722
+claw hammer	Q3945253
+random orbital sander	Q2455671
+Chisel blade	Q116440842
+Control Panel	Q1081102
+welding joint	Q7980877
+whiteboard	Q16354
+office supply	Q2383811
+Sawyers	Q56540597
+Medical tools having tension bands	Q122599815
+concrete saw	Q5159079
+drill press	Q2211295
+fishing hook	Q205276
+welding	Q131172
+bagpipes	Q8347
+worker	Q327055
+printer	Q6500733
+Welders	Q108699591
+heating furnace	Q1709184
+Screws	Q36935835
+sawmill	Q505213
+Light Bulbs	Q28568592
+Screw Driver	Q79501070
+drill bit	Q335283
+Welding torch	Q119823051
+welding helmet	Q787354
+shielded metal arc welding	Q1992360
+hydraulic rescue tool	Q611035
+Presses universitaires de France	Q1892146
+steering wheel	Q679300
+scissors	Q40847
+Nails	Q17325289
+Cordless drills	Q68063456
+grinding wheel	Q1931980
+Mixers	Q80857826
+clothespin	Q267290
+Safety Pins	Q11999067
+Circular Saws and the History of Technology	Q59442969
+train	Q870
+railway track	Q160342
+Rallidae	Q26623
+construction site	Q360418
+hex drive	Q23824436
+blade	Q330946
+Screwdrivers MC	Q117715471
+milling machine	Q623106
+Zippers	Q48818852
+Clamps	Q112589797
+Rivets	Q4395226
+Keys	Q21491451
+lamp	Q1138737
+smithy	Q40558
+utility knife	Q23769
+anvil	Q104363
+human	Q5
+lathe	Q187833
+windmill	Q38720
+Printing Presses and Publications Act	Q7245316
+metalworking	Q953045
+brazing	Q13389141
+saw	Q125356
+personal protective equipment	Q1333024
+casting	Q496098
+chainsaw	Q208040
+mortar and pestle	Q18341850
+grinding machine	Q245761
+laser cutting	Q593053
+beams	Q1206419
+fence	Q148571
+glue	Q500548
+epoxy resins	Q143983
+superglue	Q107407155
+fasteners	Q107380930
+LED lamp	Q1553201
+screwdriver	Q161071
+Power drills to fenestrate exposed bone to stimulate wound healing	Q39101613
+drillship	Q509222
+hard hat	Q2058262
+welding equipment	Q1613682
+Heat torch	Q5693340
+workbench	Q347690
+Wikimedia Toolforge	Q36500248
+goggles	Q72797
+C-clamp	Q5005931
+Metal Bar	Q100892463
+Washers	Q11945252
+protective gloves	Q2252300
+bridge	Q12280
+hammer	Q25294
+blacksmithing	Q11204681
+ship	Q11446
+twist drill	Q56296876
+bench	Q204776
+Stamps	Q79701
+text types	Q2298050
+level	Q1046315
+spirit level	Q207988
+nameplate	Q2713450
+patent information	Q9372229
+chisel	Q474188
+circular saw	Q1141837
+pulper	Q645424
+nut	Q11009
+crane	Q178692
+drawing pin	Q406839
+Grinding stones in India	Q124252047
+brackets	Q174565
+paper clip	Q8353
+crucible	Q390417
+Safety helmet	Q124445592
+Tampa Bay Lightning	Q201864
+Fidget spinners: Purported benefits, adverse effects and accepted alternatives.	Q39425702
+Padlocks from the City	Q59180356
+forklift truck	Q41577
+machine tool	Q19768
+Power Tools VR	Q124069852
+rail fastenings	Q2234662
+Cutlers	Q122549995
+grinding wheels & point	Q116971036
+Riveters	Q76548573
+table saw	Q2365675
+pruning shears	Q144764
+Construction tools and equipment – their influence on accident causality	Q60219420
+tongs	Q3276479
+factory	Q83405
+Hammers	Q37489626
+Châlus	Q622720
+pencil sharpener	Q193811
+metal casting	Q9268371
+angle brackets	Q110502275
+demolition shears	Q306848
+Plain Bearings	Q59629990
+pliers	Q13049940
+wire cutters	Q1255405
+Metalworking Tools from the Central Coast of Peru	Q59227884
+Clothespins for laboratory glassware	Q73084355
+mechanical device	Q1882685
+electronics	Q11650
+threshold effect	Q7798100
+rotor	Q193466
+knife	Q32489
+Acorn Nuts and Diapey Butts	Q114509230
+drill press	Q2211295
+Chisels & Bits	Q114396271
+Pressure lock bags	Q18335861
+Ocean Drilling Program	Q613946
+watermill	Q185187
+wheel	Q446
+Sawyers	Q56540597
+welding glass	Q112265432
+pressed glass	Q7241657
+Steel coils	Q44545890
+Hooks	Q982654
+Windmills	Q61849520
+Hand Tools	Q50321273
+Drilling Machines, Surface	Q26372504
+jewelry	Q161439
+computer file	Q82753
+Amazon Locker	Q16974764
+lumber yard	Q10436913
+Foundries	Q123130999
+rock-paper-scissors	Q106631
+Water Wheels Lake Number 1 Dam	Q31579438
+resin casting	Q906963
+tractor	Q39495
+LED bulbs technical specification and testing procedure for solar home systems	Q55880345
+Excavators	Q105376597
+welding goggles	Q7980875
+Spirit levels	Q53366902
+oxy-fuel cutting	Q33101028
+E27 Edison screw	Q74840051
+carabiner	Q588395
+die casting	Q3325511
+compact cassette	Q149757
+tape dispenser	Q331533
+Wrenches in the works: drug discovery targeting the SCF ubiquitin ligase and APC/C complexes	Q33307883
+Mechanical screwdriver for the nail-plate operation	Q73501094
+Surgical saws	Q18748667
+decorative tape	Q116960449
+arc welding	Q422937
+semi-finished casting product	Q867705
+drilling	Q890886
+black	Q23445
+face shield	Q5428384
+Wringer washers and salt-lick goiter: a case for rural medicine	Q70965225
+mortar and pestle	Q18341850
+knurling tool	Q106827110
+band saw	Q116971275
+grinding wheel	Q1931980
+circular saw	Q1141837
+Rivets	Q4395226
+hand saw	Q2750929
+screw	Q11022
+scissors	Q40847
+Clamp	Q334471
+drill bit	Q335283
+angle grinder	Q827274
+measuring instrument	Q2041172
+carabiner	Q588395
+Keys	Q21491451
+gauge block	Q1340688
+excavator	Q182661
+key	Q132041
+factory	Q83405
+bandsaw	Q806378
+wood screw	Q54806448
+road roller	Q216842
+compact cassette	Q149757
+machine press	Q674484
+millstone	Q670985
+utility knife	Q23769
+Bolt	Q212792
+chainsaw	Q208040
+Screws	Q36935835
+table saw	Q2365675
+caulking gun	Q1734658
+heavy equipment	Q874311
+Heat torch	Q5693340
+lathe	Q187833
+cable cutter	Q11301405
+fishing hook	Q205276
+screwdriver	Q161071
+hatchet	Q672890
+lock	Q105731
+metal lathe	Q3681647
+wire saw	Q689574
+power miter saw	Q373255
+Grinding Tools at the Third Intermediate Period Tell el-Retaba	Q127787630
+bookbinding press	Q107196990
+Welding torch	Q119823051
+crane	Q178692
+Power drills to fenestrate exposed bone to stimulate wound healing	Q39101613
+Forges	Q243155
+wood saw	Q70802185
+gas tungsten arc welding	Q1627310
+printer	Q6500733
+shielded metal arc welding	Q1992360
+box column drill	Q20820500
+incandescent light bulb	Q47616
+belt sander	Q806370
+Ceramic molding	Q5063668
+caliper	Q12408
+rotary hammer	Q1932875
+machine tool	Q19768
+welding	Q131172
+jar	Q1207302
+brazing	Q13389141
+grindstone	Q4990615
+laser cutting	Q593053
+Continuous Miner Noise Control	Q26215525
+Clamps	Q112589797
+thread-locking fluid	Q2249485
+hammer drill	Q19599600
+Welders	Q108699591
+oscillating multi-tool	Q6934510
+Metalworking Tools from the Central Coast of Peru	Q59227884
+rail fastenings	Q2234662
+rivet	Q212500
+reciprocating saw	Q2282074
+coping saw	Q17084518
+Gravestones	Q108260271
+Hydrogen voltage gated channel 1	Q21107673
+windmill	Q38720
+two-man saw	Q143041
+angle brackets	Q110502275
+Door Lock	Q57567502
+ball-peen hammer	Q1535657
+chuck	Q19818
+drill press	Q2211295
+milling machine	Q623106
+CNC router	Q16251414
+CNC lathe	Q1023915
+concrete saw	Q5159079
+fulling	Q1585730
+screw press	Q1414307
+Hand Tools	Q50321273
+Extrusion machine operator dies of head injuries received when his head became caught in extrusion machine rollers - South Carolina, March 14, 1994	Q26347604
+ingot	Q83893
+Steel coils	Q44545890
+corkscrew	Q12337
+drawing pin	Q406839
+sawmill	Q505213
+Amazon Locker	Q16974764
+backsaw	Q1402035
+nut	Q11009
+electric chainsaw	Q128601795
+pencil sharpener	Q193811
+clothespin	Q267290
+Pallets-Sphinx-Themes	Q107383393
+bagpipes	Q8347
+try square	Q569316
+zipper	Q101761
+reamer	Q863835
+padlock	Q40607
+protective device	Q3030569
+paintbrush	Q193897
+rope	Q31029
+pruning shears	Q144764
+metalworking	Q953045
+Vernier calipers	Q25921354
+network switch	Q4503
+laser cutter	Q124816652
+cordless drill	Q456101
+woodturning lathe	Q239990
+personal protective equipment	Q1333024
+reinforcing bar	Q150425
+woodchipper	Q1621575
+stamping machine	Q18891559
+gas cylinder	Q774332
+oxy-fuel cutting	Q33101028
+steam hammer	Q19767
+welding equipment	Q1613682
+sheep shears	Q1533174
+hinge	Q244330
+hole puncher	Q183413
+masking tape	Q3775755
+twist drill	Q56296876
+plumbing fittings & support	Q116970842
+welding power supply	Q1936800
+bronze casting	Q928402
+machining	Q192047
+ladder	Q168639
+Washers	Q11945252
+Floor sander dies when wood floor refinish product ignites	Q24724975
+hole saw	Q764324
+SDS	Q458278
+fasteners	Q107380930
+Boring machine	Q3933812
+Nails	Q17325289
+Cordless drills	Q68063456
+drilling equipment	Q111436852
+hex key	Q16953
+scotch tape	Q259589
+Archimedes' screw	Q189155
+jointer	Q1253445
+crosscut saw	Q291319
+Print machine operator is strangled when his shirt is caught on a rotating knob	Q24852414
+meat grinder	Q899260
+thimble	Q8955276
+sandpaper	Q142274
+Phillips-head screw	Q128560689
+stone saw	Q2341315
+Railway equipment industry in the People's Republic of China	Q7284249
+Jigsaw	Q15712110
+welder	Q836328
+oxy-fuel welding and cutting	Q118568
+Chisels & Bits	Q114396271
+excavator	Q182661
+lock	Q105731
+Wood planer control: Predictive and prescriptive approaches via Automatic State Matching Gaussian processes	Q129697162
+Cutting tools	Q123683229
+saw blade	Q4683254
+welding equipment	Q1613682
+zipper	Q101761
+Zippers	Q48818852
+train surfing	Q1354582
+extruder	Q1366621
+Punches	Q37564719
+lathe	Q187833
+screw pump	Q1047037
+demolition shears	Q306848
+welding	Q131172
+scissors	Q40847
+hand drill	Q1133232
+bicycle	Q11442
+South Bend Lathe Works	Q7566306
+chainsaw	Q208040
+metal lathe	Q3681647
+crane	Q178692
+machine screw	Q107437313
+ice screw	Q71865
+Push Pins, Dots, Customisation, Brands and Services: The Three Waves of Making Digital Maps	Q73180554
+hand saw	Q2750929
+sawmill	Q505213
+padlock	Q40607
+paper clip	Q8353
+angle grinder	Q827274
+box column drill	Q20820500
+incandescent light bulb	Q47616
+bench grinder	Q2564323
+train	Q870
+table saw	Q2365675
+woodturning lathe	Q239990
+bell	Q101401
+Screws	Q36935835
+Casting mold	Q119519004
+power miter saw	Q373255
+Shanghai World Financial Center	Q80852
+woodchipper	Q1621575
+hard hat	Q2058262
+tweezers	Q192504
+oxy-fuel cutting	Q33101028
+water wheel	Q146728
+Power drills to fenestrate exposed bone to stimulate wound healing	Q39101613
+gas metal arc welding	Q1765723
+mortar	Q189566
+pencil sharpener	Q193811
+Welding robots	Q59274840
+protective device	Q3030569
+Woodworking Shop	Q40155795
+black	Q23445
+Factory Floor	Q5428767
+Machining Centers Manufacturing	Q30284915
+molcajete	Q2572032
+Ahsoka Tano	Q51755
+rock drill	Q11941822
+Grinding Tools at the Third Intermediate Period Tell el-Retaba	Q127787630
+Screwdrivers MC	Q117715471
+The Machinists	Q19572770
+nut	Q11009
+duct tape	Q1030313
+Jigsaws-a preserved ability in semantic dementia	Q33346328
+forging	Q193057
+metalworking	Q953045
+soldering iron	Q623402
+riveter	Q72981050
+Soldering	Q7557228
+shielded metal arc welding	Q1992360
+bagpipes	Q8347
+Wikimedia Toolforge	Q36500248
+Global Boundary Stratotype Section and Point	Q37402
+oscillating multi-tool	Q6934510
+Edison screw	Q1764334
+nail gun	Q77257
+Drilling Machines, Surface	Q26372504
+height gauge	Q2283738
+drill bit	Q335283
+Pallets-Sphinx-Themes	Q107383393
+Cal Poly Humboldt Lumberjacks	Q16191455
+Metal slab superlens-negative refractive index versus inclined illumination: discussion.	Q50854824
+Welders	Q108699591
+construction site	Q360418
+saw	Q125356
+lockout-tagout	Q681384
+Bolt Cutters (second state)	Q77006266
+news media	Q1193236
+Flame cutting machines	Q25386326
+Sawyers	Q56540597
+Meat grinders and molecular epidemiology: two supermarket outbreaks of Escherichia coli O157:H7 infection.	Q54594889
+drilling	Q890886
+sharpening stone	Q507559
+grinding machine	Q245761
+filter press	Q647023
+Axes	Q19888542
+razor	Q13422881
+sawing	Q3954248
+Washers	Q11945252
+Printing Presses and Publications Act	Q7245316
+machine tool	Q19768
+Ball Bearings for Radial-Thrust Loading	Q59628268
+Grinding stones in India	Q124252047
+rail fastenings	Q2234662
+Power Tools VR	Q124069852
+arc welding	Q422937
+windmill	Q38720
+Anvils and Trapped Wheel	Q64513255
+drill	Q58964
+Cordless drills	Q68063456
+milling machine	Q623106
+Keys	Q21491451
+CNC lathe	Q1023915
+engraving machine	Q1447435
+Directional drilling	Q1422489
+gas tungsten arc welding	Q1627310
+brazing	Q13389141
+Cancer	Q8849
+welding helmet	Q787354
+millstone dressing	Q2348670
+twist drill	Q56296876
+superglue	Q107407155
+Horizontal drilling machine with an in-situ detection device	Q125831877
+combination machine	Q2069500
+Water jet cutter	Q660875
+locker	Q1195470
+hoe	Q131154
+razor sharpener	Q107196578
+YubiKey	Q19600525
+tie-down straps	Q1277336
+Phillips-head screw	Q128560689
+tongs	Q3276479
+utility vehicle	Q3564023
+binder clip	Q1435328
+screw gun	Q15807771
+knurling	Q499954
+Adhesive tapes in the special care baby unit	Q47647295
+Ceramic molding	Q5063668
+Master Lock	Q12859031
+box-sealing tape	Q4951474
+Hand Tools	Q50321273
+Spirit levels	Q53366902
+C clamps in the Begg technique	Q70926066
+Chubb Fire & Security Group	Q5115258
+Squares	Q48890502
+wire cutters	Q1255405
+Control Panel	Q1081102
+Tampa Bay Lightning	Q201864
+Compact Driller	Q117073069
+filing	Q1126002
+industrial equipment	Q3045515
+Staples	Q2227729
+Bearings	Q16243277
+Spax screws	Q1569385
+Surgical saws	Q18748667
+pliers	Q13049940
+Locks	Q10854629
+pulper	Q645424
+blacksmith's hammer	Q2246394
+Sawmills	Q2023378
+Millstones	Q15121807
+Self Tapping Screws v/s Erich Arch Bar for Inter Maxillary Fixation: A Comparative Clinical Study in the Treatment of Mandibular Fractures	Q38538595
+Visé	Q49743
+bronze casting	Q928402
+combination tool	Q111467266
+Umbrellas	Q100372239
+Solder suckers	Q97375952
+sandpaper	Q142274
+orthopedic equipment	Q72085708
+caliper	Q12408
+Hinges	Q1043177
+hand press	Q20820224
+Kobelco Cranes	Q11302404
+woodchippers	Q14906751
+sewing kit	Q33523821
+Cutting Machines and Cutting	Q26377691
+Teaspoon (fishing hook)	Q24251437
+Dowel pins	Q67505082
+Safety helmet	Q124445592
+love padlocks of Hohenzollern Bridge	Q99964508
+ball mill	Q781139
+adhesive	Q131790
+metal casting	Q9268371
+knife	Q32489
+oils and fats industry	Q56880804
+grinding	Q3680646
+Hooks	Q982654
+textile machine	Q1573728
+drill press	Q2211295
+hyperbaric welding	Q2346649
+Cutlers	Q122549995
+boat hook	Q4339908
+LORAM Maintenance of Way, Inc.	Q4042484
+🔩	Q87581011
+woodworking machine	Q2027611
+Coffee grinders assist pediatric dosing	Q73823603
+jewelry	Q161439
+Clamps	Q112589797
+exothermic welding	Q910714
+Key fobs for vehicle remote park-assist	Q119361046
+keyway	Q488855
+Greater Short-toed Lark	Q24843
+balloon framing	Q21550385
+suspenders	Q109742
+caulking gun	Q1734658
+Micrometers for the Blind	Q83865946
+smithy	Q40558
+pruning shears	Q144764
+Coraciidae	Q44245
+pole lathe	Q7209259
+tractor	Q39495
+Three-point hitch hooks	Q1395608
+shielded metal arc welding	Q1992360
+snowplow	Q14976
+tower crane	Q1536423
+diagonal pliers	Q245934
+bearing	Q190100
+rotary printing press	Q911814
+heating furnace	Q1709184
+machine screw	Q107437313
+pneumatic tool	Q3635139
+chainsaw	Q208040
+personal protective equipment	Q1333024
+screw head shape	Q96746126
+drilling rig	Q12688575
+try square	Q569316
+incandescent light bulb	Q47616
+screwdriver	Q161071
+micrometre	Q175821
+wrench	Q154411
+lathe	Q187833
+cogwheel	Q143873
+Hairpin clip	Q5639563
+welding	Q131172
+hacksaw	Q1195804
+printer	Q6500733
+Factory Floor	Q5428767
+Railroad Tracks	Q122313895
+pliers	Q13049940
+hook	Q4243098
+scissors	Q40847
+drilling	Q890886
+hammer	Q25294
+The Cider Press Public House	Q26666059
+anvil	Q104363
+duct tape	Q1030313
+box column drill	Q20820500
+C-clamp	Q5005931
+pike	Q165278
+bicycle lock	Q1392592
+railroad car	Q208502
+Tampa Bay Lightning	Q201864
+computer numerical control	Q190247
+corkscrew	Q12337
+metalworking	Q953045
+fire hydrant	Q634299
+grinding wheel	Q1931980
+Hand Tools	Q50321273
+Compact Fluorescent Light Bulbs (CFLs): Issues with Use and Disposal	Q59639674
+tongs	Q3276479
+Power drills to fenestrate exposed bone to stimulate wound healing	Q39101613
+spirit level	Q207988
+hand saw	Q2750929
+lifting hook	Q495451
+pencil	Q14674
+Screws	Q36935835
+bandsaw	Q806378
+🔩	Q87581011
+torch	Q327954
+vehicle	Q42889
+lawn mower	Q260521
+ruler	Q1097498
+Sander	Q18670563
+spade bit	Q107637124
+circular saw	Q1141837
+grinding	Q3680646
+computer file	Q82753
+keychain	Q51338
+Welding torch	Q119823051
+grinding wheels & point	Q116971036
+angle grinder	Q827274
+tile cutter	Q27103691
+excavator	Q182661
+train	Q870
+machine	Q11019
+Snow Mobile Saalbach Hinterglemm	Q18027944
+Hope Su	Q551904
+machine tool	Q19768
+Archimedes' screw	Q189155
+Clamp	Q334471
+construction worker	Q811122
+sandpaper	Q142274
+butcher	Q329737
+grinding machine	Q245761
+I-beam	Q1780087
+woodchipper	Q1621575
+Spirit levels	Q53366902
+pipe	Q41551
+Engineering Drawing	Q48772217
+knife grinder	Q4990607
+CNC machine	Q13231055
+casting	Q496098
+level	Q1046315
+tool handle	Q17504947
+welder	Q836328
+ventilator	Q813243
+drill	Q58964
+compact cassette	Q149757
+crane	Q178692
+chisel	Q474188
+hinge	Q244330
+windmill	Q38720
+heat gun	Q1057985
+construction site	Q360418
+water wheel	Q146728
+plate	Q57216
+screw	Q11022
+axe	Q39397
+scroll saw	Q1183768
+winding machine	Q8024248
+hole puncher	Q183413
+wire saw	Q689574
+Szyny były złe	Q110278971
+screw extractor	Q1467847
+power hammer	Q3446739
+Nine Pound Hammer	Q4045353
+airplane	Q197
+Talaadah	Q15982279
+AC power socket	Q24237712
+Clamp	Q334471
+fire extinguisher	Q190672
+heating furnace	Q1709184
+flanging	Q1323480
+key	Q132041
+Drilling Machines, Surface	Q26372504
+crane	Q178692
+box column drill	Q20820500
+workbench	Q347690
+welding	Q131172
+lock	Q105731
+scissors	Q40847
+Grinding stones in India	Q124252047
+saw	Q125356
+lathe	Q187833
+machine tool	Q19768
+Welders	Q108699591
+nameplate	Q2713450
+factory	Q83405
+hand tool	Q2578402
+chisel	Q474188
+milling machine	Q623106
+hammer drill	Q19599600
+safety pin	Q840333
+Machining Centers Manufacturing	Q30284915
+printer	Q6500733
+oxy-fuel cutting	Q33101028
+Visé	Q49743
+hand axe	Q479448
+keyway	Q488855
+computer numerical control	Q190247
+Crackmeter	Q1551087
+human-machine interface	Q4508598
+anvil	Q104363
+Tampa Bay Lightning	Q201864
+truck	Q43193
+circlip tool	Q100869637
+Tweezer	Q60778901
+PVA glue	Q2545787
+concrete mixer	Q831584
+Steel Bars and Stone Walls	Q114509254
+continuous casting	Q1506832
+tie-down straps	Q1277336
+casting	Q496098
+brazing	Q13389141
+Buck Saw	Q64593274
+Bolt	Q212792
+hand drill	Q1133232
+steam locomotive	Q171043
+Screwdrivers MC	Q117715471
+zipper	Q101761
+Industrial vehicle	Q123996383
+Spirit levels	Q53366902
+Meta-workflows	Q29999390
+rotor	Q193466
+Shredders	Q107215441
+Safety helmet	Q124445592
+lifting hook	Q495451
+Master Lock	Q12859031
+robot end effector	Q1340324
+Edison screw	Q1764334
+robotic arm	Q40687
+Presses universitaires de France	Q1892146
+Anvils and Trapped Wheel	Q64513255
+drill bit	Q335283
+wire cutters	Q1255405
+Bevel gear	Q2144215
+sawmill	Q505213
+chainsaw	Q208040
+Grinders	Q3116751
+welding goggles	Q7980875
+Screws	Q36935835
+AutoForge	Q126693120
+drilling rig	Q12688575
+Hasps	Q64537775
+ABUS	Q287612
+glue	Q500548
+paintbrush	Q193897
+Casting mold	Q119519004
+Steel Foundry	Q21620084
+Lādlesāhebcha Dongar	Q26802849
+goggles	Q72797
+power tool	Q1327701
+crosscut saw	Q291319
+hand saw	Q2750929
+keyhole saw	Q765735
+South Bend Lathe Works	Q7566306
+Cordless drills	Q68063456
+locomotive	Q93301
+incandescent light bulb	Q47616
+metalworking	Q953045
+Museum of cutting blades and Palazzo Vicari	Q3867900
+Wappenschmiede Elmstein	Q17265437
+uterine tube	Q1233836
+Oil Seal	Q59629885
+Keys	Q21491451
+protective gloves	Q2252300
+table saw	Q2365675
+Hand Tools	Q50321273
+ruler	Q1097498
+clasp	Q2239762
+Exploratory drilling for evidence of zinc and lead ore in Dubuque County, Iowa	Q61460064
+On/off-switchable LSPR nano-immunoassay for troponin-T.	Q41854642
+Adhesive tapes in the special care baby unit	Q47647295
+woodturning lathe	Q239990
+plasma cutting	Q1385316
+forklift truck	Q41577
+Lightbulbs	Q6546260
+shielded metal arc welding	Q1992360
+Self Tapping Screws v/s Erich Arch Bar for Inter Maxillary Fixation: A Comparative Clinical Study in the Treatment of Mandibular Fractures	Q38538595
+hot glue gun	Q1304613
+Shovels & Rope	Q7502880
+Power Tools VR	Q124069852
+angle grinder	Q827274
+level	Q1046315
+washing machine	Q124441
+Nuts and Bolts	Q7070541
+Safety Pins	Q11999067
+Chisels & Bits	Q114396271
+pedal	Q1231985
+helmet	Q173603
+riveter	Q72981050
+spot welding	Q2327972
+carabiner	Q588395
+Locks	Q10854629
+metallurgy	Q11467
+machine	Q11019
+Coffee grinders assist pediatric dosing	Q73823603
+pencil sharpener	Q193811
+Dikes	Q37437171
+Cutters	Q114495207
+Cement truck driver dies after being backed over by a skid-steer loader - South Carolina	Q24706578
+knife	Q32489
+pruning knife	Q111337192
+cigar cutter	Q182058
+adhesive	Q131790
+forging	Q193057
+Clothespins for laboratory glassware	Q73084355
+micrometre	Q175821
+Crucibles of leadership.	Q45945499
+hard hat	Q2058262
+Quernstones and Tuff as indicators for Medieval European trade patterns	Q62076677
+Pulleys Mill	Q7259449
+flashlight	Q235783
+torch	Q327954
+clasps & hook	Q116960426
+snow blower	Q1351693
+safe	Q471898
+ruler	Q104555
+sugar tongs	Q36256949
+Riveters	Q76548573
+machine press	Q674484
+Springs	Q761408
+De Gekroonde Poelenburg	Q2020965
+press cake breakers	Q2886239
+Vice Grip	Q26156693
+Obere Hammerschmiede	Q41317189
+oxy-fuel welding	Q56558509
+black	Q23445
+belt sander	Q806370
+vice	Q1411242
+circular saw	Q1141837
+Gravestones	Q108260271
+demolition shears	Q306848
+drill press	Q2211295
+hammer	Q25294
+windmill	Q38720
+Printing Presses and Publications Act	Q7245316
+Cutting tools	Q123683229
+Laser welding of polymers	Q55616589
+Glass worker's benches	Q2881990
+power miter saw	Q373255
+winery	Q156362
+Grape Processing by High Hydrostatic Pressure: Effect on Microbial Populations, Phenol Extraction and Wine Quality	Q58763943
+keychain	Q51338
+Adjustable clamp systems and methods	Q125940027
+machining	Q192047
+Threads	Q120281745
+Jigsaws-a preserved ability in semantic dementia	Q33346328
+box-sealing tape	Q4951474
+rasp	Q277885
+news media	Q1193236
+blacksmithing	Q11204681
+pencil	Q14674
+relay	Q174053
+screw pump	Q1047037
+welding equipment	Q1613682
+kitchenware	Q1521410
+belt	Q134560
+Primula veris	Q157552
+scythe	Q130912
+cogwheel	Q143873
+Rotating brush for fast removal of corneal epithelium.	Q34293021
+crucible	Q390417
+forest	Q4421
+Forges	Q243155
+Fur presses	Q98648902
+Tracks	Q7831579
+fishplate	Q2143500
+Bores	Q37034388
+smithy	Q40558
+Printing Presses and Publications Act	Q7245316
+Teaspoon (fishing hook)	Q24251437
+chainsaw	Q208040
+wire cutters	Q1255405
+Ball Bearings for Radial-Thrust Loading	Q59628268
+scissors	Q40847
+Cutting Machines and Cutting	Q26377691
+pencil sharpener	Q193811
+Saw Blades and Handsaws	Q123187320
+rock drill	Q11941822
+factory	Q83405
+Excavators	Q105376597
+tie-down straps	Q1277336
+Safety-helmets	Q49162956
+Grinding Tools at the Third Intermediate Period Tell el-Retaba	Q127787630
+fasteners	Q107380930
+laser cutting	Q593053
+Fidget spinners: Purported benefits, adverse effects and accepted alternatives.	Q39425702
+welding	Q131172
+Foundries	Q123130999
+filing	Q1126002
+needlegun scaler	Q1963205
+demolition shears	Q306848
+Screwdrivers MC	Q117715471
+Drilling Machines, Surface	Q26372504
+Washers	Q11945252
+Oxyacetylene blowpipes	Q2921520
+Core samples for radiomics features that are insensitive to tumor segmentation: method and pilot study using CT images of hepatocellular carcinoma	Q36294539
+SawStop	Q7428485
+Locks	Q10854629
+drilling	Q890886
+Chuck Taylor All-Stars	Q11599
+vending machine	Q211584
+Spinnenkop Wedderveer	Q2272283
+Trephines for keratoplasty with micrometric regulation	Q80690908
+Welders	Q108699591
+drill bit	Q335283
+lifting hooks, clamps & shackle	Q117207436
+Bolt Cutters (second state)	Q77006266
+pruning shears	Q144764
+hearing protection	Q13405515
+bicycle lock	Q1392592
+rail fastenings	Q2234662
+Screws	Q36935835
+love padlocks of Hohenzollern Bridge	Q99964508
+Soldering	Q7557228
+metalworking	Q953045
+Mangles	Q36905947
+oxy-fuel cutting	Q33101028
+Kola Superdeep Borehole	Q19572
+woodchippers	Q14906751
+sandpaper	Q142274
+machine tool	Q19768
+medical tape & bandage	Q116220928
+South Bend Lathe Works	Q7566306
+Forges	Q243155
+Cutting tools	Q123683229
+Anvils and Trapped Wheel	Q64513255
+shielded metal arc welding	Q1992360
+SDS	Q458278
+Railroad Tracks	Q122313895
+Iron Foundries	Q123132052
+Federacion dels Ensenhaires de Lenga e Cultura d'Òc	Q11921644
+Gas Cylinders	Q93835461
+saber saw	Q3475711
+arc welding	Q422937
+Jigsaws-a preserved ability in semantic dementia	Q33346328
+Meat grinders and molecular epidemiology: two supermarket outbreaks of Escherichia coli O157:H7 infection.	Q54594889
+Set Squares	Q108431872
+box-sealing tape	Q4951474
+Wooden Dowels	Q64158454
+continuous track	Q940913
+De Held Jozua	Q2660889
+Augers-en-Brie	Q760408
+Houtzaagmolen	Q19264200
+friction stir welding	Q2068127
+Spirit levels	Q53366902
+Steel Foundry	Q21620084
+KSP-32 monument in Donetsk	Q125523552
+adhesive	Q131790
+drillship	Q509222
+high speed steel	Q1127242
+Golden Spike National Historical Park	Q1535051
+sawing	Q3954248
+computer numerical control	Q190247
+welding equipment	Q1613682
+drill press	Q2211295
+Bearings	Q16243277
+Tampa Bay Lightning	Q201864
+Keys	Q21491451
+Spherical Roller Bearings	Q59630604
+Stone chisels from Wood Walton, Huntingdonshire	Q59179040
+fulling	Q1585730
+Reamers	Q109121046
+twist drill	Q56296876
+Key fobs for vehicle remote park-assist	Q119361046
+brazing	Q13389141
+bagpipes	Q8347
+Circular Saws and the History of Technology	Q59442969
+thread-locking fluid	Q2249485
+Milling Process Monitoring Based on Vibration Analysis Using Hilbert-Huang Transform	Q129325743
+tongs	Q3276479
+black	Q23445
+Welding robots	Q59274840
+hot glue gun	Q1304613
+Taking Measurements - The Artist Copying a Cast in the Hall of the National Gallery of Ireland	Q77965475
+circular saw	Q1141837
+Glass worker's benches	Q2881990
+woodworking machine	Q2027611
+Watermill at Singraven	Q11721782
+Steel coils	Q44545890
+personal protective equipment	Q1333024
+nailing	Q10675690
+knurling	Q499954
+Metalworking Tools from the Central Coast of Peru	Q59227884
+oxy-fuel welding and cutting equipment	Q241230
+Extruderschnecke	Q1385537
+De Gekroonde Poelenburg	Q2020965
+Cable Ties	Q110047851
+forging	Q193057
+continuous casting	Q1506832
+Grinders	Q3116751
+grinding wheels & point	Q116971036
+Hooks	Q982654
+Hinges	Q1043177
+Power drills to fenestrate exposed bone to stimulate wound healing	Q39101613
+Machining Centers Manufacturing	Q30284915
+skeleton key	Q427440
+Hammerschmiede Kamp	Q38002280
+Speno	Q2078873
+correction tape	Q1863081
+laser scanning	Q1361664
+Diamond anvil cell	Q1208616
+D'Heesterboom	Q11722027
+Haas Automation	Q4040329
+Clamp	Q334471
+Grinding stones in India	Q124252047
+gas tungsten arc welding	Q1627310
+wire cutters	Q1255405
+welding equipment	Q1613682
+Welding torch	Q119823051
+goggles	Q72797
+power hammer	Q3446739
+pruning shears	Q144764
+fasteners	Q107380930
+square	Q174782
+Centrifuge tube	Q88484833
+compact cassette	Q149757
+hand saw	Q2750929
+burr mill	Q96966430
+welding power supply	Q1936800
+power miter saw	Q373255
+chainsaw	Q208040
+casting	Q496098
+hexagon nut	Q43889008
+split pin	Q1412569
+Cutters	Q114495207
+fence	Q148571
+Nails	Q17325289
+hammer	Q25294
+millstone dressing	Q2348670
+angle grinder	Q827274
+chisel	Q474188
+duct tape	Q1030313
+welder	Q836328
+brazing	Q13389141
+incandescent light bulb	Q47616
+Snowblower belt drive system	Q122157280
+tablet press	Q7673461
+electric motor	Q72313
+drill bit	Q335283
+pipe	Q104526
+Cancer	Q8849
+nut	Q11009
+vending machine	Q211584
+rivet gun	Q7338813
+Welds Hill	Q31656914
+brick	Q40089
+Door Hinges	Q64580494
+flat head screw	Q128561205
+Fluorescent Light Bronchoscopy Plus White Light Bronchoscopy for Early Detection of Lung Cancer	Q66036996
+Conduit	Q13553732
+welding	Q131172
+reamer	Q863835
+circular saw	Q1141837
+grinding machine	Q245761
+ruler	Q104555
+Welders	Q108699591
+leaf blower	Q1450186
+toolbox	Q1501161
+key	Q132041
+oxy-fuel cutting	Q33101028
+lathe	Q187833
+machining	Q192047
+log splitter	Q1625730
+Cutting tools	Q123683229
+warning signal	Q2549582
+Signs	Q2285224
+Welding robots	Q59274840
+well drilling	Q14693887
+sawmill	Q505213
+rotary saw	Q2036582
+meat slicer	Q117207985
+Jigsaw	Q15712110
+sawing	Q3954248
+microscope	Q196538
+soldering station	Q1879849
+cable cutter	Q11301405
+printer	Q6500733
+electric generator	Q131502
+measuring instrument	Q2041172
+Staples	Q2227729
+Dial	Q19902200
+woodturning lathe	Q239990
+turning	Q258127
+Hami Airport	Q3886447
+ball bearing	Q11432170
+gear shaping	Q1700991
+nameplate	Q2713450
+patent information	Q9372229
+rock drill	Q11941822
+Safety helmet	Q124445592
+tractor	Q39495
+drill press	Q2211295
+GAS TANKS	Q126259308
+Spirit levels	Q53366902
+Self Tapping Screws v/s Erich Arch Bar for Inter Maxillary Fixation: A Comparative Clinical Study in the Treatment of Mandibular Fractures	Q38538595
+pencil sharpener	Q193811
+teapot	Q245005
+electrochemical machining	Q1196855
+windmill	Q38720
+barcode game console	Q123146136
+Shredders	Q107215441
+Ball Bearings for Radial-Thrust Loading	Q59628268
+hand tool	Q2578402
+personal protective equipment	Q1333024
+statue	Q179700
+Dremel	Q1258332
+calculator	Q31087
+Digipass	Q2604110
+hot glue gun	Q1304613
+screw press	Q1414307
+workbench	Q347690
+Visé	Q49743
+torch	Q327954
+Tool belt	Q123193932
+hard hat	Q2058262
+topping lift	Q607634
+milling machine	Q623106
+twist drill	Q56296876
+tongs	Q3276479
+laser cutting	Q593053
+bandsaw	Q806378
+factory	Q83405
+caulking gun	Q1734658
+adhesive	Q131790
+box column drill	Q20820500
+filing	Q1126002
+Hooks	Q982654
+Steel cable injuries in sailors	Q72283402
+laser cutter	Q124816652
+construction site	Q360418
+Oxyacetylene blowpipes	Q2921520
+assembly line	Q455037
+conflagration	Q168983
+pliers	Q13049940
+Forges	Q243155
+Amazon Locker	Q16974764
+rubber mallet	Q1554469
+padlock	Q40607
+lifting hook	Q495451
+table saw	Q2365675
+scissors	Q40847
+Hack Saw	Q64619114
+Rasps for the Per-nasal Frontal Sinus Operation	Q85021487
+Screwdrivers MC	Q117715471
+Printing Presses and Publications Act	Q7245316
+Factory Floor	Q5428767
+Work stations for computer-graphic display in medical imaging	Q69612787
+demolition shears	Q306848
+heating furnace	Q1709184
+reciprocating saw	Q2282074
+face shield	Q5428384
+smithy	Q40558
+Tampa Bay Lightning	Q201864
+Washers	Q11945252
+Steel Plates Subjected to Uniform Blast Loading	Q57654691
+oxygen tank	Q11680736
+Core samples for radiomics features that are insensitive to tumor segmentation: method and pilot study using CT images of hepatocellular carcinoma	Q36294539
+Ahsoka Tano	Q51755
+Clamps	Q112589797
+Cal Poly Humboldt Lumberjacks	Q16191455
+forging	Q193057
+CNC wood router	Q5013096
+induction heating	Q1155653
+drawing pin	Q406839
+angle bracket	Q39076453
+stump grinder	Q2036130
+resistor	Q5321
+glass casting	Q5567097
+SDS	Q458278
+tie-down straps	Q1277336
+Warrington hammer	Q99385805
+Punches	Q37564719
+Gauge Blocks - A Zombie Technology	Q36303367
+Control Panel	Q1081102
+machine tool	Q19768
+Cutlers	Q122549995
+electrical network	Q132629
+Tent pegs for clathrin	Q59666534
+Dura-Europos archival photograph, YUAG Negative number 1938'5170~02	Q122564063
+CNC router	Q16251414
+oxy-acetylene welding	Q3776790
+saw	Q125356
+mortar and pestle	Q18341850
+soldering iron	Q623402
+Nippers	Q1993271
+friction stir welding	Q2068127
+rasp	Q277885
+wing nut	Q8025239
+Whetstone Mountains	Q4019477
+clasp	Q2239762
